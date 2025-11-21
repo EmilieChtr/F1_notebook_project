@@ -1,2 +1,20 @@
+# Ignore all CSV files
 data/**/*.csv
 
+# --- Données brutes et prétraitées ---
+data/raw/
+data/processed/
+
+# On autorise un dossier de petits échantillons versionnés
+!data/sample/
+
+# --- Fichiers temporaires Jupyter ---
+.ipynb_checkpoints/
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Environnements ---
+.env
+.venv/
