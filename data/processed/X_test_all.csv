@@ -1,0 +1,2210 @@
+grid,year,circuitRef,location,trackLength,trackTurns,driverRef,driverNationality,constructorRef,constructorNationality
+2,2020,monza,Monza,5.793,11,bottas,Finnish,mercedes,German
+16,1998,catalunya,Montmeló,4.657,14,trulli,Italian,prost,French
+8,2014,sepang,Kuala Lumpur,5.543,15,kevin_magnussen,Danish,mclaren,British
+1,2024,shanghai,Shanghai,5.451,16,max_verstappen,Dutch,red_bull,Austrian
+17,2024,suzuka,Suzuka,5.807,18,gasly,French,alpine,French
+19,2001,hockenheimring,Hockenheim,4.574,16,bernoldi,Brazilian,arrows,British
+14,2003,red_bull_ring,Spielberg,4.318,10,coulthard,British,mclaren,British
+1,2023,albert_park,Melbourne,5.278,16,max_verstappen,Dutch,red_bull,Austrian
+2,2018,bahrain,Sakhir,5.412,15,raikkonen,Finnish,ferrari,Italian
+8,2010,suzuka,Suzuka,5.807,18,hamilton,British,mclaren,British
+5,2015,villeneuve,Montreal,4.361,14,grosjean,French,lotus_f1,British
+10,1996,villeneuve,Montreal,4.361,14,coulthard,British,mclaren,British
+17,2008,sepang,Kuala Lumpur,5.543,15,fisichella,Italian,force_india,Indian
+14,2022,bahrain,Sakhir,5.412,15,albon,Thai,williams,British
+20,2010,villeneuve,Montreal,4.361,14,trulli,Italian,lotus_racing,Malaysian
+3,2017,suzuka,Suzuka,5.807,18,ricciardo,Australian,red_bull,Austrian
+6,2021,istanbul,Istanbul,5.338,14,perez,Mexican,red_bull,Austrian
+10,2000,catalunya,Montmeló,4.657,14,button,British,williams,British
+5,1998,magny_cours,Magny Cours,4.411,16,villeneuve,Canadian,williams,British
+15,2021,hungaroring,Budapest,4.381,14,sainz,Spanish,ferrari,Italian
+14,2009,yas_marina,Abu Dhabi,5.281,16,alguersuari,Spanish,toro_rosso,Italian
+11,2021,zandvoort,Zandvoort,4.259,14,russell,British,williams,British
+18,2013,bahrain,Sakhir,5.412,15,pic,French,caterham,Malaysian
+11,2003,indianapolis,Indianapolis,4.192,13,button,British,bar,British
+21,2014,sochi,Sochi,5.848,15,maldonado,Venezuelan,lotus_f1,British
+16,2012,monaco,Monte-Carlo,3.337,19,vergne,French,toro_rosso,Italian
+15,2021,bahrain,Sakhir,5.412,15,russell,British,williams,British
+12,2021,monaco,Monte-Carlo,3.337,19,ricciardo,Australian,mclaren,British
+15,1998,monaco,Monte-Carlo,3.337,19,damon_hill,British,jordan,Irish
+16,2005,sepang,Kuala Lumpur,5.543,15,villeneuve,Canadian,sauber,Swiss
+6,2000,albert_park,Melbourne,5.278,16,trulli,Italian,jordan,Irish
+17,2023,bahrain,Sakhir,5.412,15,kevin_magnussen,Danish,haas,American
+14,2023,rodriguez,Mexico City,4.304,17,albon,Thai,williams,British
+14,2008,valencia,Valencia,5.419,25,webber,Australian,red_bull,Austrian
+23,2011,shanghai,Shanghai,5.451,16,liuzzi,Italian,hrt,Spanish
+13,2022,zandvoort,Zandvoort,4.259,14,alonso,Spanish,alpine,French
+12,2020,hungaroring,Budapest,4.381,14,russell,British,williams,British
+4,2000,interlagos,São Paulo,4.309,15,barrichello,Brazilian,ferrari,Italian
+5,2001,hockenheimring,Hockenheim,4.574,16,coulthard,British,mclaren,British
+9,2006,imola,Imola,4.909,19,trulli,Italian,toyota,Japanese
+7,2015,catalunya,Montmeló,4.657,14,raikkonen,Finnish,ferrari,Italian
+10,2011,catalunya,Montmeló,4.657,14,michael_schumacher,German,mercedes,German
+8,2016,silverstone,Silverstone,5.891,18,hulkenberg,German,force_india,Indian
+10,2017,silverstone,Silverstone,5.891,18,grosjean,French,haas,American
+15,2017,villeneuve,Montreal,4.361,14,jolyon_palmer,British,renault,French
+20,2000,catalunya,Montmeló,4.657,14,gene,Spanish,minardi,Italian
+18,2019,villeneuve,Montreal,4.361,14,russell,British,williams,British
+7,2008,marina_bay,Marina Bay,4.94,19,glock,German,toyota,Japanese
+3,2002,silverstone,Silverstone,5.891,18,michael_schumacher,German,ferrari,Italian
+2,2013,spa,Spa,7.004,20,vettel,German,red_bull,Austrian
+2,2014,shanghai,Shanghai,5.451,16,ricciardo,Australian,red_bull,Austrian
+13,2006,hockenheimring,Hockenheim,4.574,16,villeneuve,Canadian,bmw_sauber,German
+6,2012,monza,Monza,5.793,11,rosberg,German,mercedes,German
+0,2019,baku,Baku,6.003,20,raikkonen,Finnish,alfa,Swiss
+1,2021,spa,Spa,7.004,20,max_verstappen,Dutch,red_bull,Austrian
+14,2024,miami,Miami,5.412,19,albon,Thai,williams,British
+1,2021,catalunya,Montmeló,4.657,14,hamilton,British,mercedes,German
+2,2000,hungaroring,Budapest,4.381,14,coulthard,British,mclaren,British
+22,1998,spa,Spa,7.004,20,tuero,Argentine,minardi,Italian
+17,2023,albert_park,Melbourne,5.278,16,zhou,Chinese,alfa,Swiss
+13,2010,monaco,Monte-Carlo,3.337,19,buemi,Swiss,toro_rosso,Italian
+7,2017,monza,Monza,5.793,11,massa,Brazilian,williams,British
+15,2011,monaco,Monte-Carlo,3.337,19,heidfeld,German,renault,French
+19,2017,spa,Spa,7.004,20,kvyat,Russian,toro_rosso,Italian
+1,2009,sepang,Kuala Lumpur,5.543,15,button,British,brawn,British
+1,2023,monza,Monza,5.793,11,sainz,Spanish,ferrari,Italian
+12,2011,monza,Monza,5.793,11,sutil,German,force_india,Indian
+16,2019,shanghai,Shanghai,5.451,16,stroll,Canadian,racing_point,British
+19,2017,bahrain,Sakhir,5.412,15,ericsson,Swedish,sauber,Swiss
+13,2008,catalunya,Montmeló,4.657,14,button,British,honda,Japanese
+9,2008,villeneuve,Montreal,4.361,14,barrichello,Brazilian,honda,Japanese
+18,2011,villeneuve,Montreal,4.361,14,trulli,Italian,lotus_racing,Malaysian
+5,2012,americas,Austin,5.513,20,michael_schumacher,German,mercedes,German
+3,2004,imola,Imola,4.909,19,montoya,Colombian,williams,British
+7,2007,istanbul,Istanbul,5.338,14,kovalainen,Finnish,renault,French
+6,2016,hungaroring,Budapest,4.381,14,sainz,Spanish,toro_rosso,Italian
+2,2019,villeneuve,Montreal,4.361,14,hamilton,British,mercedes,German
+9,2000,monaco,Monte-Carlo,3.337,19,ralf_schumacher,German,williams,British
+18,1998,catalunya,Montmeló,4.657,14,magnussen,Danish,stewart,British
+18,2023,vegas,Las Vegas,6.201,17,piastri,Australian,mclaren,British
+5,1998,imola,Imola,4.909,19,wurz,Austrian,benetton,Italian
+14,2004,indianapolis,Indianapolis,4.192,13,fisichella,Italian,sauber,Swiss
+4,2011,istanbul,Istanbul,5.338,14,hamilton,British,mclaren,British
+18,2020,red_bull_ring,Spielberg,4.318,10,giovinazzi,Italian,alfa,Swiss
+19,2005,monza,Monza,5.793,11,karthikeyan,Indian,jordan,Irish
+12,2018,americas,Austin,5.513,20,kevin_magnussen,Danish,haas,American
+19,1998,silverstone,Silverstone,5.891,18,nakano,Japanese,minardi,Italian
+8,2012,albert_park,Melbourne,5.278,16,maldonado,Venezuelan,williams,British
+7,2002,nurburgring,Nürburg,5.148,15,trulli,Italian,renault,French
+1,2024,catalunya,Montmeló,4.657,14,norris,British,mclaren,British
+20,2008,hockenheimring,Hockenheim,4.574,16,fisichella,Italian,force_india,Indian
+15,2005,spa,Spa,7.004,20,pizzonia,Brazilian,williams,British
+19,2023,hungaroring,Budapest,4.381,14,kevin_magnussen,Danish,haas,American
+1,2019,monaco,Monte-Carlo,3.337,19,hamilton,British,mercedes,German
+14,2007,spa,Spa,7.004,20,kubica,Polish,bmw_sauber,German
+17,2020,portimao,Portimão,4.653,15,giovinazzi,Italian,alfa,Swiss
+12,2019,villeneuve,Montreal,4.361,14,giovinazzi,Italian,alfa,Swiss
+8,2010,silverstone,Silverstone,5.891,18,barrichello,Brazilian,williams,British
+15,1998,suzuka,Suzuka,5.807,18,salo,Finnish,arrows,British
+17,2001,indianapolis,Indianapolis,4.192,13,alonso,Spanish,minardi,Italian
+9,2023,marina_bay,Marina Bay,4.94,19,hulkenberg,German,haas,American
+16,2021,hungaroring,Budapest,4.381,14,tsunoda,Japanese,alphatauri,Italian
+13,2024,bahrain,Sakhir,5.412,15,albon,Thai,williams,British
+13,2013,monaco,Monte-Carlo,3.337,19,grosjean,French,lotus_f1,British
+11,2002,sepang,Kuala Lumpur,5.543,15,frentzen,German,arrows,British
+8,2000,hockenheimring,Hockenheim,4.574,16,herbert,British,jaguar,British
+4,2017,hungaroring,Budapest,4.381,14,hamilton,British,mercedes,German
+3,2012,villeneuve,Montreal,4.361,14,alonso,Spanish,ferrari,Italian
+13,2003,interlagos,São Paulo,4.309,15,villeneuve,Canadian,bar,British
+4,2002,suzuka,Suzuka,5.807,18,raikkonen,Finnish,mclaren,British
+19,2003,sepang,Kuala Lumpur,5.543,15,wilson,British,minardi,Italian
+6,2009,spa,Spa,7.004,20,raikkonen,Finnish,ferrari,Italian
+14,2016,hockenheimring,Hockenheim,4.574,16,jolyon_palmer,British,renault,French
+12,2014,interlagos,São Paulo,4.309,15,hulkenberg,German,force_india,Indian
+17,2018,marina_bay,Marina Bay,4.94,19,brendon_hartley,New Zealander,toro_rosso,Italian
+1,2004,interlagos,São Paulo,4.309,15,barrichello,Brazilian,ferrari,Italian
+15,1998,hockenheimring,Hockenheim,4.574,16,takagi,Japanese,tyrrell,British
+7,2022,yas_marina,Abu Dhabi,5.281,16,norris,British,mclaren,British
+20,1999,catalunya,Montmeló,4.657,14,takagi,Japanese,arrows,British
+4,2019,baku,Baku,6.003,20,max_verstappen,Dutch,red_bull,Austrian
+3,2011,monza,Monza,5.793,11,button,British,mclaren,British
+9,1997,suzuka,Suzuka,5.807,18,fisichella,Italian,jordan,Irish
+22,2002,sepang,Kuala Lumpur,5.543,15,yoong,Malaysian,minardi,Italian
+15,2009,monaco,Monte-Carlo,3.337,19,sutil,German,force_india,Indian
+19,2005,imola,Imola,4.909,19,friesacher,Austrian,minardi,Italian
+11,2004,sepang,Kuala Lumpur,5.543,15,massa,Brazilian,sauber,Swiss
+5,2019,catalunya,Montmeló,4.657,14,leclerc,Monegasque,ferrari,Italian
+8,2019,yas_marina,Abu Dhabi,5.281,16,sainz,Spanish,mclaren,British
+20,1999,hungaroring,Budapest,4.381,14,rosa,Spanish,arrows,British
+17,2013,yas_marina,Abu Dhabi,5.281,16,sutil,German,force_india,Indian
+9,2015,bahrain,Sakhir,5.412,15,sainz,Spanish,toro_rosso,Italian
+9,2004,hungaroring,Budapest,4.381,14,trulli,Italian,renault,French
+20,2005,suzuka,Suzuka,5.807,18,monteiro,Portuguese,jordan,Irish
+14,1997,suzuka,Suzuka,5.807,18,magnussen,Danish,stewart,British
+5,2012,shanghai,Shanghai,5.451,16,button,British,mclaren,British
+5,2011,silverstone,Silverstone,5.891,18,button,British,mclaren,British
+11,2016,monaco,Monte-Carlo,3.337,19,raikkonen,Finnish,ferrari,Italian
+22,1997,catalunya,Montmeló,4.657,14,magnussen,Danish,stewart,British
+11,2007,silverstone,Silverstone,5.891,18,webber,Australian,red_bull,Austrian
+7,2005,monza,Monza,5.793,11,barrichello,Brazilian,ferrari,Italian
+1,2000,magny_cours,Magny Cours,4.411,16,michael_schumacher,German,ferrari,Italian
+2,2018,monaco,Monte-Carlo,3.337,19,vettel,German,ferrari,Italian
+1,2004,imola,Imola,4.909,19,button,British,bar,British
+21,2012,monza,Monza,5.793,11,karthikeyan,Indian,hrt,Spanish
+12,2018,hockenheimring,Hockenheim,4.574,16,sirotkin,Russian,williams,British
+1,2020,hungaroring,Budapest,4.381,14,hamilton,British,mercedes,German
+1,1996,silverstone,Silverstone,5.891,18,damon_hill,British,williams,British
+1,2009,yas_marina,Abu Dhabi,5.281,16,hamilton,British,mclaren,British
+11,2004,albert_park,Melbourne,5.278,16,massa,Brazilian,sauber,Swiss
+18,2012,albert_park,Melbourne,5.278,16,kovalainen,Finnish,caterham,Malaysian
+4,2024,miami,Miami,5.412,19,perez,Mexican,red_bull,Austrian
+14,2019,hockenheimring,Hockenheim,4.574,16,kvyat,Russian,toro_rosso,Italian
+9,2007,nurburgring,Nürburg,5.148,15,ralf_schumacher,German,toyota,Japanese
+19,1999,monza,Monza,5.793,11,badoer,Italian,minardi,Italian
+6,2001,catalunya,Montmeló,4.657,14,trulli,Italian,jordan,Irish
+4,2015,red_bull_ring,Spielberg,4.318,10,massa,Brazilian,williams,British
+5,2019,silverstone,Silverstone,5.891,18,gasly,French,red_bull,Austrian
+2,2015,rodriguez,Mexico City,4.304,17,hamilton,British,mercedes,German
+14,2002,imola,Imola,4.909,19,sato,Japanese,jordan,Irish
+21,2013,yas_marina,Abu Dhabi,5.281,16,jules_bianchi,French,marussia,Russian
+9,1998,monza,Monza,5.793,11,panis,French,prost,French
+3,2010,villeneuve,Montreal,4.361,14,alonso,Spanish,ferrari,Italian
+18,2010,yeongam,Yeongam County,5.615,18,trulli,Italian,lotus_racing,Malaysian
+8,2006,hockenheimring,Hockenheim,4.574,16,ralf_schumacher,German,toyota,Japanese
+13,2013,catalunya,Montmeló,4.657,14,sutil,German,force_india,Indian
+14,2001,hockenheimring,Hockenheim,4.574,16,alesi,French,prost,French
+3,2024,shanghai,Shanghai,5.451,16,alonso,Spanish,aston_martin,British
+18,2000,imola,Imola,4.909,19,button,British,williams,British
+4,2005,albert_park,Melbourne,5.278,16,villeneuve,Canadian,sauber,Swiss
+11,2012,buddh,Uttar Pradesh,5.141,16,grosjean,French,lotus_f1,British
+10,2015,sochi,Sochi,5.848,15,ricciardo,Australian,red_bull,Austrian
+6,2007,villeneuve,Montreal,4.361,14,webber,Australian,red_bull,Austrian
+23,2012,silverstone,Silverstone,5.891,18,vergne,French,toro_rosso,Italian
+6,2021,imola,Imola,4.909,19,ricciardo,Australian,mclaren,British
+22,2011,sepang,Kuala Lumpur,5.543,15,ambrosio,Belgian,virgin,British
+7,2024,miami,Miami,5.412,19,russell,British,mercedes,German
+12,2014,sochi,Sochi,5.848,15,perez,Mexican,force_india,Indian
+10,2020,silverstone,Silverstone,5.891,18,vettel,German,ferrari,Italian
+5,2010,valencia,Valencia,5.419,25,massa,Brazilian,ferrari,Italian
+14,2013,yas_marina,Abu Dhabi,5.281,16,maldonado,Venezuelan,williams,British
+8,2011,hungaroring,Budapest,4.381,14,sutil,German,force_india,Indian
+3,2016,catalunya,Montmeló,4.657,14,ricciardo,Australian,red_bull,Austrian
+10,2016,sochi,Sochi,5.848,15,hamilton,British,mercedes,German
+9,2000,villeneuve,Montreal,4.361,14,rosa,Spanish,arrows,British
+7,2008,catalunya,Montmeló,4.657,14,webber,Australian,red_bull,Austrian
+18,2006,hockenheimring,Hockenheim,4.574,16,monteiro,Portuguese,mf1,Russian
+22,1997,silverstone,Silverstone,5.891,18,barrichello,Brazilian,stewart,British
+14,2002,villeneuve,Montreal,4.361,14,irvine,British,jaguar,British
+14,2014,catalunya,Montmeló,4.657,14,kevin_magnussen,Danish,mclaren,British
+14,2024,zandvoort,Zandvoort,4.259,14,hamilton,British,mercedes,German
+16,1999,hungaroring,Budapest,4.381,14,ralf_schumacher,German,williams,British
+12,2017,spa,Spa,7.004,20,kevin_magnussen,Danish,haas,American
+7,2024,catalunya,Montmeló,4.657,14,gasly,French,alpine,French
+6,2012,yeongam,Yeongam County,5.615,18,massa,Brazilian,ferrari,Italian
+20,1998,hockenheimring,Hockenheim,4.574,16,nakano,Japanese,minardi,Italian
+15,2019,yas_marina,Abu Dhabi,5.281,16,grosjean,French,haas,American
+16,2015,americas,Austin,5.513,20,bottas,Finnish,williams,British
+18,1996,suzuka,Suzuka,5.807,18,lamy,Portuguese,minardi,Italian
+16,2008,istanbul,Istanbul,5.338,14,nakajima,Japanese,williams,British
+16,2006,bahrain,Sakhir,5.412,15,speed,American,toro_rosso,Italian
+3,2010,hockenheimring,Hockenheim,4.574,16,massa,Brazilian,ferrari,Italian
+19,2012,americas,Austin,5.513,20,glock,German,marussia,Russian
+6,2013,yas_marina,Abu Dhabi,5.281,16,grosjean,French,lotus_f1,British
+16,2019,yas_marina,Abu Dhabi,5.281,16,giovinazzi,Italian,alfa,Swiss
+17,1996,spa,Spa,7.004,20,katayama,Japanese,tyrrell,British
+18,2001,magny_cours,Magny Cours,4.411,16,verstappen,Dutch,arrows,British
+15,2021,jeddah,Jeddah,6.174,27,sainz,Spanish,ferrari,Italian
+2,2024,red_bull_ring,Spielberg,4.318,10,norris,British,mclaren,British
+2,2024,losail,Al Daayen,5.419,16,max_verstappen,Dutch,red_bull,Austrian
+6,2019,americas,Austin,5.513,20,albon,Thai,red_bull,Austrian
+20,2020,portimao,Portimão,4.653,15,latifi,Canadian,williams,British
+4,2020,sochi,Sochi,5.848,15,perez,Mexican,racing_point,British
+8,2018,albert_park,Melbourne,5.278,16,ricciardo,Australian,red_bull,Austrian
+14,2018,interlagos,São Paulo,4.309,15,sirotkin,Russian,williams,British
+18,2024,losail,Al Daayen,5.419,16,hulkenberg,German,haas,American
+2,2009,monaco,Monte-Carlo,3.337,19,raikkonen,Finnish,ferrari,Italian
+14,2004,sepang,Kuala Lumpur,5.543,15,panis,French,toyota,Japanese
+10,2008,villeneuve,Montreal,4.361,14,webber,Australian,red_bull,Austrian
+7,2008,monza,Monza,5.793,11,trulli,Italian,toyota,Japanese
+5,2008,silverstone,Silverstone,5.891,18,heidfeld,German,bmw_sauber,German
+2,2021,jeddah,Jeddah,6.174,27,bottas,Finnish,mercedes,German
+12,2013,nurburgring,Nürburg,5.148,15,resta,British,force_india,Indian
+1,2012,americas,Austin,5.513,20,vettel,German,red_bull,Austrian
+12,1997,red_bull_ring,Spielberg,4.318,10,herbert,British,sauber,Swiss
+3,1996,imola,Imola,4.909,19,villeneuve,Canadian,williams,British
+6,2019,baku,Baku,6.003,20,kvyat,Russian,toro_rosso,Italian
+11,2015,villeneuve,Montreal,4.361,14,sainz,Spanish,toro_rosso,Italian
+11,2024,baku,Baku,6.003,20,tsunoda,Japanese,rb,Italian
+9,2024,baku,Baku,6.003,20,albon,Thai,williams,British
+19,2013,buddh,Uttar Pradesh,5.141,16,jules_bianchi,French,marussia,Russian
+14,2003,nurburgring,Nürburg,5.148,15,firman,Irish,jordan,Irish
+17,2024,yas_marina,Abu Dhabi,5.281,16,doohan,Australian,alpine,French
+4,2002,red_bull_ring,Spielberg,4.318,10,montoya,Colombian,williams,British
+4,2005,shanghai,Shanghai,5.451,16,button,British,bar,British
+6,2018,monaco,Monte-Carlo,3.337,19,ocon,French,force_india,Indian
+16,2023,zandvoort,Zandvoort,4.259,14,ocon,French,alpine,French
+16,2020,portimao,Portimão,4.653,15,raikkonen,Finnish,alfa,Swiss
+17,2003,silverstone,Silverstone,5.891,18,firman,Irish,jordan,Irish
+2,2007,monaco,Monte-Carlo,3.337,19,hamilton,British,mclaren,British
+1,1997,red_bull_ring,Spielberg,4.318,10,villeneuve,Canadian,williams,British
+4,2020,silverstone,Silverstone,5.891,18,leclerc,Monegasque,ferrari,Italian
+5,2006,monaco,Monte-Carlo,3.337,19,barrichello,Brazilian,honda,Japanese
+19,2001,monaco,Monte-Carlo,3.337,19,verstappen,Dutch,arrows,British
+14,2020,portimao,Portimão,4.653,15,russell,British,williams,British
+9,2023,vegas,Las Vegas,6.201,17,alonso,Spanish,aston_martin,British
+4,2001,spa,Spa,7.004,20,frentzen,German,prost,French
+6,2020,silverstone,Silverstone,5.891,18,stroll,Canadian,racing_point,British
+11,2009,interlagos,São Paulo,4.309,15,kobayashi,Japanese,toyota,Japanese
+22,2012,hockenheimring,Hockenheim,4.574,16,glock,German,marussia,Russian
+20,2002,monza,Monza,5.793,11,yoong,Malaysian,minardi,Italian
+24,2010,interlagos,São Paulo,4.309,15,bruno_senna,Brazilian,hrt,Spanish
+8,2015,monaco,Monte-Carlo,3.337,19,maldonado,Venezuelan,lotus_f1,British
+18,2002,nurburgring,Nürburg,5.148,15,fisichella,Italian,jordan,Irish
+20,2001,hockenheimring,Hockenheim,4.574,16,verstappen,Dutch,arrows,British
+10,2007,nurburgring,Nürburg,5.148,15,hamilton,British,mclaren,British
+5,2009,marina_bay,Marina Bay,4.94,19,alonso,Spanish,renault,French
+7,2006,monza,Monza,5.793,11,rosa,Spanish,mclaren,British
+8,2003,albert_park,Melbourne,5.278,16,button,British,bar,British
+14,2022,baku,Baku,6.003,20,zhou,Chinese,alfa,Swiss
+17,2004,hungaroring,Budapest,4.381,14,pantano,Italian,jordan,Irish
+4,1999,villeneuve,Montreal,4.361,14,coulthard,British,mclaren,British
+14,1997,hockenheimring,Hockenheim,4.574,16,herbert,British,sauber,Swiss
+4,2011,marina_bay,Marina Bay,4.94,19,hamilton,British,mclaren,British
+5,2021,red_bull_ring,Spielberg,4.318,10,bottas,Finnish,mercedes,German
+7,2008,shanghai,Shanghai,5.451,16,trulli,Italian,toyota,Japanese
+18,2009,sepang,Kuala Lumpur,5.543,15,fisichella,Italian,force_india,Indian
+3,2023,rodriguez,Mexico City,4.304,17,max_verstappen,Dutch,red_bull,Austrian
+17,2022,americas,Austin,5.513,20,latifi,Canadian,williams,British
+5,2012,monaco,Monte-Carlo,3.337,19,alonso,Spanish,ferrari,Italian
+9,2000,sepang,Kuala Lumpur,5.543,15,trulli,Italian,jordan,Irish
+6,2024,spa,Spa,7.004,20,russell,British,mercedes,German
+15,2024,albert_park,Melbourne,5.278,16,ocon,French,alpine,French
+16,2009,monaco,Monte-Carlo,3.337,19,heidfeld,German,bmw_sauber,German
+12,2006,imola,Imola,4.909,19,villeneuve,Canadian,bmw_sauber,German
+16,2024,imola,Imola,4.909,19,bottas,Finnish,sauber,Swiss
+4,2009,yas_marina,Abu Dhabi,5.281,16,barrichello,Brazilian,brawn,British
+23,2011,hungaroring,Budapest,4.381,14,buemi,Swiss,toro_rosso,Italian
+18,2019,hungaroring,Budapest,4.381,14,stroll,Canadian,racing_point,British
+15,2021,americas,Austin,5.513,20,raikkonen,Finnish,alfa,Swiss
+6,2016,baku,Baku,6.003,20,kvyat,Russian,toro_rosso,Italian
+3,2018,americas,Austin,5.513,20,bottas,Finnish,mercedes,German
+19,2022,silverstone,Silverstone,5.891,18,mick_schumacher,German,haas,American
+10,2024,vegas,Las Vegas,6.201,17,hamilton,British,mercedes,German
+18,2021,interlagos,São Paulo,4.309,15,mick_schumacher,German,haas,American
+10,2009,spa,Spa,7.004,20,rosberg,German,williams,British
+9,2005,bahrain,Sakhir,5.412,15,raikkonen,Finnish,mclaren,British
+7,2016,sepang,Kuala Lumpur,5.543,15,perez,Mexican,force_india,Indian
+12,2003,catalunya,Montmeló,4.657,14,webber,Australian,jaguar,British
+5,2006,interlagos,São Paulo,4.309,15,barrichello,Brazilian,honda,Japanese
+16,2022,catalunya,Montmeló,4.657,14,vettel,German,aston_martin,British
+20,2014,yas_marina,Abu Dhabi,5.281,16,ricciardo,Australian,red_bull,Austrian
+11,2014,marina_bay,Marina Bay,4.94,19,button,British,mclaren,British
+12,2023,jeddah,Jeddah,6.174,27,leclerc,Monegasque,ferrari,Italian
+10,2003,albert_park,Melbourne,5.278,16,alonso,Spanish,renault,French
+9,2024,interlagos,São Paulo,4.309,15,alonso,Spanish,aston_martin,British
+7,2023,interlagos,São Paulo,4.309,15,sainz,Spanish,ferrari,Italian
+13,2011,shanghai,Shanghai,5.451,16,kobayashi,Japanese,sauber,Swiss
+9,2013,monaco,Monte-Carlo,3.337,19,button,British,mclaren,British
+16,2010,silverstone,Silverstone,5.891,18,buemi,Swiss,toro_rosso,Italian
+16,2002,suzuka,Suzuka,5.807,18,panis,French,bar,British
+14,2017,albert_park,Melbourne,5.278,16,ericsson,Swedish,sauber,Swiss
+5,2012,hungaroring,Budapest,4.381,14,raikkonen,Finnish,lotus_f1,British
+16,2017,rodriguez,Mexico City,4.304,17,ricciardo,Australian,red_bull,Austrian
+7,2024,vegas,Las Vegas,6.201,17,tsunoda,Japanese,rb,Italian
+10,2013,albert_park,Melbourne,5.278,16,button,British,mclaren,British
+6,2023,silverstone,Silverstone,5.891,18,russell,British,mercedes,German
+7,2007,shanghai,Shanghai,5.451,16,webber,Australian,red_bull,Austrian
+13,2005,monaco,Monte-Carlo,3.337,19,friesacher,Austrian,minardi,Italian
+5,2024,losail,Al Daayen,5.419,16,leclerc,Monegasque,ferrari,Italian
+4,2002,hungaroring,Budapest,4.381,14,montoya,Colombian,williams,British
+5,1998,albert_park,Melbourne,5.278,16,herbert,British,sauber,Swiss
+1,2000,interlagos,São Paulo,4.309,15,hakkinen,Finnish,mclaren,British
+17,2014,catalunya,Montmeló,4.657,14,chilton,British,marussia,Russian
+13,1996,estoril,Estoril,4.36,13,salo,Finnish,tyrrell,British
+13,2018,marina_bay,Marina Bay,4.94,19,leclerc,Monegasque,sauber,Swiss
+19,2000,interlagos,São Paulo,4.309,15,heidfeld,German,prost,French
+4,2016,suzuka,Suzuka,5.807,18,ricciardo,Australian,red_bull,Austrian
+9,2013,marina_bay,Marina Bay,4.94,19,ricciardo,Australian,toro_rosso,Italian
+10,2017,spa,Spa,7.004,20,alonso,Spanish,mclaren,British
+19,2018,monaco,Monte-Carlo,3.337,19,kevin_magnussen,Danish,haas,American
+20,1999,albert_park,Melbourne,5.278,16,panis,French,prost,French
+4,2022,americas,Austin,5.513,20,russell,British,mercedes,German
+14,2017,americas,Austin,5.513,20,wehrlein,German,sauber,Swiss
+8,2023,losail,Al Daayen,5.419,16,ocon,French,alpine,French
+11,2011,interlagos,São Paulo,4.309,15,resta,British,force_india,Indian
+18,2005,interlagos,São Paulo,4.309,15,doornbos,Dutch,minardi,Italian
+1,2019,hungaroring,Budapest,4.381,14,max_verstappen,Dutch,red_bull,Austrian
+3,2004,nurburgring,Nürburg,5.148,15,trulli,Italian,renault,French
+11,2010,marina_bay,Marina Bay,4.94,19,alguersuari,Spanish,toro_rosso,Italian
+18,2005,magny_cours,Magny Cours,4.411,16,friesacher,Austrian,minardi,Italian
+14,2020,spa,Spa,7.004,20,vettel,German,ferrari,Italian
+3,1996,galvez,Buenos Aires,4.259,18,villeneuve,Canadian,williams,British
+19,2015,marina_bay,Marina Bay,4.94,19,stevens,British,manor,British
+10,2012,monza,Monza,5.793,11,alonso,Spanish,ferrari,Italian
+10,2002,silverstone,Silverstone,5.891,18,heidfeld,German,sauber,Swiss
+13,2020,sochi,Sochi,5.848,15,russell,British,williams,British
+17,2000,suzuka,Suzuka,5.807,18,alesi,French,prost,French
+16,2018,rodriguez,Mexico City,4.304,17,kevin_magnussen,Danish,haas,American
+14,2022,albert_park,Melbourne,5.278,16,zhou,Chinese,alfa,Swiss
+22,1999,magny_cours,Magny Cours,4.411,16,takagi,Japanese,arrows,British
+13,1997,villeneuve,Montreal,4.361,14,herbert,British,sauber,Swiss
+18,2016,marina_bay,Marina Bay,4.94,19,jolyon_palmer,British,renault,French
+19,2020,red_bull_ring,Spielberg,4.318,10,giovinazzi,Italian,alfa,Swiss
+15,2012,marina_bay,Marina Bay,4.94,19,ricciardo,Australian,toro_rosso,Italian
+1,2006,catalunya,Montmeló,4.657,14,alonso,Spanish,renault,French
+5,2010,yeongam,Yeongam County,5.615,18,rosberg,German,mercedes,German
+6,2021,americas,Austin,5.513,20,ricciardo,Australian,mclaren,British
+13,2012,albert_park,Melbourne,5.278,16,kobayashi,Japanese,sauber,Swiss
+1,2008,interlagos,São Paulo,4.309,15,massa,Brazilian,ferrari,Italian
+4,2015,suzuka,Suzuka,5.807,18,vettel,German,ferrari,Italian
+23,2011,silverstone,Silverstone,5.891,18,liuzzi,Italian,hrt,Spanish
+15,2023,jeddah,Jeddah,6.174,27,max_verstappen,Dutch,red_bull,Austrian
+13,2008,monaco,Monte-Carlo,3.337,19,nakajima,Japanese,williams,British
+6,2023,miami,Miami,5.412,19,russell,British,mercedes,German
+18,1997,imola,Imola,4.909,19,nakano,Japanese,prost,French
+19,2018,ricard,Le Castellet,5.842,15,stroll,Canadian,williams,British
+15,2005,catalunya,Montmeló,4.657,14,friesacher,Austrian,minardi,Italian
+1,2005,silverstone,Silverstone,5.891,18,alonso,Spanish,renault,French
+10,2013,marina_bay,Marina Bay,4.94,19,gutierrez,Mexican,sauber,Swiss
+2,2006,hockenheimring,Hockenheim,4.574,16,michael_schumacher,German,ferrari,Italian
+3,2014,interlagos,São Paulo,4.309,15,massa,Brazilian,williams,British
+2,1996,albert_park,Melbourne,5.278,16,damon_hill,British,williams,British
+9,2022,monaco,Monte-Carlo,3.337,19,vettel,German,aston_martin,British
+12,2002,spa,Spa,7.004,20,villeneuve,Canadian,bar,British
+3,2023,miami,Miami,5.412,19,sainz,Spanish,ferrari,Italian
+5,2019,rodriguez,Mexico City,4.304,17,albon,Thai,red_bull,Austrian
+19,2010,hockenheimring,Hockenheim,4.574,16,sutil,German,force_india,Indian
+7,2010,suzuka,Suzuka,5.807,18,barrichello,Brazilian,williams,British
+16,2014,marina_bay,Marina Bay,4.94,19,grosjean,French,lotus_f1,British
+8,1999,monaco,Monte-Carlo,3.337,19,villeneuve,Canadian,bar,British
+5,2015,catalunya,Montmeló,4.657,14,sainz,Spanish,toro_rosso,Italian
+2,2004,magny_cours,Magny Cours,4.411,16,michael_schumacher,German,ferrari,Italian
+2,2023,miami,Miami,5.412,19,alonso,Spanish,aston_martin,British
+11,1999,hungaroring,Budapest,4.381,14,alesi,French,sauber,Swiss
+10,2013,suzuka,Suzuka,5.807,18,button,British,mclaren,British
+3,2005,istanbul,Istanbul,5.338,14,alonso,Spanish,renault,French
+20,2022,catalunya,Montmeló,4.657,14,alonso,Spanish,alpine,French
+4,2023,bahrain,Sakhir,5.412,15,sainz,Spanish,ferrari,Italian
+5,2016,bahrain,Sakhir,5.412,15,ricciardo,Australian,red_bull,Austrian
+13,2022,interlagos,São Paulo,4.309,15,zhou,Chinese,alfa,Swiss
+13,2021,losail,Al Daayen,5.419,16,leclerc,Monegasque,ferrari,Italian
+10,2020,imola,Imola,4.909,19,sainz,Spanish,mclaren,British
+10,2019,albert_park,Melbourne,5.278,16,perez,Mexican,racing_point,British
+8,2012,suzuka,Suzuka,5.807,18,button,British,mclaren,British
+18,2005,catalunya,Montmeló,4.657,14,monteiro,Portuguese,jordan,Irish
+13,2001,magny_cours,Magny Cours,4.411,16,raikkonen,Finnish,sauber,Swiss
+6,2005,hockenheimring,Hockenheim,4.574,16,webber,Australian,williams,British
+14,2018,silverstone,Silverstone,5.891,18,gasly,French,toro_rosso,Italian
+8,2010,shanghai,Shanghai,5.451,16,kubica,Polish,renault,French
+10,2004,magny_cours,Magny Cours,4.411,16,barrichello,Brazilian,ferrari,Italian
+18,2015,americas,Austin,5.513,20,raikkonen,Finnish,ferrari,Italian
+14,1997,galvez,Buenos Aires,4.259,18,larini,Italian,sauber,Swiss
+3,2023,zandvoort,Zandvoort,4.259,14,russell,British,mercedes,German
+10,1996,estoril,Estoril,4.36,13,brundle,British,jordan,Irish
+11,1997,spa,Spa,7.004,20,herbert,British,sauber,Swiss
+7,1996,monaco,Monte-Carlo,3.337,19,irvine,British,ferrari,Italian
+6,2010,albert_park,Melbourne,5.278,16,rosberg,German,mercedes,German
+7,2016,monza,Monza,5.793,11,max_verstappen,Dutch,red_bull,Austrian
+10,1996,galvez,Buenos Aires,4.259,18,irvine,British,ferrari,Italian
+3,2019,rodriguez,Mexico City,4.304,17,hamilton,British,mercedes,German
+3,2002,villeneuve,Montreal,4.361,14,barrichello,Brazilian,ferrari,Italian
+17,2013,hungaroring,Budapest,4.381,14,gutierrez,Mexican,sauber,Swiss
+17,2014,sochi,Sochi,5.848,15,hulkenberg,German,force_india,Indian
+15,2009,spa,Spa,7.004,20,kovalainen,Finnish,mclaren,British
+12,2004,villeneuve,Montreal,4.361,14,matta,Brazilian,toyota,Japanese
+12,2013,buddh,Uttar Pradesh,5.141,16,resta,British,force_india,Indian
+1,2024,rodriguez,Mexico City,4.304,17,sainz,Spanish,ferrari,Italian
+20,1998,nurburgring,Nürburg,5.148,15,nakano,Japanese,minardi,Italian
+8,2000,suzuka,Suzuka,5.807,18,frentzen,German,jordan,Irish
+21,2016,villeneuve,Montreal,4.361,14,ericsson,Swedish,sauber,Swiss
+5,2024,interlagos,São Paulo,4.309,15,lawson,New Zealander,rb,Italian
+9,2015,hungaroring,Budapest,4.381,14,max_verstappen,Dutch,toro_rosso,Italian
+9,2024,albert_park,Melbourne,5.278,16,stroll,Canadian,aston_martin,British
+20,2006,villeneuve,Montreal,4.361,14,sato,Japanese,super_aguri,Japanese
+5,1999,spa,Spa,7.004,20,ralf_schumacher,German,williams,British
+5,1999,hungaroring,Budapest,4.381,14,frentzen,German,jordan,Irish
+13,2005,monza,Monza,5.793,11,klien,Austrian,red_bull,Austrian
+9,2013,yeongam,Yeongam County,5.615,18,raikkonen,Finnish,lotus_f1,British
+12,2017,shanghai,Shanghai,5.451,16,kevin_magnussen,Danish,haas,American
+6,2001,monza,Monza,5.793,11,coulthard,British,mclaren,British
+8,2012,marina_bay,Marina Bay,4.94,19,grosjean,French,lotus_f1,British
+5,2013,suzuka,Suzuka,5.807,18,massa,Brazilian,ferrari,Italian
+6,2024,rodriguez,Mexico City,4.304,17,hamilton,British,mercedes,German
+19,2022,interlagos,São Paulo,4.309,15,albon,Thai,williams,British
+12,2005,spa,Spa,7.004,20,barrichello,Brazilian,ferrari,Italian
+9,2021,ricard,Le Castellet,5.842,15,alonso,Spanish,alpine,French
+17,2021,bahrain,Sakhir,5.412,15,latifi,Canadian,williams,British
+21,2000,red_bull_ring,Spielberg,4.318,10,burti,Brazilian,jaguar,British
+15,2008,fuji,Oyama,4.563,16,rosberg,German,williams,British
+1,2021,red_bull_ring,Spielberg,4.318,10,max_verstappen,Dutch,red_bull,Austrian
+1,2022,villeneuve,Montreal,4.361,14,max_verstappen,Dutch,red_bull,Austrian
+19,2019,hockenheimring,Hockenheim,4.574,16,norris,British,mclaren,British
+20,2010,monza,Monza,5.793,11,petrov,Russian,renault,French
+19,2016,villeneuve,Montreal,4.361,14,haryanto,Indonesian,manor,British
+16,1998,monza,Monza,5.793,11,salo,Finnish,arrows,British
+22,2008,sepang,Kuala Lumpur,5.543,15,nakajima,Japanese,williams,British
+22,1999,spa,Spa,7.004,20,rosa,Spanish,arrows,British
+21,1998,villeneuve,Montreal,4.361,14,tuero,Argentine,minardi,Italian
+13,2003,sepang,Kuala Lumpur,5.543,15,frentzen,German,sauber,Swiss
+1,2023,miami,Miami,5.412,19,perez,Mexican,red_bull,Austrian
+4,2015,silverstone,Silverstone,5.891,18,bottas,Finnish,williams,British
+10,2000,silverstone,Silverstone,5.891,18,villeneuve,Canadian,bar,British
+8,1998,monza,Monza,5.793,11,alesi,French,sauber,Swiss
+14,2018,hockenheimring,Hockenheim,4.574,16,hamilton,British,mercedes,German
+2,2014,sochi,Sochi,5.848,15,rosberg,German,mercedes,German
+8,2000,spa,Spa,7.004,20,frentzen,German,jordan,Irish
+2,2016,americas,Austin,5.513,20,rosberg,German,mercedes,German
+20,2006,silverstone,Silverstone,5.891,18,sato,Japanese,super_aguri,Japanese
+20,2018,catalunya,Montmeló,4.657,14,brendon_hartley,New Zealander,toro_rosso,Italian
+1,2005,bahrain,Sakhir,5.412,15,alonso,Spanish,renault,French
+18,2015,sepang,Kuala Lumpur,5.543,15,alonso,Spanish,mclaren,British
+20,2022,bahrain,Sakhir,5.412,15,latifi,Canadian,williams,British
+13,2019,sochi,Sochi,5.848,15,kevin_magnussen,Danish,haas,American
+11,2009,shanghai,Shanghai,5.451,16,heidfeld,German,bmw_sauber,German
+2,2011,yas_marina,Abu Dhabi,5.281,16,hamilton,British,mclaren,British
+5,1997,nurburgring,Nürburg,5.148,15,michael_schumacher,German,ferrari,Italian
+1,2023,monaco,Monte-Carlo,3.337,19,max_verstappen,Dutch,red_bull,Austrian
+1,2021,monza,Monza,5.793,11,max_verstappen,Dutch,red_bull,Austrian
+14,2005,istanbul,Istanbul,5.338,14,monteiro,Portuguese,jordan,Irish
+17,2015,spa,Spa,7.004,20,merhi,Spanish,manor,British
+3,2022,baku,Baku,6.003,20,max_verstappen,Dutch,red_bull,Austrian
+12,2020,yas_marina,Abu Dhabi,5.281,16,leclerc,Monegasque,ferrari,Italian
+7,1996,hungaroring,Budapest,4.381,14,hakkinen,Finnish,mclaren,British
+9,2018,ricard,Le Castellet,5.842,15,kevin_magnussen,Danish,haas,American
+7,2008,interlagos,São Paulo,4.309,15,vettel,German,toro_rosso,Italian
+15,2011,hungaroring,Budapest,4.381,14,barrichello,Brazilian,williams,British
+1,2010,albert_park,Melbourne,5.278,16,vettel,German,red_bull,Austrian
+1,2009,bahrain,Sakhir,5.412,15,trulli,Italian,toyota,Japanese
+8,2019,spa,Spa,7.004,20,kevin_magnussen,Danish,haas,American
+11,2019,ricard,Le Castellet,5.842,15,albon,Thai,toro_rosso,Italian
+8,2016,albert_park,Melbourne,5.278,16,ricciardo,Australian,red_bull,Austrian
+14,2008,monza,Monza,5.793,11,raikkonen,Finnish,ferrari,Italian
+22,2016,sepang,Kuala Lumpur,5.543,15,alonso,Spanish,mclaren,British
+13,1997,catalunya,Montmeló,4.657,14,morbidelli,Italian,sauber,Swiss
+1,2020,yas_marina,Abu Dhabi,5.281,16,max_verstappen,Dutch,red_bull,Austrian
+2,1997,villeneuve,Montreal,4.361,14,villeneuve,Canadian,williams,British
+1,2003,albert_park,Melbourne,5.278,16,michael_schumacher,German,ferrari,Italian
+8,2024,vegas,Las Vegas,6.201,17,piastri,Australian,mclaren,British
+5,2019,monza,Monza,5.793,11,ricciardo,Australian,renault,French
+2,1996,villeneuve,Montreal,4.361,14,villeneuve,Canadian,williams,British
+16,1998,albert_park,Melbourne,5.278,16,salo,Finnish,arrows,British
+11,2024,monza,Monza,5.793,11,alonso,Spanish,aston_martin,British
+0,2020,istanbul,Istanbul,5.338,14,russell,British,williams,British
+5,1997,silverstone,Silverstone,5.891,18,ralf_schumacher,German,jordan,Irish
+10,2021,yas_marina,Abu Dhabi,5.281,16,ricciardo,Australian,mclaren,British
+9,2007,hungaroring,Budapest,4.381,14,webber,Australian,red_bull,Austrian
+3,2014,red_bull_ring,Spielberg,4.318,10,rosberg,German,mercedes,German
+24,2012,buddh,Uttar Pradesh,5.141,16,pic,French,marussia,Russian
+12,2007,spa,Spa,7.004,20,button,British,honda,Japanese
+18,2004,hockenheimring,Hockenheim,4.574,16,heidfeld,German,jordan,Irish
+7,2013,albert_park,Melbourne,5.278,16,raikkonen,Finnish,lotus_f1,British
+11,2006,imola,Imola,4.909,19,fisichella,Italian,renault,French
+9,2008,hungaroring,Budapest,4.381,14,trulli,Italian,toyota,Japanese
+22,2006,hockenheimring,Hockenheim,4.574,16,yamamoto,Japanese,super_aguri,Japanese
+24,2011,nurburgring,Nürburg,5.148,15,buemi,Swiss,toro_rosso,Italian
+13,1997,magny_cours,Magny Cours,4.411,16,barrichello,Brazilian,stewart,British
+10,2017,hungaroring,Budapest,4.381,14,jolyon_palmer,British,renault,French
+18,2021,hungaroring,Budapest,4.381,14,latifi,Canadian,williams,British
+2,2020,mugello,Mugello,5.245,15,bottas,Finnish,mercedes,German
+6,2018,hockenheimring,Hockenheim,4.574,16,grosjean,French,haas,American
+5,2010,interlagos,São Paulo,4.309,15,alonso,Spanish,ferrari,Italian
+18,1998,monaco,Monte-Carlo,3.337,19,panis,French,prost,French
+21,2011,yeongam,Yeongam County,5.615,18,glock,German,virgin,British
+9,2001,monza,Monza,5.793,11,raikkonen,Finnish,sauber,Swiss
+20,2017,shanghai,Shanghai,5.451,16,jolyon_palmer,British,renault,French
+17,2002,monza,Monza,5.793,11,button,British,renault,French
+8,2017,americas,Austin,5.513,20,alonso,Spanish,mclaren,British
+17,2009,nurburgring,Nürburg,5.148,15,buemi,Swiss,toro_rosso,Italian
+8,2011,interlagos,São Paulo,4.309,15,sutil,German,force_india,Indian
+3,2009,nurburgring,Nürburg,5.148,15,button,British,brawn,British
+20,1997,hockenheimring,Hockenheim,4.574,16,verstappen,Dutch,tyrrell,British
+6,2024,losail,Al Daayen,5.419,16,hamilton,British,mercedes,German
+17,2022,marina_bay,Marina Bay,4.94,19,ocon,French,alpine,French
+3,2001,suzuka,Suzuka,5.807,18,ralf_schumacher,German,williams,British
+7,2012,marina_bay,Marina Bay,4.94,19,webber,Australian,red_bull,Austrian
+15,2005,villeneuve,Montreal,4.361,14,albers,Dutch,minardi,Italian
+4,2011,monza,Monza,5.793,11,alonso,Spanish,ferrari,Italian
+13,2021,jeddah,Jeddah,6.174,27,alonso,Spanish,alpine,French
+19,2018,red_bull_ring,Spielberg,4.318,10,brendon_hartley,New Zealander,toro_rosso,Italian
+7,2020,sochi,Sochi,5.848,15,ocon,French,renault,French
+16,2023,silverstone,Silverstone,5.891,18,tsunoda,Japanese,alphatauri,Italian
+13,2018,suzuka,Suzuka,5.807,18,sainz,Spanish,renault,French
+5,2012,valencia,Valencia,5.419,25,raikkonen,Finnish,lotus_f1,British
+19,2021,red_bull_ring,Spielberg,4.318,10,mick_schumacher,German,haas,American
+6,2008,spa,Spa,7.004,20,alonso,Spanish,renault,French
+16,2023,red_bull_ring,Spielberg,4.318,10,tsunoda,Japanese,alphatauri,Italian
+12,2002,imola,Imola,4.909,19,panis,French,bar,British
+16,2018,monaco,Monte-Carlo,3.337,19,ericsson,Swedish,sauber,Swiss
+10,2005,catalunya,Montmeló,4.657,14,massa,Brazilian,sauber,Swiss
+17,2005,interlagos,São Paulo,4.309,15,trulli,Italian,toyota,Japanese
+19,1999,hockenheimring,Hockenheim,4.574,16,badoer,Italian,minardi,Italian
+14,2005,magny_cours,Magny Cours,4.411,16,heidfeld,German,williams,British
+5,2024,marina_bay,Marina Bay,4.94,19,piastri,Australian,mclaren,British
+12,2019,suzuka,Suzuka,5.807,18,stroll,Canadian,racing_point,British
+20,2001,suzuka,Suzuka,5.807,18,bernoldi,Brazilian,arrows,British
+15,2008,monaco,Monte-Carlo,3.337,19,coulthard,British,red_bull,Austrian
+18,2013,silverstone,Silverstone,5.891,18,pic,French,caterham,Malaysian
+19,2009,shanghai,Shanghai,5.451,16,glock,German,toyota,Japanese
+8,2021,sochi,Sochi,5.848,15,perez,Mexican,red_bull,Austrian
+14,2017,catalunya,Montmeló,4.657,14,grosjean,French,haas,American
+13,2017,suzuka,Suzuka,5.807,18,grosjean,French,haas,American
+15,2005,hockenheimring,Hockenheim,4.574,16,barrichello,Brazilian,ferrari,Italian
+15,1996,albert_park,Melbourne,5.278,16,katayama,Japanese,tyrrell,British
+20,1996,hungaroring,Budapest,4.381,14,lavaggi,Italian,minardi,Italian
+22,2006,monaco,Monte-Carlo,3.337,19,michael_schumacher,German,ferrari,Italian
+21,1997,galvez,Buenos Aires,4.259,18,katayama,Japanese,minardi,Italian
+10,2019,suzuka,Suzuka,5.807,18,grosjean,French,haas,American
+18,2015,villeneuve,Montreal,4.361,14,vettel,German,ferrari,Italian
+2,2016,sochi,Sochi,5.848,15,bottas,Finnish,williams,British
+13,2001,sepang,Kuala Lumpur,5.543,15,alesi,French,prost,French
+13,2016,monza,Monza,5.793,11,wehrlein,German,manor,British
+12,2002,interlagos,São Paulo,4.309,15,massa,Brazilian,sauber,Swiss
+15,2004,nurburgring,Nürburg,5.148,15,pantano,Italian,jordan,Irish
+11,2000,monza,Monza,5.793,11,verstappen,Dutch,arrows,British
+16,2022,spa,Spa,7.004,20,ocon,French,alpine,French
+8,2014,villeneuve,Montreal,4.361,14,vergne,French,toro_rosso,Italian
+7,2011,buddh,Uttar Pradesh,5.141,16,rosberg,German,mercedes,German
+14,1997,silverstone,Silverstone,5.891,18,fontana,Argentine,sauber,Swiss
+16,2014,red_bull_ring,Spielberg,4.318,10,sutil,German,sauber,Swiss
+16,2000,sepang,Kuala Lumpur,5.543,15,button,British,williams,British
+2,2020,imola,Imola,4.909,19,hamilton,British,mercedes,German
+5,2003,red_bull_ring,Spielberg,4.318,10,barrichello,Brazilian,ferrari,Italian
+9,2014,spa,Spa,7.004,20,massa,Brazilian,williams,British
+8,2018,americas,Austin,5.513,20,grosjean,French,haas,American
+16,2004,silverstone,Silverstone,5.891,18,alonso,Spanish,renault,French
+22,1997,interlagos,São Paulo,4.309,15,salo,Finnish,tyrrell,British
+13,2002,interlagos,São Paulo,4.309,15,irvine,British,jaguar,British
+9,2011,suzuka,Suzuka,5.807,18,bruno_senna,Brazilian,renault,French
+6,2022,hungaroring,Budapest,4.381,14,alonso,Spanish,alpine,French
+20,2017,sochi,Sochi,5.848,15,vandoorne,Belgian,mclaren,British
+18,1997,spa,Spa,7.004,20,magnussen,Danish,stewart,British
+9,2009,interlagos,São Paulo,4.309,15,nakajima,Japanese,williams,British
+6,2002,suzuka,Suzuka,5.807,18,montoya,Colombian,williams,British
+19,2015,villeneuve,Montreal,4.361,14,max_verstappen,Dutch,toro_rosso,Italian
+13,2014,spa,Spa,7.004,20,perez,Mexican,force_india,Indian
+19,2006,imola,Imola,4.909,19,monteiro,Portuguese,mf1,Russian
+18,2018,bahrain,Sakhir,5.412,15,sirotkin,Russian,williams,British
+17,2015,marina_bay,Marina Bay,4.94,19,ericsson,Swedish,sauber,Swiss
+17,2019,bahrain,Sakhir,5.412,15,hulkenberg,German,renault,French
+11,2021,catalunya,Montmeló,4.657,14,stroll,Canadian,aston_martin,British
+17,2008,albert_park,Melbourne,5.278,16,bourdais,French,toro_rosso,Italian
+6,2018,bahrain,Sakhir,5.412,15,kevin_magnussen,Danish,haas,American
+19,2003,catalunya,Montmeló,4.657,14,verstappen,Dutch,minardi,Italian
+22,1998,monza,Monza,5.793,11,tuero,Argentine,minardi,Italian
+8,2006,albert_park,Melbourne,5.278,16,heidfeld,German,bmw_sauber,German
+1,2009,albert_park,Melbourne,5.278,16,button,British,brawn,British
+2,2018,hockenheimring,Hockenheim,4.574,16,bottas,Finnish,mercedes,German
+3,2001,monza,Monza,5.793,11,michael_schumacher,German,ferrari,Italian
+0,2024,vegas,Las Vegas,6.201,17,colapinto,Argentinian ,williams,British
+5,2004,shanghai,Shanghai,5.451,16,ralf_schumacher,German,williams,British
+15,2008,silverstone,Silverstone,5.891,18,nakajima,Japanese,williams,British
+15,2003,imola,Imola,4.909,19,pizzonia,Brazilian,jaguar,British
+13,2022,rodriguez,Mexico City,4.304,17,tsunoda,Japanese,alphatauri,Italian
+3,2000,hungaroring,Budapest,4.381,14,hakkinen,Finnish,mclaren,British
+9,2011,marina_bay,Marina Bay,4.94,19,sutil,German,force_india,Indian
+23,2012,shanghai,Shanghai,5.451,16,karthikeyan,Indian,hrt,Spanish
+5,2000,spa,Spa,7.004,20,coulthard,British,mclaren,British
+17,2015,villeneuve,Montreal,4.361,14,stevens,British,manor,British
+1,2006,imola,Imola,4.909,19,michael_schumacher,German,ferrari,Italian
+17,2018,rodriguez,Mexico City,4.304,17,stroll,Canadian,williams,British
+15,2010,valencia,Valencia,5.419,25,michael_schumacher,German,mercedes,German
+14,2011,yas_marina,Abu Dhabi,5.281,16,bruno_senna,Brazilian,renault,French
+7,2011,catalunya,Montmeló,4.657,14,rosberg,German,mercedes,German
+6,2006,catalunya,Montmeló,4.657,14,ralf_schumacher,German,toyota,Japanese
+22,2000,villeneuve,Montreal,4.361,14,mazzacane,Argentine,minardi,Italian
+24,2010,hockenheimring,Hockenheim,4.574,16,grassi,Brazilian,virgin,British
+4,2006,silverstone,Silverstone,5.891,18,massa,Brazilian,ferrari,Italian
+12,2003,villeneuve,Montreal,4.361,14,heidfeld,German,sauber,Swiss
+13,2009,marina_bay,Marina Bay,4.94,19,buemi,Swiss,toro_rosso,Italian
+11,2013,marina_bay,Marina Bay,4.94,19,hulkenberg,German,sauber,Swiss
+18,2010,hockenheimring,Hockenheim,4.574,16,kovalainen,Finnish,lotus_racing,Malaysian
+2,1998,interlagos,São Paulo,4.309,15,coulthard,British,mclaren,British
+15,2014,hockenheimring,Hockenheim,4.574,16,sutil,German,sauber,Swiss
+10,2003,indianapolis,Indianapolis,4.192,13,trulli,Italian,renault,French
+20,2020,silverstone,Silverstone,5.891,18,russell,British,williams,British
+4,2010,sepang,Kuala Lumpur,5.543,15,sutil,German,force_india,Indian
+9,1998,spa,Spa,7.004,20,frentzen,German,williams,British
+7,2024,baku,Baku,6.003,20,alonso,Spanish,aston_martin,British
+17,2008,hockenheimring,Hockenheim,4.574,16,piquet_jr,Brazilian,renault,French
+18,2002,monza,Monza,5.793,11,sato,Japanese,jordan,Irish
+11,2000,villeneuve,Montreal,4.361,14,herbert,British,jaguar,British
+6,2023,monza,Monza,5.793,11,albon,Thai,williams,British
+22,2007,istanbul,Istanbul,5.338,14,barrichello,Brazilian,honda,Japanese
+19,1996,imola,Imola,4.909,19,fisichella,Italian,minardi,Italian
+4,2011,suzuka,Suzuka,5.807,18,massa,Brazilian,ferrari,Italian
+10,2005,albert_park,Melbourne,5.278,16,raikkonen,Finnish,mclaren,British
+7,2020,bahrain,Sakhir,5.412,15,ricciardo,Australian,renault,French
+22,2011,buddh,Uttar Pradesh,5.141,16,glock,German,virgin,British
+22,1999,hockenheimring,Hockenheim,4.574,16,takagi,Japanese,arrows,British
+14,1998,imola,Imola,4.909,19,salo,Finnish,arrows,British
+7,2007,catalunya,Montmeló,4.657,14,heidfeld,German,bmw_sauber,German
+13,2019,albert_park,Melbourne,5.278,16,albon,Thai,toro_rosso,Italian
+12,2016,yas_marina,Abu Dhabi,5.281,16,button,British,mclaren,British
+21,2010,marina_bay,Marina Bay,4.94,19,trulli,Italian,lotus_racing,Malaysian
+9,2012,buddh,Uttar Pradesh,5.141,16,maldonado,Venezuelan,williams,British
+16,2017,marina_bay,Marina Bay,4.94,19,kevin_magnussen,Danish,haas,American
+10,2004,nurburgring,Nürburg,5.148,15,panis,French,toyota,Japanese
+5,2001,spa,Spa,7.004,20,barrichello,Brazilian,ferrari,Italian
+22,2013,spa,Spa,7.004,20,pic,French,caterham,Malaysian
+7,2019,hockenheimring,Hockenheim,4.574,16,sainz,Spanish,mclaren,British
+2,2007,monza,Monza,5.793,11,hamilton,British,mclaren,British
+16,2014,silverstone,Silverstone,5.891,18,alonso,Spanish,ferrari,Italian
+7,2019,red_bull_ring,Spielberg,4.318,10,giovinazzi,Italian,alfa,Swiss
+24,2011,hungaroring,Budapest,4.381,14,ambrosio,Belgian,virgin,British
+6,1996,imola,Imola,4.909,19,irvine,British,ferrari,Italian
+8,2003,indianapolis,Indianapolis,4.192,13,coulthard,British,mclaren,British
+12,2024,catalunya,Montmeló,4.657,14,bottas,Finnish,sauber,Swiss
+11,2024,spa,Spa,7.004,20,max_verstappen,Dutch,red_bull,Austrian
+19,2010,suzuka,Suzuka,5.807,18,trulli,Italian,lotus_racing,Malaysian
+12,2004,bahrain,Sakhir,5.412,15,klien,Austrian,jaguar,British
+15,2013,interlagos,São Paulo,4.309,15,sutil,German,force_india,Indian
+17,2005,magny_cours,Magny Cours,4.411,16,karthikeyan,Indian,jordan,Irish
+6,2018,ricard,Le Castellet,5.842,15,raikkonen,Finnish,ferrari,Italian
+2,2012,catalunya,Montmeló,4.657,14,alonso,Spanish,ferrari,Italian
+4,2024,bahrain,Sakhir,5.412,15,sainz,Spanish,ferrari,Italian
+9,2006,suzuka,Suzuka,5.807,18,heidfeld,German,bmw_sauber,German
+9,2011,yeongam,Yeongam County,5.615,18,resta,British,force_india,Indian
+2,1999,sepang,Kuala Lumpur,5.543,15,irvine,British,ferrari,Italian
+13,2007,magny_cours,Magny Cours,4.411,16,barrichello,Brazilian,honda,Japanese
+2,2022,rodriguez,Mexico City,4.304,17,russell,British,mercedes,German
+11,1996,estoril,Estoril,4.36,13,frentzen,German,sauber,Swiss
+13,2005,magny_cours,Magny Cours,4.411,16,raikkonen,Finnish,mclaren,British
+17,2020,bahrain,Sakhir,5.412,15,raikkonen,Finnish,alfa,Swiss
+6,1998,hockenheimring,Hockenheim,4.574,16,irvine,British,ferrari,Italian
+8,1997,red_bull_ring,Spielberg,4.318,10,irvine,British,ferrari,Italian
+14,1999,catalunya,Montmeló,4.657,14,herbert,British,stewart,British
+5,2017,spa,Spa,7.004,20,max_verstappen,Dutch,red_bull,Austrian
+13,2002,sepang,Kuala Lumpur,5.543,15,villeneuve,Canadian,bar,British
+17,1996,monaco,Monte-Carlo,3.337,19,diniz,Brazilian,ligier,French
+1,2007,catalunya,Montmeló,4.657,14,massa,Brazilian,ferrari,Italian
+10,2012,villeneuve,Montreal,4.361,14,button,British,mclaren,British
+3,2011,valencia,Valencia,5.419,25,hamilton,British,mclaren,British
+16,2021,losail,Al Daayen,5.419,16,raikkonen,Finnish,alfa,Swiss
+15,2001,magny_cours,Magny Cours,4.411,16,burti,Brazilian,prost,French
+5,1998,suzuka,Suzuka,5.807,18,frentzen,German,williams,British
+15,2019,monaco,Monte-Carlo,3.337,19,leclerc,Monegasque,ferrari,Italian
+10,2022,zandvoort,Zandvoort,4.259,14,stroll,Canadian,aston_martin,British
+15,2004,magny_cours,Magny Cours,4.411,16,fisichella,Italian,sauber,Swiss
+19,2015,interlagos,São Paulo,4.309,15,ricciardo,Australian,red_bull,Austrian
+19,2017,red_bull_ring,Spielberg,4.318,10,ericsson,Swedish,sauber,Swiss
+20,2016,catalunya,Montmeló,4.657,14,nasr,Brazilian,sauber,Swiss
+16,2008,bahrain,Sakhir,5.412,15,nakajima,Japanese,williams,British
+20,2012,yas_marina,Abu Dhabi,5.281,16,petrov,Russian,caterham,Malaysian
+14,2017,red_bull_ring,Spielberg,4.318,10,kvyat,Russian,toro_rosso,Italian
+6,2008,monaco,Monte-Carlo,3.337,19,rosberg,German,williams,British
+13,1999,spa,Spa,7.004,20,fisichella,Italian,benetton,Italian
+6,2011,buddh,Uttar Pradesh,5.141,16,massa,Brazilian,ferrari,Italian
+18,2012,buddh,Uttar Pradesh,5.141,16,vergne,French,toro_rosso,Italian
+6,2020,hungaroring,Budapest,4.381,14,leclerc,Monegasque,ferrari,Italian
+9,2018,suzuka,Suzuka,5.807,18,perez,Mexican,force_india,Indian
+8,2013,spa,Spa,7.004,20,raikkonen,Finnish,lotus_f1,British
+14,2022,zandvoort,Zandvoort,4.259,14,zhou,Chinese,alfa,Swiss
+17,2019,marina_bay,Marina Bay,4.94,19,grosjean,French,haas,American
+1,1999,villeneuve,Montreal,4.361,14,michael_schumacher,German,ferrari,Italian
+16,2021,baku,Baku,6.003,20,latifi,Canadian,williams,British
+19,2007,albert_park,Melbourne,5.278,16,liuzzi,Italian,toro_rosso,Italian
+6,2013,silverstone,Silverstone,5.891,18,sutil,German,force_india,Indian
+8,1998,hungaroring,Budapest,4.381,14,fisichella,Italian,benetton,Italian
+18,2006,nurburgring,Nürburg,5.148,15,monteiro,Portuguese,mf1,Russian
+15,2011,yeongam,Yeongam County,5.615,18,bruno_senna,Brazilian,renault,French
+15,2009,silverstone,Silverstone,5.891,18,heidfeld,German,bmw_sauber,German
+14,2024,jeddah,Jeddah,6.174,27,ricciardo,Australian,rb,Italian
+13,1999,interlagos,São Paulo,4.309,15,trulli,Italian,prost,French
+7,2022,jeddah,Jeddah,6.174,27,alonso,Spanish,alpine,French
+0,2023,zandvoort,Zandvoort,4.259,14,kevin_magnussen,Danish,haas,American
+12,2014,monza,Monza,5.793,11,vergne,French,toro_rosso,Italian
+0,2022,spa,Spa,7.004,20,gasly,French,alphatauri,Italian
+13,2022,baku,Baku,6.003,20,ocon,French,alpine,French
+4,2016,sochi,Sochi,5.848,15,massa,Brazilian,williams,British
+18,2005,imola,Imola,4.909,19,massa,Brazilian,sauber,Swiss
+8,2023,monza,Monza,5.793,11,hamilton,British,mercedes,German
+14,2013,suzuka,Suzuka,5.807,18,gutierrez,Mexican,sauber,Swiss
+19,2021,monza,Monza,5.793,11,bottas,Finnish,mercedes,German
+4,2013,bahrain,Sakhir,5.412,15,massa,Brazilian,ferrari,Italian
+21,2006,silverstone,Silverstone,5.891,18,montagny,French,super_aguri,Japanese
+9,2016,silverstone,Silverstone,5.891,18,alonso,Spanish,mclaren,British
+20,2011,sepang,Kuala Lumpur,5.543,15,trulli,Italian,lotus_racing,Malaysian
+14,2010,villeneuve,Montreal,4.361,14,petrov,Russian,renault,French
+3,2005,catalunya,Montmeló,4.657,14,alonso,Spanish,renault,French
+11,2024,imola,Imola,4.909,19,perez,Mexican,red_bull,Austrian
+5,1998,nurburgring,Nürburg,5.148,15,coulthard,British,mclaren,British
+4,1997,red_bull_ring,Spielberg,4.318,10,frentzen,German,williams,British
+11,2018,hungaroring,Budapest,4.381,14,alonso,Spanish,mclaren,British
+13,2004,sepang,Kuala Lumpur,5.543,15,klien,Austrian,jaguar,British
+15,2024,red_bull_ring,Spielberg,4.318,10,alonso,Spanish,aston_martin,British
+11,2014,monza,Monza,5.793,11,raikkonen,Finnish,ferrari,Italian
+4,2008,monaco,Monte-Carlo,3.337,19,kovalainen,Finnish,mclaren,British
+5,2007,silverstone,Silverstone,5.891,18,kubica,Polish,bmw_sauber,German
+10,2003,imola,Imola,4.909,19,panis,French,toyota,Japanese
+4,2012,buddh,Uttar Pradesh,5.141,16,button,British,mclaren,British
+18,2015,interlagos,São Paulo,4.309,15,stevens,British,manor,British
+8,2004,indianapolis,Indianapolis,4.192,13,panis,French,toyota,Japanese
+10,2018,shanghai,Shanghai,5.451,16,grosjean,French,haas,American
+10,2015,shanghai,Shanghai,5.451,16,ericsson,Swedish,sauber,Swiss
+10,2013,buddh,Uttar Pradesh,5.141,16,button,British,mclaren,British
+6,2024,monza,Monza,5.793,11,hamilton,British,mercedes,German
+16,2021,ricard,Le Castellet,5.842,15,latifi,Canadian,williams,British
+11,2016,villeneuve,Montreal,4.361,14,perez,Mexican,force_india,Indian
+8,2023,baku,Baku,6.003,20,tsunoda,Japanese,alphatauri,Italian
+2,1996,hungaroring,Budapest,4.381,14,damon_hill,British,williams,British
+20,2020,sochi,Sochi,5.848,15,latifi,Canadian,williams,British
+8,2012,americas,Austin,5.513,20,grosjean,French,lotus_f1,British
+7,2003,hungaroring,Budapest,4.381,14,raikkonen,Finnish,mclaren,British
+15,2011,valencia,Valencia,5.419,25,maldonado,Venezuelan,williams,British
+5,2008,valencia,Valencia,5.419,25,kovalainen,Finnish,mclaren,British
+17,1999,hungaroring,Budapest,4.381,14,zonta,Brazilian,bar,British
+22,1999,sepang,Kuala Lumpur,5.543,15,takagi,Japanese,arrows,British
+4,2017,rodriguez,Mexico City,4.304,17,bottas,Finnish,mercedes,German
+21,1996,magny_cours,Magny Cours,4.411,16,montermini,Italian,forti,Italian
+15,2001,silverstone,Silverstone,5.891,18,irvine,British,jaguar,British
+8,2008,monza,Monza,5.793,11,alonso,Spanish,renault,French
+3,2004,silverstone,Silverstone,5.891,18,button,British,bar,British
+24,2010,catalunya,Montmeló,4.657,14,chandhok,Indian,hrt,Spanish
+3,1998,red_bull_ring,Spielberg,4.318,10,hakkinen,Finnish,mclaren,British
+19,2016,spa,Spa,7.004,20,kvyat,Russian,toro_rosso,Italian
+10,2009,albert_park,Melbourne,5.278,16,alonso,Spanish,renault,French
+10,1999,hungaroring,Budapest,4.381,14,herbert,British,stewart,British
+13,2006,suzuka,Suzuka,5.807,18,rosa,Spanish,mclaren,British
+19,2020,silverstone,Silverstone,5.891,18,giovinazzi,Italian,alfa,Swiss
+20,2024,yas_marina,Abu Dhabi,5.281,16,colapinto,Argentinian ,williams,British
+19,1997,imola,Imola,4.909,19,salo,Finnish,tyrrell,British
+10,2022,ricard,Le Castellet,5.842,15,ocon,French,alpine,French
+9,2020,yas_marina,Abu Dhabi,5.281,16,gasly,French,alphatauri,Italian
+10,1997,hockenheimring,Hockenheim,4.574,16,irvine,British,ferrari,Italian
+19,2008,monaco,Monte-Carlo,3.337,19,vettel,German,toro_rosso,Italian
+18,2024,silverstone,Silverstone,5.891,18,ocon,French,alpine,French
+1,2004,silverstone,Silverstone,5.891,18,raikkonen,Finnish,mclaren,British
+2,2020,sochi,Sochi,5.848,15,max_verstappen,Dutch,red_bull,Austrian
+14,2005,albert_park,Melbourne,5.278,16,monteiro,Portuguese,jordan,Irish
+1,1999,interlagos,São Paulo,4.309,15,hakkinen,Finnish,mclaren,British
+12,2021,americas,Austin,5.513,20,giovinazzi,Italian,alfa,Swiss
+1,1996,villeneuve,Montreal,4.361,14,damon_hill,British,williams,British
+5,2017,suzuka,Suzuka,5.807,18,ocon,French,force_india,Indian
+4,2009,catalunya,Montmeló,4.657,14,massa,Brazilian,ferrari,Italian
+1,1998,suzuka,Suzuka,5.807,18,michael_schumacher,German,ferrari,Italian
+18,2022,interlagos,São Paulo,4.309,15,latifi,Canadian,williams,British
+1,2019,ricard,Le Castellet,5.842,15,hamilton,British,mercedes,German
+10,2007,interlagos,São Paulo,4.309,15,rosberg,German,williams,British
+8,1996,imola,Imola,4.909,19,salo,Finnish,tyrrell,British
+14,2011,villeneuve,Montreal,4.361,14,sutil,German,force_india,Indian
+18,2005,monza,Monza,5.793,11,doornbos,Dutch,minardi,Italian
+7,2016,monaco,Monte-Carlo,3.337,19,perez,Mexican,force_india,Indian
+5,2017,silverstone,Silverstone,5.891,18,hulkenberg,German,renault,French
+14,1998,silverstone,Silverstone,5.891,18,trulli,Italian,prost,French
+7,2003,monaco,Monte-Carlo,3.337,19,barrichello,Brazilian,ferrari,Italian
+3,2005,suzuka,Suzuka,5.807,18,fisichella,Italian,renault,French
+13,2017,hungaroring,Budapest,4.381,14,perez,Mexican,force_india,Indian
+2,2001,interlagos,São Paulo,4.309,15,ralf_schumacher,German,williams,British
+15,2011,spa,Spa,7.004,20,sutil,German,force_india,Indian
+18,2013,hungaroring,Budapest,4.381,14,resta,British,force_india,Indian
+19,2010,yeongam,Yeongam County,5.615,18,glock,German,virgin,British
+17,2017,suzuka,Suzuka,5.807,18,wehrlein,German,sauber,Swiss
+15,1998,galvez,Buenos Aires,4.259,18,panis,French,prost,French
+13,2019,silverstone,Silverstone,5.891,18,sainz,Spanish,mclaren,British
+11,2017,suzuka,Suzuka,5.807,18,hulkenberg,German,renault,French
+9,2020,portimao,Portimão,4.653,15,gasly,French,alphatauri,Italian
+13,2007,monza,Monza,5.793,11,wurz,Austrian,williams,British
+17,2020,mugello,Mugello,5.245,15,giovinazzi,Italian,alfa,Swiss
+8,2014,monza,Monza,5.793,11,vettel,German,red_bull,Austrian
+19,2004,monaco,Monte-Carlo,3.337,19,baumgartner,Hungarian,minardi,Italian
+24,2011,valencia,Valencia,5.419,25,karthikeyan,Indian,hrt,Spanish
+15,2007,sepang,Kuala Lumpur,5.543,15,button,British,honda,Japanese
+15,2019,americas,Austin,5.513,20,grosjean,French,haas,American
+16,2013,yas_marina,Abu Dhabi,5.281,16,gutierrez,Mexican,sauber,Swiss
+2,2008,istanbul,Istanbul,5.338,14,kovalainen,Finnish,mclaren,British
+3,2000,red_bull_ring,Spielberg,4.318,10,barrichello,Brazilian,ferrari,Italian
+19,2019,monza,Monza,5.793,11,max_verstappen,Dutch,red_bull,Austrian
+21,2013,silverstone,Silverstone,5.891,18,resta,British,force_india,Indian
+18,2010,suzuka,Suzuka,5.807,18,buemi,Swiss,toro_rosso,Italian
+12,2021,red_bull_ring,Spielberg,4.318,10,leclerc,Monegasque,ferrari,Italian
+15,2021,sochi,Sochi,5.848,15,mazepin,Russian,haas,American
+15,1997,silverstone,Silverstone,5.891,18,nakano,Japanese,prost,French
+6,2014,interlagos,São Paulo,4.309,15,vettel,German,red_bull,Austrian
+17,2005,hockenheimring,Hockenheim,4.574,16,doornbos,Dutch,minardi,Italian
+4,2001,nurburgring,Nürburg,5.148,15,barrichello,Brazilian,ferrari,Italian
+20,1998,interlagos,São Paulo,4.309,15,salo,Finnish,arrows,British
+15,1996,spa,Spa,7.004,20,diniz,Brazilian,ligier,French
+19,1998,hungaroring,Budapest,4.381,14,nakano,Japanese,minardi,Italian
+6,2004,nurburgring,Nürburg,5.148,15,alonso,Spanish,renault,French
+19,2005,shanghai,Shanghai,5.451,16,monteiro,Portuguese,jordan,Irish
+2,2009,shanghai,Shanghai,5.451,16,alonso,Spanish,renault,French
+22,1999,red_bull_ring,Spielberg,4.318,10,gene,Spanish,minardi,Italian
+5,2016,silverstone,Silverstone,5.891,18,raikkonen,Finnish,ferrari,Italian
+3,2024,villeneuve,Montreal,4.361,14,norris,British,mclaren,British
+17,2013,albert_park,Melbourne,5.278,16,maldonado,Venezuelan,williams,British
+8,2021,ricard,Le Castellet,5.842,15,norris,British,mclaren,British
+7,2001,red_bull_ring,Spielberg,4.318,10,coulthard,British,mclaren,British
+13,2020,monza,Monza,5.793,11,leclerc,Monegasque,ferrari,Italian
+16,2001,nurburgring,Nürburg,5.148,15,rosa,Spanish,jaguar,British
+16,2003,hockenheimring,Hockenheim,4.574,16,wilson,British,jaguar,British
+6,2004,suzuka,Suzuka,5.807,18,trulli,Italian,toyota,Japanese
+11,2001,interlagos,São Paulo,4.309,15,panis,French,bar,British
+16,2010,istanbul,Istanbul,5.338,14,alguersuari,Spanish,toro_rosso,Italian
+12,2010,spa,Spa,7.004,20,liuzzi,Italian,force_india,Indian
+14,2010,hungaroring,Budapest,4.381,14,michael_schumacher,German,mercedes,German
+1,2019,shanghai,Shanghai,5.451,16,bottas,Finnish,mercedes,German
+21,2011,monza,Monza,5.793,11,glock,German,virgin,British
+17,2019,albert_park,Melbourne,5.278,16,gasly,French,red_bull,Austrian
+15,2022,americas,Austin,5.513,20,ricciardo,Australian,mclaren,British
+9,2013,yas_marina,Abu Dhabi,5.281,16,ricciardo,Australian,toro_rosso,Italian
+17,1999,villeneuve,Montreal,4.361,14,zonta,Brazilian,bar,British
+7,2006,magny_cours,Magny Cours,4.411,16,fisichella,Italian,renault,French
+7,2010,shanghai,Shanghai,5.451,16,massa,Brazilian,ferrari,Italian
+15,2004,catalunya,Montmeló,4.657,14,heidfeld,German,jordan,Irish
+15,1996,galvez,Buenos Aires,4.259,18,brundle,British,jordan,Irish
+4,2015,yas_marina,Abu Dhabi,5.281,16,perez,Mexican,force_india,Indian
+10,2001,silverstone,Silverstone,5.891,18,ralf_schumacher,German,williams,British
+19,2009,istanbul,Istanbul,5.338,14,fisichella,Italian,force_india,Indian
+14,2003,indianapolis,Indianapolis,4.192,13,webber,Australian,jaguar,British
+8,2024,silverstone,Silverstone,5.891,18,stroll,Canadian,aston_martin,British
+1,2014,catalunya,Montmeló,4.657,14,hamilton,British,mercedes,German
+20,2015,spa,Spa,7.004,20,alonso,Spanish,mclaren,British
+6,2009,monaco,Monte-Carlo,3.337,19,rosberg,German,williams,British
+10,2007,monaco,Monte-Carlo,3.337,19,button,British,honda,Japanese
+12,2016,bahrain,Sakhir,5.412,15,vandoorne,Belgian,mclaren,British
+7,2009,yas_marina,Abu Dhabi,5.281,16,kubica,Polish,bmw_sauber,German
+18,2012,sepang,Kuala Lumpur,5.543,15,vergne,French,toro_rosso,Italian
+14,2014,americas,Austin,5.513,20,vergne,French,toro_rosso,Italian
+14,2016,monaco,Monte-Carlo,3.337,19,massa,Brazilian,williams,British
+6,2007,sepang,Kuala Lumpur,5.543,15,rosberg,German,williams,British
+17,2011,nurburgring,Nürburg,5.148,15,kobayashi,Japanese,sauber,Swiss
+1,2008,magny_cours,Magny Cours,4.411,16,raikkonen,Finnish,ferrari,Italian
+3,1997,jerez,Jerez de la Frontera,4.428,13,frentzen,German,williams,British
+4,2018,spa,Spa,7.004,20,perez,Mexican,force_india,Indian
+21,2016,monza,Monza,5.793,11,kevin_magnussen,Danish,renault,French
+13,2015,rodriguez,Mexico City,4.304,17,maldonado,Venezuelan,lotus_f1,British
+12,2009,istanbul,Istanbul,5.338,14,nakajima,Japanese,williams,British
+21,1999,monaco,Monte-Carlo,3.337,19,rosa,Spanish,arrows,British
+17,2000,sepang,Kuala Lumpur,5.543,15,salo,Finnish,sauber,Swiss
+12,1998,red_bull_ring,Spielberg,4.318,10,verstappen,Dutch,stewart,British
+20,2002,villeneuve,Montreal,4.361,14,mcnish,British,toyota,Japanese
+16,2012,sepang,Kuala Lumpur,5.543,15,hulkenberg,German,force_india,Indian
+4,2005,magny_cours,Magny Cours,4.411,16,sato,Japanese,bar,British
+2,2024,albert_park,Melbourne,5.278,16,sainz,Spanish,ferrari,Italian
+10,2024,monza,Monza,5.793,11,hulkenberg,German,haas,American
+7,2018,monza,Monza,5.793,11,sainz,Spanish,renault,French
+11,2010,silverstone,Silverstone,5.891,18,sutil,German,force_india,Indian
+16,2019,spa,Spa,7.004,20,stroll,Canadian,racing_point,British
+10,2003,interlagos,São Paulo,4.309,15,alonso,Spanish,renault,French
+6,1997,spa,Spa,7.004,20,ralf_schumacher,German,jordan,Irish
+16,2010,villeneuve,Montreal,4.361,14,alguersuari,Spanish,toro_rosso,Italian
+9,2022,catalunya,Montmeló,4.657,14,ricciardo,Australian,mclaren,British
+3,1997,spa,Spa,7.004,20,michael_schumacher,German,ferrari,Italian
+16,2013,villeneuve,Montreal,4.361,14,massa,Brazilian,ferrari,Italian
+3,2008,spa,Spa,7.004,20,kovalainen,Finnish,mclaren,British
+12,2019,red_bull_ring,Spielberg,4.318,10,ricciardo,Australian,renault,French
+15,1999,sepang,Kuala Lumpur,5.543,15,alesi,French,sauber,Swiss
+19,2012,yeongam,Yeongam County,5.615,18,kovalainen,Finnish,caterham,Malaysian
+13,2001,monaco,Monte-Carlo,3.337,19,frentzen,German,jordan,Irish
+3,2022,americas,Austin,5.513,20,hamilton,British,mercedes,German
+20,2021,jeddah,Jeddah,6.174,27,mazepin,Russian,haas,American
+5,2017,sepang,Kuala Lumpur,5.543,15,bottas,Finnish,mercedes,German
+20,2020,monza,Monza,5.793,11,latifi,Canadian,williams,British
+18,2006,catalunya,Montmeló,4.657,14,albers,Dutch,mf1,Russian
+21,2016,silverstone,Silverstone,5.891,18,nasr,Brazilian,sauber,Swiss
+14,2003,silverstone,Silverstone,5.891,18,frentzen,German,sauber,Swiss
+7,2002,spa,Spa,7.004,20,trulli,Italian,renault,French
+10,2021,jeddah,Jeddah,6.174,27,giovinazzi,Italian,alfa,Swiss
+3,2022,jeddah,Jeddah,6.174,27,sainz,Spanish,ferrari,Italian
+6,2000,magny_cours,Magny Cours,4.411,16,irvine,British,jaguar,British
+5,2022,silverstone,Silverstone,5.891,18,hamilton,British,mercedes,German
+2,2019,rodriguez,Mexico City,4.304,17,vettel,German,ferrari,Italian
+11,2010,interlagos,São Paulo,4.309,15,button,British,mclaren,British
+20,2014,catalunya,Montmeló,4.657,14,kobayashi,Japanese,caterham,Malaysian
+12,2018,shanghai,Shanghai,5.451,16,ocon,French,force_india,Indian
+2,2003,red_bull_ring,Spielberg,4.318,10,raikkonen,Finnish,mclaren,British
+16,2014,bahrain,Sakhir,5.412,15,grosjean,French,lotus_f1,British
+3,2005,hockenheimring,Hockenheim,4.574,16,alonso,Spanish,renault,French
+1,2010,suzuka,Suzuka,5.807,18,vettel,German,red_bull,Austrian
+15,2022,hungaroring,Budapest,4.381,14,mick_schumacher,German,haas,American
+18,2008,albert_park,Melbourne,5.278,16,glock,German,toyota,Japanese
+17,2013,interlagos,São Paulo,4.309,15,gutierrez,Mexican,sauber,Swiss
+9,2019,villeneuve,Montreal,4.361,14,max_verstappen,Dutch,red_bull,Austrian
+6,2006,villeneuve,Montreal,4.361,14,rosberg,German,williams,British
+7,1999,imola,Imola,4.909,19,frentzen,German,jordan,Irish
+10,2016,hungaroring,Budapest,4.381,14,bottas,Finnish,williams,British
+13,1997,silverstone,Silverstone,5.891,18,trulli,Italian,prost,French
+12,2024,monaco,Monte-Carlo,3.337,19,ricciardo,Australian,rb,Italian
+2,2008,villeneuve,Montreal,4.361,14,kubica,Polish,bmw_sauber,German
+17,2001,magny_cours,Magny Cours,4.411,16,button,British,benetton,Italian
+16,1999,monza,Monza,5.793,11,diniz,Brazilian,sauber,Swiss
+19,2020,bahrain,Sakhir,5.412,15,norris,British,mclaren,British
+0,2019,villeneuve,Montreal,4.361,14,kevin_magnussen,Danish,haas,American
+20,2012,sepang,Kuala Lumpur,5.543,15,glock,German,marussia,Russian
+8,2009,interlagos,São Paulo,4.309,15,kubica,Polish,bmw_sauber,German
+20,1999,spa,Spa,7.004,20,badoer,Italian,minardi,Italian
+19,2006,sepang,Kuala Lumpur,5.543,15,coulthard,British,red_bull,Austrian
+16,2013,buddh,Uttar Pradesh,5.141,16,gutierrez,Mexican,sauber,Swiss
+13,2020,yas_marina,Abu Dhabi,5.281,16,vettel,German,ferrari,Italian
+21,1997,hungaroring,Budapest,4.381,14,salo,Finnish,tyrrell,British
+16,1996,suzuka,Suzuka,5.807,18,diniz,Brazilian,ligier,French
+11,2003,sepang,Kuala Lumpur,5.543,15,matta,Brazilian,toyota,Japanese
+8,2005,bahrain,Sakhir,5.412,15,rosa,Spanish,mclaren,British
+13,2017,marina_bay,Marina Bay,4.94,19,kvyat,Russian,toro_rosso,Italian
+19,2015,silverstone,Silverstone,5.891,18,stevens,British,manor,British
+10,2011,silverstone,Silverstone,5.891,18,hamilton,British,mclaren,British
+9,2002,sepang,Kuala Lumpur,5.543,15,fisichella,Italian,jordan,Irish
+4,2007,silverstone,Silverstone,5.891,18,massa,Brazilian,ferrari,Italian
+1,2012,albert_park,Melbourne,5.278,16,hamilton,British,mclaren,British
+15,1998,hungaroring,Budapest,4.381,14,herbert,British,sauber,Swiss
+13,2014,monaco,Monte-Carlo,3.337,19,bottas,Finnish,williams,British
+7,2002,silverstone,Silverstone,5.891,18,trulli,Italian,renault,French
+3,2022,red_bull_ring,Spielberg,4.318,10,sainz,Spanish,ferrari,Italian
+12,1996,catalunya,Montmeló,4.657,14,salo,Finnish,tyrrell,British
+15,2006,silverstone,Silverstone,5.891,18,speed,American,toro_rosso,Italian
+24,2011,sepang,Kuala Lumpur,5.543,15,karthikeyan,Indian,hrt,Spanish
+4,1997,catalunya,Montmeló,4.657,14,alesi,French,benetton,Italian
+19,2010,interlagos,São Paulo,4.309,15,buemi,Swiss,toro_rosso,Italian
+10,2012,catalunya,Montmeló,4.657,14,button,British,mclaren,British
+5,1999,monaco,Monte-Carlo,3.337,19,barrichello,Brazilian,stewart,British
+21,2012,valencia,Valencia,5.419,25,rosa,Spanish,hrt,Spanish
+15,2014,shanghai,Shanghai,5.451,16,kevin_magnussen,Danish,mclaren,British
+4,1997,jerez,Jerez de la Frontera,4.428,13,damon_hill,British,arrows,British
+22,2011,suzuka,Suzuka,5.807,18,ricciardo,Australian,hrt,Spanish
+18,2024,yas_marina,Abu Dhabi,5.281,16,albon,Thai,williams,British
+15,2021,rodriguez,Mexico City,4.304,17,mazepin,Russian,haas,American
+7,2022,monaco,Monte-Carlo,3.337,19,alonso,Spanish,alpine,French
+9,2021,portimao,Portimão,4.653,15,gasly,French,alphatauri,Italian
+8,2024,shanghai,Shanghai,5.451,16,russell,British,mercedes,German
+7,2013,shanghai,Shanghai,5.451,16,ricciardo,Australian,toro_rosso,Italian
+8,2013,monza,Monza,5.793,11,perez,Mexican,mclaren,British
+12,2014,americas,Austin,5.513,20,button,British,mclaren,British
+16,2016,sochi,Sochi,5.848,15,gutierrez,Mexican,haas,American
+1,2008,hockenheimring,Hockenheim,4.574,16,hamilton,British,mclaren,British
+2,2019,interlagos,São Paulo,4.309,15,vettel,German,ferrari,Italian
+13,2005,istanbul,Istanbul,5.338,14,button,British,bar,British
+3,2001,silverstone,Silverstone,5.891,18,coulthard,British,mclaren,British
+10,2018,baku,Baku,6.003,20,stroll,Canadian,williams,British
+6,2024,interlagos,São Paulo,4.309,15,leclerc,Monegasque,ferrari,Italian
+10,2004,interlagos,São Paulo,4.309,15,fisichella,Italian,sauber,Swiss
+5,2023,jeddah,Jeddah,6.174,27,stroll,Canadian,aston_martin,British
+15,2013,spa,Spa,7.004,20,jules_bianchi,French,marussia,Russian
+10,1997,hungaroring,Budapest,4.381,14,herbert,British,sauber,Swiss
+18,2016,silverstone,Silverstone,5.891,18,jolyon_palmer,British,renault,French
+18,2000,sepang,Kuala Lumpur,5.543,15,alesi,French,prost,French
+4,2019,ricard,Le Castellet,5.842,15,max_verstappen,Dutch,red_bull,Austrian
+4,2009,marina_bay,Marina Bay,4.94,19,webber,Australian,red_bull,Austrian
+2,2010,interlagos,São Paulo,4.309,15,vettel,German,red_bull,Austrian
+6,2009,shanghai,Shanghai,5.451,16,trulli,Italian,toyota,Japanese
+6,2020,portimao,Portimão,4.653,15,albon,Thai,red_bull,Austrian
+17,2019,spa,Spa,7.004,20,albon,Thai,red_bull,Austrian
+1,2012,spa,Spa,7.004,20,button,British,mclaren,British
+11,1997,catalunya,Montmeló,4.657,14,irvine,British,ferrari,Italian
+19,1998,interlagos,São Paulo,4.309,15,tuero,Argentine,minardi,Italian
+17,2005,sepang,Kuala Lumpur,5.543,15,karthikeyan,Indian,jordan,Irish
+7,2001,catalunya,Montmeló,4.657,14,villeneuve,Canadian,bar,British
+10,1997,magny_cours,Magny Cours,4.411,16,hakkinen,Finnish,mclaren,British
+20,2010,hockenheimring,Hockenheim,4.574,16,bruno_senna,Brazilian,hrt,Spanish
+13,2013,marina_bay,Marina Bay,4.94,19,raikkonen,Finnish,lotus_f1,British
+15,2006,interlagos,São Paulo,4.309,15,liuzzi,Italian,toro_rosso,Italian
+5,2020,imola,Imola,4.909,19,ricciardo,Australian,renault,French
+14,2008,fuji,Oyama,4.563,16,nakajima,Japanese,williams,British
+12,1997,monza,Monza,5.793,11,herbert,British,sauber,Swiss
+7,2012,suzuka,Suzuka,5.807,18,raikkonen,Finnish,lotus_f1,British
+5,1999,monza,Monza,5.793,11,ralf_schumacher,German,williams,British
+18,2013,catalunya,Montmeló,4.657,14,garde,Dutch,caterham,Malaysian
+4,2018,americas,Austin,5.513,20,ricciardo,Australian,red_bull,Austrian
+17,2019,villeneuve,Montreal,4.361,14,stroll,Canadian,racing_point,British
+2,2019,hungaroring,Budapest,4.381,14,bottas,Finnish,mercedes,German
+15,1997,red_bull_ring,Spielberg,4.318,10,alesi,French,benetton,Italian
+5,2016,albert_park,Melbourne,5.278,16,max_verstappen,Dutch,toro_rosso,Italian
+17,2007,spa,Spa,7.004,20,barrichello,Brazilian,honda,Japanese
+20,2016,red_bull_ring,Spielberg,4.318,10,haryanto,Indonesian,manor,British
+3,2018,albert_park,Melbourne,5.278,16,vettel,German,ferrari,Italian
+6,2000,sepang,Kuala Lumpur,5.543,15,villeneuve,Canadian,bar,British
+6,1996,hungaroring,Budapest,4.381,14,berger,Austrian,benetton,Italian
+8,2014,yas_marina,Abu Dhabi,5.281,16,alonso,Spanish,ferrari,Italian
+2,1999,spa,Spa,7.004,20,coulthard,British,mclaren,British
+10,2019,red_bull_ring,Spielberg,4.318,10,kevin_magnussen,Danish,haas,American
+18,2020,bahrain,Sakhir,5.412,15,kevin_magnussen,Danish,haas,American
+2,2002,imola,Imola,4.909,19,barrichello,Brazilian,ferrari,Italian
+17,2021,monaco,Monte-Carlo,3.337,19,alonso,Spanish,alpine,French
+8,2018,red_bull_ring,Spielberg,4.318,10,kevin_magnussen,Danish,haas,American
+18,2014,interlagos,São Paulo,4.309,15,perez,Mexican,force_india,Indian
+15,2017,bahrain,Sakhir,5.412,15,alonso,Spanish,mclaren,British
+1,2003,nurburgring,Nürburg,5.148,15,raikkonen,Finnish,mclaren,British
+20,2013,spa,Spa,7.004,20,bottas,Finnish,williams,British
+11,2012,yas_marina,Abu Dhabi,5.281,16,perez,Mexican,sauber,Swiss
+11,2013,bahrain,Sakhir,5.412,15,grosjean,French,lotus_f1,British
+17,2014,villeneuve,Montreal,4.361,14,maldonado,Venezuelan,lotus_f1,British
+22,2007,interlagos,São Paulo,4.309,15,yamamoto,Japanese,spyker,Dutch
+5,2022,americas,Austin,5.513,20,stroll,Canadian,aston_martin,British
+11,1997,albert_park,Melbourne,5.278,16,barrichello,Brazilian,stewart,British
+5,2024,imola,Imola,4.909,19,piastri,Australian,mclaren,British
+19,2006,catalunya,Montmeló,4.657,14,sato,Japanese,super_aguri,Japanese
+1,2016,monza,Monza,5.793,11,hamilton,British,mercedes,German
+19,2020,red_bull_ring,Spielberg,4.318,10,raikkonen,Finnish,alfa,Swiss
+16,2024,albert_park,Melbourne,5.278,16,hulkenberg,German,haas,American
+3,2016,hockenheimring,Hockenheim,4.574,16,ricciardo,Australian,red_bull,Austrian
+17,2023,zandvoort,Zandvoort,4.259,14,tsunoda,Japanese,alphatauri,Italian
+8,2000,interlagos,São Paulo,4.309,15,zonta,Brazilian,bar,British
+0,2024,interlagos,São Paulo,4.309,15,sainz,Spanish,ferrari,Italian
+19,2007,hungaroring,Budapest,4.381,14,sato,Japanese,super_aguri,Japanese
+0,2023,baku,Baku,6.003,20,ocon,French,alpine,French
+21,2006,interlagos,São Paulo,4.309,15,monteiro,Portuguese,spyker_mf1,Dutch
+15,2007,monaco,Monte-Carlo,3.337,19,kovalainen,Finnish,renault,French
+3,2016,albert_park,Melbourne,5.278,16,vettel,German,ferrari,Italian
+1,2022,baku,Baku,6.003,20,leclerc,Monegasque,ferrari,Italian
+3,2023,baku,Baku,6.003,20,perez,Mexican,red_bull,Austrian
+21,2012,suzuka,Suzuka,5.807,18,pic,French,marussia,Russian
+13,1996,suzuka,Suzuka,5.807,18,herbert,British,sauber,Swiss
+9,2008,spa,Spa,7.004,20,bourdais,French,toro_rosso,Italian
+8,2019,silverstone,Silverstone,5.891,18,norris,British,mclaren,British
+5,2012,monza,Monza,5.793,11,vettel,German,red_bull,Austrian
+14,2018,villeneuve,Montreal,4.361,14,alonso,Spanish,mclaren,British
+22,1998,nurburgring,Nürburg,5.148,15,rosset,Brazilian,tyrrell,British
+14,2024,rodriguez,Mexico City,4.304,17,stroll,Canadian,aston_martin,British
+16,2011,silverstone,Silverstone,5.891,18,heidfeld,German,renault,French
+10,2018,hockenheimring,Hockenheim,4.574,16,perez,Mexican,force_india,Indian
+8,2024,losail,Al Daayen,5.419,16,alonso,Spanish,aston_martin,British
+15,2005,albert_park,Melbourne,5.278,16,ralf_schumacher,German,toyota,Japanese
+6,2004,hungaroring,Budapest,4.381,14,pizzonia,Brazilian,williams,British
+11,2002,indianapolis,Indianapolis,4.192,13,frentzen,German,sauber,Swiss
+14,2002,catalunya,Montmeló,4.657,14,bernoldi,Brazilian,arrows,British
+4,2018,hungaroring,Budapest,4.381,14,vettel,German,ferrari,Italian
+12,2005,albert_park,Melbourne,5.278,16,karthikeyan,Indian,jordan,Irish
+8,1998,galvez,Buenos Aires,4.259,18,wurz,Austrian,benetton,Italian
+20,2010,shanghai,Shanghai,5.451,16,trulli,Italian,lotus_racing,Malaysian
+21,2014,suzuka,Suzuka,5.807,18,chilton,British,marussia,Russian
+10,2015,rodriguez,Mexico City,4.304,17,hulkenberg,German,force_india,Indian
+12,2014,hockenheimring,Hockenheim,4.574,16,raikkonen,Finnish,ferrari,Italian
+10,2000,suzuka,Suzuka,5.807,18,herbert,British,jaguar,British
+1,2024,baku,Baku,6.003,20,leclerc,Monegasque,ferrari,Italian
+3,2001,hungaroring,Budapest,4.381,14,barrichello,Brazilian,ferrari,Italian
+5,2015,monaco,Monte-Carlo,3.337,19,kvyat,Russian,red_bull,Austrian
+6,2004,catalunya,Montmeló,4.657,14,ralf_schumacher,German,williams,British
+16,2015,yas_marina,Abu Dhabi,5.281,16,alonso,Spanish,mclaren,British
+9,2009,catalunya,Montmeló,4.657,14,rosberg,German,williams,British
+14,2017,sepang,Kuala Lumpur,5.543,15,sainz,Spanish,toro_rosso,Italian
+13,2010,silverstone,Silverstone,5.891,18,hulkenberg,German,williams,British
+7,2017,hungaroring,Budapest,4.381,14,alonso,Spanish,mclaren,British
+20,2008,albert_park,Melbourne,5.278,16,piquet_jr,Brazilian,renault,French
+2,2017,rodriguez,Mexico City,4.304,17,max_verstappen,Dutch,red_bull,Austrian
+6,2014,yas_marina,Abu Dhabi,5.281,16,button,British,mclaren,British
+16,2002,sepang,Kuala Lumpur,5.543,15,bernoldi,Brazilian,arrows,British
+16,2017,bahrain,Sakhir,5.412,15,sainz,Spanish,toro_rosso,Italian
+6,2021,red_bull_ring,Spielberg,4.318,10,gasly,French,alphatauri,Italian
+20,1999,sepang,Kuala Lumpur,5.543,15,rosa,Spanish,arrows,British
+15,1999,spa,Spa,7.004,20,wurz,Austrian,benetton,Italian
+8,2011,buddh,Uttar Pradesh,5.141,16,sutil,German,force_india,Indian
+3,2015,sochi,Sochi,5.848,15,bottas,Finnish,williams,British
+15,2020,nurburgring,Nürburg,5.148,15,kevin_magnussen,Danish,haas,American
+14,2021,catalunya,Montmeló,4.657,14,giovinazzi,Italian,alfa,Swiss
+14,2018,albert_park,Melbourne,5.278,16,ocon,French,force_india,Indian
+1,2004,albert_park,Melbourne,5.278,16,michael_schumacher,German,ferrari,Italian
+18,2019,monza,Monza,5.793,11,perez,Mexican,racing_point,British
+20,2005,shanghai,Shanghai,5.451,16,doornbos,Dutch,minardi,Italian
+17,2011,suzuka,Suzuka,5.807,18,perez,Mexican,sauber,Swiss
+7,2022,americas,Austin,5.513,20,bottas,Finnish,alfa,Swiss
+19,2009,sepang,Kuala Lumpur,5.543,15,sutil,German,force_india,Indian
+10,1999,nurburgring,Nürburg,5.148,15,trulli,Italian,prost,French
+18,2020,mugello,Mugello,5.245,15,russell,British,williams,British
+17,2023,marina_bay,Marina Bay,4.94,19,piastri,Australian,mclaren,British
+17,2001,monza,Monza,5.793,11,panis,French,bar,British
+20,2011,interlagos,São Paulo,4.309,15,trulli,Italian,lotus_racing,Malaysian
+13,2022,monaco,Monte-Carlo,3.337,19,kevin_magnussen,Danish,haas,American
+12,2021,rodriguez,Mexico City,4.304,17,alonso,Spanish,alpine,French
+9,2006,magny_cours,Magny Cours,4.411,16,coulthard,British,red_bull,Austrian
+17,1996,silverstone,Silverstone,5.891,18,diniz,Brazilian,ligier,French
+14,2016,rodriguez,Mexico City,4.304,17,kevin_magnussen,Danish,renault,French
+3,2010,shanghai,Shanghai,5.451,16,alonso,Spanish,ferrari,Italian
+6,2003,sepang,Kuala Lumpur,5.543,15,heidfeld,German,sauber,Swiss
+14,2008,bahrain,Sakhir,5.412,15,piquet_jr,Brazilian,renault,French
+19,2015,suzuka,Suzuka,5.807,18,rossi,American,manor,British
+9,2021,red_bull_ring,Spielberg,4.318,10,stroll,Canadian,aston_martin,British
+17,1998,galvez,Buenos Aires,4.259,18,salo,Finnish,arrows,British
+14,2013,yeongam,Yeongam County,5.615,18,sutil,German,force_india,Indian
+19,2012,monza,Monza,5.793,11,glock,German,marussia,Russian
+12,2021,istanbul,Istanbul,5.338,14,ocon,French,alpine,French
+9,2024,red_bull_ring,Spielberg,4.318,10,hulkenberg,German,haas,American
+12,2013,sepang,Kuala Lumpur,5.543,15,hulkenberg,German,sauber,Swiss
+4,2019,hockenheimring,Hockenheim,4.574,16,gasly,French,red_bull,Austrian
+4,2020,red_bull_ring,Spielberg,4.318,10,albon,Thai,red_bull,Austrian
+8,2013,shanghai,Shanghai,5.451,16,button,British,mclaren,British
+2,1997,suzuka,Suzuka,5.807,18,michael_schumacher,German,ferrari,Italian
+9,2022,monza,Monza,5.793,11,zhou,Chinese,alfa,Swiss
+16,1998,interlagos,São Paulo,4.309,15,magnussen,Danish,stewart,British
+14,2019,monaco,Monte-Carlo,3.337,19,raikkonen,Finnish,alfa,Swiss
+3,2019,interlagos,São Paulo,4.309,15,hamilton,British,mercedes,German
+5,2020,bahrain,Sakhir,5.412,15,perez,Mexican,racing_point,British
+20,1998,catalunya,Montmeló,4.657,14,nakano,Japanese,minardi,Italian
+9,2003,interlagos,São Paulo,4.309,15,montoya,Colombian,williams,British
+5,2009,yas_marina,Abu Dhabi,5.281,16,button,British,brawn,British
+3,2003,imola,Imola,4.909,19,barrichello,Brazilian,ferrari,Italian
+10,2012,marina_bay,Marina Bay,4.94,19,rosberg,German,mercedes,German
+1,2023,suzuka,Suzuka,5.807,18,max_verstappen,Dutch,red_bull,Austrian
+20,2019,monaco,Monte-Carlo,3.337,19,kubica,Polish,williams,British
+11,2010,suzuka,Suzuka,5.807,18,heidfeld,German,sauber,Swiss
+7,2015,shanghai,Shanghai,5.451,16,ricciardo,Australian,red_bull,Austrian
+14,1996,nurburgring,Nürburg,5.148,15,salo,Finnish,tyrrell,British
+4,2000,albert_park,Melbourne,5.278,16,barrichello,Brazilian,ferrari,Italian
+16,2005,bahrain,Sakhir,5.412,15,monteiro,Portuguese,jordan,Irish
+10,2006,catalunya,Montmeló,4.657,14,heidfeld,German,bmw_sauber,German
+20,2020,red_bull_ring,Spielberg,4.318,10,latifi,Canadian,williams,British
+23,2012,yeongam,Yeongam County,5.615,18,karthikeyan,Indian,hrt,Spanish
+3,2021,bahrain,Sakhir,5.412,15,bottas,Finnish,mercedes,German
+6,2001,spa,Spa,7.004,20,villeneuve,Canadian,bar,British
+9,1996,estoril,Estoril,4.36,13,barrichello,Brazilian,jordan,Irish
+8,2003,nurburgring,Nürburg,5.148,15,alonso,Spanish,renault,French
+17,2020,bahrain,Sakhir,5.412,15,aitken,British,williams,British
+3,2019,albert_park,Melbourne,5.278,16,vettel,German,ferrari,Italian
+20,2012,suzuka,Suzuka,5.807,18,rosa,Spanish,hrt,Spanish
+5,1998,hockenheimring,Hockenheim,4.574,16,damon_hill,British,jordan,Irish
+15,2002,interlagos,São Paulo,4.309,15,villeneuve,Canadian,bar,British
+5,2019,albert_park,Melbourne,5.278,16,leclerc,Monegasque,ferrari,Italian
+0,2017,albert_park,Melbourne,5.278,16,ricciardo,Australian,red_bull,Austrian
+8,2004,shanghai,Shanghai,5.451,16,panis,French,toyota,Japanese
+22,1997,suzuka,Suzuka,5.807,18,salo,Finnish,tyrrell,British
+17,1997,monza,Monza,5.793,11,diniz,Brazilian,arrows,British
+20,2004,monza,Monza,5.793,11,heidfeld,German,jordan,Irish
+4,2012,americas,Austin,5.513,20,raikkonen,Finnish,lotus_f1,British
+22,2007,sepang,Kuala Lumpur,5.543,15,barrichello,Brazilian,honda,Japanese
+20,2005,hungaroring,Budapest,4.381,14,monteiro,Portuguese,jordan,Irish
+5,2007,monza,Monza,5.793,11,raikkonen,Finnish,ferrari,Italian
+7,2020,red_bull_ring,Spielberg,4.318,10,gasly,French,alphatauri,Italian
+21,2006,albert_park,Melbourne,5.278,16,sato,Japanese,super_aguri,Japanese
+3,2018,hungaroring,Budapest,4.381,14,raikkonen,Finnish,ferrari,Italian
+18,2011,monza,Monza,5.793,11,alguersuari,Spanish,toro_rosso,Italian
+9,2014,silverstone,Silverstone,5.891,18,kvyat,Russian,toro_rosso,Italian
+5,2014,monza,Monza,5.793,11,kevin_magnussen,Danish,mclaren,British
+17,1997,red_bull_ring,Spielberg,4.318,10,diniz,Brazilian,arrows,British
+15,1996,monza,Monza,5.793,11,verstappen,Dutch,footwork,British
+11,2018,silverstone,Silverstone,5.891,18,hulkenberg,German,renault,French
+13,2007,nurburgring,Nürburg,5.148,15,fisichella,Italian,renault,French
+4,2014,bahrain,Sakhir,5.412,15,perez,Mexican,force_india,Indian
+16,2022,rodriguez,Mexico City,4.304,17,vettel,German,aston_martin,British
+5,1998,catalunya,Montmeló,4.657,14,wurz,Austrian,benetton,Italian
+10,2000,spa,Spa,7.004,20,barrichello,Brazilian,ferrari,Italian
+9,1998,interlagos,São Paulo,4.309,15,panis,French,prost,French
+15,2015,shanghai,Shanghai,5.451,16,perez,Mexican,force_india,Indian
+16,2021,monaco,Monte-Carlo,3.337,19,tsunoda,Japanese,alphatauri,Italian
+16,2001,albert_park,Melbourne,5.278,16,button,British,benetton,Italian
+17,2012,marina_bay,Marina Bay,4.94,19,kobayashi,Japanese,sauber,Swiss
+15,2021,catalunya,Montmeló,4.657,14,russell,British,williams,British
+11,2001,hungaroring,Budapest,4.381,14,panis,French,bar,British
+15,2018,baku,Baku,6.003,20,kevin_magnussen,Danish,haas,American
+13,2008,hungaroring,Budapest,4.381,14,coulthard,British,red_bull,Austrian
+14,2019,catalunya,Montmeló,4.657,14,raikkonen,Finnish,alfa,Swiss
+16,2022,bahrain,Sakhir,5.412,15,tsunoda,Japanese,alphatauri,Italian
+4,2014,hockenheimring,Hockenheim,4.574,16,kevin_magnussen,Danish,mclaren,British
+21,2014,marina_bay,Marina Bay,4.94,19,chilton,British,marussia,Russian
+10,2024,imola,Imola,4.909,19,hulkenberg,German,haas,American
+17,2002,hungaroring,Budapest,4.381,14,salo,Finnish,toyota,Japanese
+4,2002,imola,Imola,4.909,19,montoya,Colombian,williams,British
+7,2000,red_bull_ring,Spielberg,4.318,10,villeneuve,Canadian,bar,British
+12,2006,monaco,Monte-Carlo,3.337,19,liuzzi,Italian,toro_rosso,Italian
+15,2019,monza,Monza,5.793,11,kubica,Polish,williams,British
+2,2004,catalunya,Montmeló,4.657,14,montoya,Colombian,williams,British
+18,2022,monza,Monza,5.793,11,sainz,Spanish,ferrari,Italian
+9,2007,spa,Spa,7.004,20,kovalainen,Finnish,renault,French
+10,2001,indianapolis,Indianapolis,4.192,13,button,British,benetton,Italian
+1,2001,red_bull_ring,Spielberg,4.318,10,michael_schumacher,German,ferrari,Italian
+7,2007,bahrain,Sakhir,5.412,15,fisichella,Italian,renault,French
+5,1996,villeneuve,Montreal,4.361,14,irvine,British,ferrari,Italian
+20,2006,monaco,Monte-Carlo,3.337,19,montagny,French,super_aguri,Japanese
+18,2021,monza,Monza,5.793,11,mick_schumacher,German,haas,American
+17,2017,sepang,Kuala Lumpur,5.543,15,kevin_magnussen,Danish,haas,American
+10,2022,jeddah,Jeddah,6.174,27,kevin_magnussen,Danish,haas,American
+13,2000,monza,Monza,5.793,11,wurz,Austrian,benetton,Italian
+9,2021,baku,Baku,6.003,20,norris,British,mclaren,British
+2,2006,monza,Monza,5.793,11,michael_schumacher,German,ferrari,Italian
+12,2019,shanghai,Shanghai,5.451,16,perez,Mexican,racing_point,British
+3,2019,baku,Baku,6.003,20,vettel,German,ferrari,Italian
+4,2023,zandvoort,Zandvoort,4.259,14,albon,Thai,williams,British
+14,1997,hungaroring,Budapest,4.381,14,ralf_schumacher,German,jordan,Irish
+9,2008,valencia,Valencia,5.419,25,rosberg,German,williams,British
+1,1996,imola,Imola,4.909,19,michael_schumacher,German,ferrari,Italian
+13,2009,istanbul,Istanbul,5.338,14,glock,German,toyota,Japanese
+7,2016,spa,Spa,7.004,20,hulkenberg,German,force_india,Indian
+5,2015,albert_park,Melbourne,5.278,16,raikkonen,Finnish,ferrari,Italian
+20,2019,ricard,Le Castellet,5.842,15,russell,British,williams,British
+6,2015,silverstone,Silverstone,5.891,18,vettel,German,ferrari,Italian
+15,2001,catalunya,Montmeló,4.657,14,alesi,French,prost,French
+5,1996,magny_cours,Magny Cours,4.411,16,hakkinen,Finnish,mclaren,British
+12,2020,bahrain,Sakhir,5.412,15,albon,Thai,red_bull,Austrian
+10,2010,hungaroring,Budapest,4.381,14,hulkenberg,German,williams,British
+19,2019,spa,Spa,7.004,20,kvyat,Russian,toro_rosso,Italian
+1,2021,istanbul,Istanbul,5.338,14,bottas,Finnish,mercedes,German
+12,2018,monza,Monza,5.793,11,sirotkin,Russian,williams,British
+14,2013,monza,Monza,5.793,11,maldonado,Venezuelan,williams,British
+7,1999,spa,Spa,7.004,20,barrichello,Brazilian,stewart,British
+12,1999,sepang,Kuala Lumpur,5.543,15,panis,French,prost,French
+7,2003,sepang,Kuala Lumpur,5.543,15,raikkonen,Finnish,mclaren,British
+11,2001,monza,Monza,5.793,11,button,British,benetton,Italian
+18,1999,catalunya,Montmeló,4.657,14,wurz,Austrian,benetton,Italian
+18,2016,sepang,Kuala Lumpur,5.543,15,nasr,Brazilian,sauber,Swiss
+8,2022,yas_marina,Abu Dhabi,5.281,16,ocon,French,alpine,French
+14,2009,interlagos,São Paulo,4.309,15,button,British,brawn,British
+1,2014,yas_marina,Abu Dhabi,5.281,16,rosberg,German,mercedes,German
+2,2005,catalunya,Montmeló,4.657,14,webber,Australian,williams,British
+15,2019,shanghai,Shanghai,5.451,16,norris,British,mclaren,British
+17,2009,suzuka,Suzuka,5.807,18,grosjean,French,renault,French
+20,2009,valencia,Valencia,5.419,25,badoer,Italian,ferrari,Italian
+7,2019,monza,Monza,5.793,11,sainz,Spanish,mclaren,British
+10,2021,bahrain,Sakhir,5.412,15,stroll,Canadian,aston_martin,British
+1,2012,bahrain,Sakhir,5.412,15,vettel,German,red_bull,Austrian
+2,2012,bahrain,Sakhir,5.412,15,hamilton,British,mclaren,British
+5,2004,interlagos,São Paulo,4.309,15,button,British,bar,British
+2,2012,marina_bay,Marina Bay,4.94,19,maldonado,Venezuelan,williams,British
+4,2000,catalunya,Montmeló,4.657,14,coulthard,British,mclaren,British
+13,2004,albert_park,Melbourne,5.278,16,matta,Brazilian,toyota,Japanese
+15,2008,valencia,Valencia,5.419,25,piquet_jr,Brazilian,renault,French
+15,2010,catalunya,Montmeló,4.657,14,alguersuari,Spanish,toro_rosso,Italian
+4,2007,albert_park,Melbourne,5.278,16,hamilton,British,mclaren,British
+16,1996,estoril,Estoril,4.36,13,verstappen,Dutch,footwork,British
+8,2024,interlagos,São Paulo,4.309,15,piastri,Australian,mclaren,British
+3,2024,bahrain,Sakhir,5.412,15,russell,British,mercedes,German
+11,2016,sochi,Sochi,5.848,15,sainz,Spanish,toro_rosso,Italian
+8,2005,suzuka,Suzuka,5.807,18,villeneuve,Canadian,sauber,Swiss
+6,2016,red_bull_ring,Spielberg,4.318,10,rosberg,German,mercedes,German
+7,2015,monza,Monza,5.793,11,perez,Mexican,force_india,Indian
+7,2011,silverstone,Silverstone,5.891,18,maldonado,Venezuelan,williams,British
+1,2001,hungaroring,Budapest,4.381,14,michael_schumacher,German,ferrari,Italian
+16,2015,catalunya,Montmeló,4.657,14,ericsson,Swedish,sauber,Swiss
+20,2022,zandvoort,Zandvoort,4.259,14,latifi,Canadian,williams,British
+4,2004,monaco,Monte-Carlo,3.337,19,michael_schumacher,German,ferrari,Italian
+15,2022,red_bull_ring,Spielberg,4.318,10,albon,Thai,williams,British
+8,1997,catalunya,Montmeló,4.657,14,fisichella,Italian,jordan,Irish
+5,2002,red_bull_ring,Spielberg,4.318,10,heidfeld,German,sauber,Swiss
+9,1996,interlagos,São Paulo,4.309,15,frentzen,German,sauber,Swiss
+6,2019,yas_marina,Abu Dhabi,5.281,16,norris,British,mclaren,British
+14,2023,hungaroring,Budapest,4.381,14,stroll,Canadian,aston_martin,British
+19,2021,monaco,Monte-Carlo,3.337,19,mazepin,Russian,haas,American
+9,2018,sochi,Sochi,5.848,15,grosjean,French,haas,American
+11,2013,catalunya,Montmeló,4.657,14,ricciardo,Australian,toro_rosso,Italian
+11,2003,suzuka,Suzuka,5.807,18,heidfeld,German,sauber,Swiss
+19,1997,spa,Spa,7.004,20,salo,Finnish,tyrrell,British
+9,2019,interlagos,São Paulo,4.309,15,kevin_magnussen,Danish,haas,American
+4,2020,red_bull_ring,Spielberg,4.318,10,bottas,Finnish,mercedes,German
+6,1999,monaco,Monte-Carlo,3.337,19,frentzen,German,jordan,Irish
+1,1999,suzuka,Suzuka,5.807,18,michael_schumacher,German,ferrari,Italian
+11,2005,monaco,Monte-Carlo,3.337,19,massa,Brazilian,sauber,Swiss
+12,2006,magny_cours,Magny Cours,4.411,16,klien,Austrian,red_bull,Austrian
+4,2024,hungaroring,Budapest,4.381,14,sainz,Spanish,ferrari,Italian
+8,2024,miami,Miami,5.412,19,hamilton,British,mercedes,German
+12,2012,hockenheimring,Hockenheim,4.574,16,kobayashi,Japanese,sauber,Swiss
+20,1999,magny_cours,Magny Cours,4.411,16,badoer,Italian,minardi,Italian
+23,2010,hockenheimring,Hockenheim,4.574,16,glock,German,virgin,British
+18,2019,catalunya,Montmeló,4.657,14,giovinazzi,Italian,alfa,Swiss
+16,2005,istanbul,Istanbul,5.338,14,villeneuve,Canadian,sauber,Swiss
+4,2012,shanghai,Shanghai,5.451,16,raikkonen,Finnish,lotus_f1,British
+18,1998,villeneuve,Montreal,4.361,14,nakano,Japanese,minardi,Italian
+15,2024,zandvoort,Zandvoort,4.259,14,ocon,French,alpine,French
+15,2014,catalunya,Montmeló,4.657,14,vettel,German,red_bull,Austrian
+9,2023,miami,Miami,5.412,19,max_verstappen,Dutch,red_bull,Austrian
+6,2015,sepang,Kuala Lumpur,5.543,15,max_verstappen,Dutch,toro_rosso,Italian
+1,1997,spa,Spa,7.004,20,villeneuve,Canadian,williams,British
+4,2021,ricard,Le Castellet,5.842,15,perez,Mexican,red_bull,Austrian
+7,1999,hockenheimring,Hockenheim,4.574,16,panis,French,prost,French
+7,2006,suzuka,Suzuka,5.807,18,button,British,honda,Japanese
+10,2018,sochi,Sochi,5.848,15,ericsson,Swedish,sauber,Swiss
+18,2018,baku,Baku,6.003,20,ericsson,Swedish,sauber,Swiss
+15,2008,magny_cours,Magny Cours,4.411,16,nakajima,Japanese,williams,British
+13,2005,catalunya,Montmeló,4.657,14,karthikeyan,Indian,jordan,Irish
+11,2000,magny_cours,Magny Cours,4.411,16,herbert,British,jaguar,British
+9,2019,hockenheimring,Hockenheim,4.574,16,hulkenberg,German,renault,French
+9,2019,albert_park,Melbourne,5.278,16,raikkonen,Finnish,alfa,Swiss
+18,2024,monaco,Monte-Carlo,3.337,19,zhou,Chinese,sauber,Swiss
+13,1996,silverstone,Silverstone,5.891,18,herbert,British,sauber,Swiss
+18,2009,monaco,Monte-Carlo,3.337,19,trulli,Italian,toyota,Japanese
+8,2016,yas_marina,Abu Dhabi,5.281,16,perez,Mexican,force_india,Indian
+4,2017,baku,Baku,6.003,20,vettel,German,ferrari,Italian
+6,2008,monza,Monza,5.793,11,massa,Brazilian,ferrari,Italian
+9,2012,americas,Austin,5.513,20,maldonado,Venezuelan,williams,British
+9,2005,interlagos,São Paulo,4.309,15,barrichello,Brazilian,ferrari,Italian
+15,2000,villeneuve,Montreal,4.361,14,salo,Finnish,sauber,Swiss
+15,2020,red_bull_ring,Spielberg,4.318,10,grosjean,French,haas,American
+18,2015,marina_bay,Marina Bay,4.94,19,maldonado,Venezuelan,lotus_f1,British
+14,2000,suzuka,Suzuka,5.807,18,verstappen,Dutch,arrows,British
+19,2011,villeneuve,Montreal,4.361,14,kovalainen,Finnish,lotus_racing,Malaysian
+12,2012,albert_park,Melbourne,5.278,16,alonso,Spanish,ferrari,Italian
+18,2007,villeneuve,Montreal,4.361,14,ralf_schumacher,German,toyota,Japanese
+15,2021,portimao,Portimão,4.653,15,raikkonen,Finnish,alfa,Swiss
+15,2024,imola,Imola,4.909,19,gasly,French,alpine,French
+10,2024,catalunya,Montmeló,4.657,14,alonso,Spanish,aston_martin,British
+9,2011,yas_marina,Abu Dhabi,5.281,16,sutil,German,force_india,Indian
+18,2016,suzuka,Suzuka,5.807,18,ericsson,Swedish,sauber,Swiss
+13,2019,monza,Monza,5.793,11,grosjean,French,haas,American
+6,2018,hungaroring,Budapest,4.381,14,gasly,French,toro_rosso,Italian
+3,2016,suzuka,Suzuka,5.807,18,max_verstappen,Dutch,red_bull,Austrian
+10,1997,villeneuve,Montreal,4.361,14,panis,French,prost,French
+15,2020,monza,Monza,5.793,11,kevin_magnussen,Danish,haas,American
+17,2001,hockenheimring,Hockenheim,4.574,16,fisichella,Italian,benetton,Italian
+4,2021,jeddah,Jeddah,6.174,27,leclerc,Monegasque,ferrari,Italian
+13,2019,hockenheimring,Hockenheim,4.574,16,ricciardo,Australian,renault,French
+21,1999,sepang,Kuala Lumpur,5.543,15,badoer,Italian,minardi,Italian
+8,2001,catalunya,Montmeló,4.657,14,frentzen,German,jordan,Irish
+9,2019,baku,Baku,6.003,20,sainz,Spanish,mclaren,British
+18,2000,albert_park,Melbourne,5.278,16,gene,Spanish,minardi,Italian
+6,2010,yeongam,Yeongam County,5.615,18,massa,Brazilian,ferrari,Italian
+3,2013,nurburgring,Nürburg,5.148,15,webber,Australian,red_bull,Austrian
+17,2021,americas,Austin,5.513,20,mazepin,Russian,haas,American
+14,2001,indianapolis,Indianapolis,4.192,13,irvine,British,jaguar,British
+12,2003,magny_cours,Magny Cours,4.411,16,villeneuve,Canadian,bar,British
+16,2009,sepang,Kuala Lumpur,5.543,15,massa,Brazilian,ferrari,Italian
+8,2003,suzuka,Suzuka,5.807,18,raikkonen,Finnish,mclaren,British
+12,2013,hungaroring,Budapest,4.381,14,hulkenberg,German,sauber,Swiss
+11,2003,villeneuve,Montreal,4.361,14,coulthard,British,mclaren,British
+3,2008,magny_cours,Magny Cours,4.411,16,alonso,Spanish,renault,French
+4,2023,monza,Monza,5.793,11,russell,British,mercedes,German
+20,2015,rodriguez,Mexico City,4.304,17,button,British,mclaren,British
+13,2008,spa,Spa,7.004,20,glock,German,toyota,Japanese
+12,2001,monaco,Monte-Carlo,3.337,19,panis,French,bar,British
+17,2019,silverstone,Silverstone,5.891,18,kvyat,Russian,toro_rosso,Italian
+5,2004,hockenheimring,Hockenheim,4.574,16,alonso,Spanish,renault,French
+11,2006,magny_cours,Magny Cours,4.411,16,heidfeld,German,bmw_sauber,German
+18,2009,spa,Spa,7.004,20,nakajima,Japanese,williams,British
+0,2024,baku,Baku,6.003,20,hamilton,British,mercedes,German
+10,1997,albert_park,Melbourne,5.278,16,berger,Austrian,benetton,Italian
+9,2024,silverstone,Silverstone,5.891,18,albon,Thai,williams,British
+8,2009,monaco,Monte-Carlo,3.337,19,webber,Australian,red_bull,Austrian
+9,2003,monaco,Monte-Carlo,3.337,19,webber,Australian,jaguar,British
+7,2016,rodriguez,Mexico City,4.304,17,vettel,German,ferrari,Italian
+7,2015,spa,Spa,7.004,20,maldonado,Venezuelan,lotus_f1,British
+8,2004,hungaroring,Budapest,4.381,14,fisichella,Italian,sauber,Swiss
+12,2004,magny_cours,Magny Cours,4.411,16,webber,Australian,jaguar,British
+7,2016,bahrain,Sakhir,5.412,15,massa,Brazilian,williams,British
+22,2001,imola,Imola,4.909,19,marques,Brazilian,minardi,Italian
+4,2011,valencia,Valencia,5.419,25,alonso,Spanish,ferrari,Italian
+22,2010,valencia,Valencia,5.419,25,glock,German,virgin,British
+3,1997,monza,Monza,5.793,11,fisichella,Italian,jordan,Irish
+1,2006,albert_park,Melbourne,5.278,16,button,British,honda,Japanese
+11,2016,sepang,Kuala Lumpur,5.543,15,bottas,Finnish,williams,British
+6,2018,shanghai,Shanghai,5.451,16,ricciardo,Australian,red_bull,Austrian
+15,2013,bahrain,Sakhir,5.412,15,bottas,Finnish,williams,British
+4,2002,interlagos,São Paulo,4.309,15,coulthard,British,mclaren,British
+3,2002,hungaroring,Budapest,4.381,14,ralf_schumacher,German,williams,British
+4,2020,silverstone,Silverstone,5.891,18,max_verstappen,Dutch,red_bull,Austrian
+11,2015,interlagos,São Paulo,4.309,15,perez,Mexican,force_india,Indian
+14,2005,spa,Spa,7.004,20,villeneuve,Canadian,sauber,Swiss
+18,2000,indianapolis,Indianapolis,4.192,13,rosa,Spanish,arrows,British
+19,2018,rodriguez,Mexico City,4.304,17,sirotkin,Russian,williams,British
+15,2001,hungaroring,Budapest,4.381,14,fisichella,Italian,benetton,Italian
+20,2014,sochi,Sochi,5.848,15,chilton,British,marussia,Russian
+5,2021,monza,Monza,5.793,11,leclerc,Monegasque,ferrari,Italian
+8,2000,sepang,Kuala Lumpur,5.543,15,ralf_schumacher,German,williams,British
+8,2000,indianapolis,Indianapolis,4.192,13,villeneuve,Canadian,bar,British
+20,2017,hungaroring,Budapest,4.381,14,ericsson,Swedish,sauber,Swiss
+19,2020,monza,Monza,5.793,11,russell,British,williams,British
+18,2024,suzuka,Suzuka,5.807,18,kevin_magnussen,Danish,haas,American
+15,1997,suzuka,Suzuka,5.807,18,nakano,Japanese,prost,French
+18,1996,albert_park,Melbourne,5.278,16,rosset,Brazilian,footwork,British
+3,1996,catalunya,Montmeló,4.657,14,michael_schumacher,German,ferrari,Italian
+20,2021,red_bull_ring,Spielberg,4.318,10,mazepin,Russian,haas,American
+20,1998,imola,Imola,4.909,19,magnussen,Danish,stewart,British
+6,2013,shanghai,Shanghai,5.451,16,grosjean,French,lotus_f1,British
+1,1998,interlagos,São Paulo,4.309,15,hakkinen,Finnish,mclaren,British
+12,2001,villeneuve,Montreal,4.361,14,zonta,Brazilian,jordan,Irish
+10,2008,spa,Spa,7.004,20,vettel,German,toro_rosso,Italian
+11,2015,albert_park,Melbourne,5.278,16,max_verstappen,Dutch,toro_rosso,Italian
+6,2018,marina_bay,Marina Bay,4.94,19,ricciardo,Australian,red_bull,Austrian
+2,2021,ricard,Le Castellet,5.842,15,hamilton,British,mercedes,German
+5,2021,imola,Imola,4.909,19,gasly,French,alphatauri,Italian
+4,2008,istanbul,Istanbul,5.338,14,raikkonen,Finnish,ferrari,Italian
+13,2006,istanbul,Istanbul,5.338,14,barrichello,Brazilian,honda,Japanese
+9,2007,monaco,Monte-Carlo,3.337,19,barrichello,Brazilian,honda,Japanese
+5,2002,hungaroring,Budapest,4.381,14,fisichella,Italian,jordan,Irish
+7,2012,sepang,Kuala Lumpur,5.543,15,rosberg,German,mercedes,German
+20,2024,jeddah,Jeddah,6.174,27,zhou,Chinese,sauber,Swiss
+6,2009,albert_park,Melbourne,5.278,16,massa,Brazilian,ferrari,Italian
+7,2004,suzuka,Suzuka,5.807,18,fisichella,Italian,sauber,Swiss
+17,1998,hockenheimring,Hockenheim,4.574,16,salo,Finnish,arrows,British
+16,2006,villeneuve,Montreal,4.361,14,webber,Australian,williams,British
+19,2019,villeneuve,Montreal,4.361,14,kubica,Polish,williams,British
+10,2016,monaco,Monte-Carlo,3.337,19,bottas,Finnish,williams,British
+20,2007,sepang,Kuala Lumpur,5.543,15,albers,Dutch,spyker,Dutch
+22,2001,nurburgring,Nürburg,5.148,15,marques,Brazilian,minardi,Italian
+17,2012,albert_park,Melbourne,5.278,16,raikkonen,Finnish,lotus_f1,British
+2,2003,suzuka,Suzuka,5.807,18,montoya,Colombian,williams,British
+11,2022,zandvoort,Zandvoort,4.259,14,gasly,French,alphatauri,Italian
+18,2007,bahrain,Sakhir,5.412,15,liuzzi,Italian,toro_rosso,Italian
+14,2007,bahrain,Sakhir,5.412,15,ralf_schumacher,German,toyota,Japanese
+21,2012,spa,Spa,7.004,20,rosa,Spanish,hrt,Spanish
+12,2020,silverstone,Silverstone,5.891,18,albon,Thai,red_bull,Austrian
+6,2013,villeneuve,Montreal,4.361,14,alonso,Spanish,ferrari,Italian
+12,2005,monaco,Monte-Carlo,3.337,19,liuzzi,Italian,red_bull,Austrian
+20,2009,catalunya,Montmeló,4.657,14,fisichella,Italian,force_india,Indian
+19,2021,losail,Al Daayen,5.419,16,mick_schumacher,German,haas,American
+20,1996,monaco,Monte-Carlo,3.337,19,rosset,Brazilian,footwork,British
+15,2022,miami,Miami,5.412,19,mick_schumacher,German,haas,American
+4,2017,albert_park,Melbourne,5.278,16,raikkonen,Finnish,ferrari,Italian
+15,1998,nurburgring,Nürburg,5.148,15,panis,French,prost,French
+13,2021,red_bull_ring,Spielberg,4.318,10,ricciardo,Australian,mclaren,British
+2,2008,silverstone,Silverstone,5.891,18,webber,Australian,red_bull,Austrian
+1,1999,monza,Monza,5.793,11,hakkinen,Finnish,mclaren,British
+3,2024,red_bull_ring,Spielberg,4.318,10,russell,British,mercedes,German
+2,1998,galvez,Buenos Aires,4.259,18,michael_schumacher,German,ferrari,Italian
+24,2012,villeneuve,Montreal,4.361,14,karthikeyan,Indian,hrt,Spanish
+5,2019,monaco,Monte-Carlo,3.337,19,kevin_magnussen,Danish,haas,American
+16,2006,silverstone,Silverstone,5.891,18,monteiro,Portuguese,mf1,Russian
+1,2003,silverstone,Silverstone,5.891,18,barrichello,Brazilian,ferrari,Italian
+2,2006,monaco,Monte-Carlo,3.337,19,webber,Australian,williams,British
+3,2015,marina_bay,Marina Bay,4.94,19,raikkonen,Finnish,ferrari,Italian
+15,2004,monaco,Monte-Carlo,3.337,19,matta,Brazilian,toyota,Japanese
+3,2017,shanghai,Shanghai,5.451,16,bottas,Finnish,mercedes,German
+11,2006,silverstone,Silverstone,5.891,18,coulthard,British,red_bull,Austrian
+15,2013,shanghai,Shanghai,5.451,16,vergne,French,toro_rosso,Italian
+20,2011,catalunya,Montmeló,4.657,14,glock,German,virgin,British
+16,1996,monaco,Monte-Carlo,3.337,19,brundle,British,jordan,Irish
+13,2015,suzuka,Suzuka,5.807,18,hulkenberg,German,force_india,Indian
+14,2005,suzuka,Suzuka,5.807,18,michael_schumacher,German,ferrari,Italian
+6,2006,shanghai,Shanghai,5.451,16,michael_schumacher,German,ferrari,Italian
+22,2010,interlagos,São Paulo,4.309,15,sutil,German,force_india,Indian
+5,2015,marina_bay,Marina Bay,4.94,19,hamilton,British,mercedes,German
+8,2011,nurburgring,Nürburg,5.148,15,sutil,German,force_india,Indian
+18,2009,interlagos,São Paulo,4.309,15,heidfeld,German,bmw_sauber,German
+11,1998,hockenheimring,Hockenheim,4.574,16,alesi,French,sauber,Swiss
+9,2003,albert_park,Melbourne,5.278,16,ralf_schumacher,German,williams,British
+11,2015,silverstone,Silverstone,5.891,18,perez,Mexican,force_india,Indian
+19,2011,catalunya,Montmeló,4.657,14,barrichello,Brazilian,williams,British
+10,2016,villeneuve,Montreal,4.361,14,alonso,Spanish,mclaren,British
+19,2004,albert_park,Melbourne,5.278,16,klien,Austrian,jaguar,British
+16,2015,albert_park,Melbourne,5.278,16,button,British,mclaren,British
+12,2008,catalunya,Montmeló,4.657,14,nakajima,Japanese,williams,British
+12,2007,magny_cours,Magny Cours,4.411,16,button,British,honda,Japanese
+1,2017,yas_marina,Abu Dhabi,5.281,16,bottas,Finnish,mercedes,German
+11,1998,catalunya,Montmeló,4.657,14,ralf_schumacher,German,jordan,Irish
+17,2005,imola,Imola,4.909,19,monteiro,Portuguese,jordan,Irish
+14,2022,hungaroring,Budapest,4.381,14,stroll,Canadian,aston_martin,British
+3,2014,sepang,Kuala Lumpur,5.543,15,rosberg,German,mercedes,German
+6,2003,villeneuve,Montreal,4.361,14,webber,Australian,jaguar,British
+24,2010,villeneuve,Montreal,4.361,14,chandhok,Indian,hrt,Spanish
+6,1998,silverstone,Silverstone,5.891,18,frentzen,German,williams,British
+20,2011,suzuka,Suzuka,5.807,18,ambrosio,Belgian,virgin,British
+2,2006,imola,Imola,4.909,19,button,British,honda,Japanese
+12,2019,yas_marina,Abu Dhabi,5.281,16,stroll,Canadian,racing_point,British
+14,1999,monaco,Monte-Carlo,3.337,19,alesi,French,sauber,Swiss
+5,2024,shanghai,Shanghai,5.451,16,piastri,Australian,mclaren,British
+21,1998,hungaroring,Budapest,4.381,14,tuero,Argentine,minardi,Italian
+1,2011,nurburgring,Nürburg,5.148,15,webber,Australian,red_bull,Austrian
+18,2009,marina_bay,Marina Bay,4.94,19,grosjean,French,renault,French
+17,2003,monaco,Monte-Carlo,3.337,19,panis,French,toyota,Japanese
+12,2012,catalunya,Montmeló,4.657,14,resta,British,force_india,Indian
+4,1997,suzuka,Suzuka,5.807,18,hakkinen,Finnish,mclaren,British
+13,1999,magny_cours,Magny Cours,4.411,16,wurz,Austrian,benetton,Italian
+3,2024,imola,Imola,4.909,19,leclerc,Monegasque,ferrari,Italian
+1,2023,vegas,Las Vegas,6.201,17,leclerc,Monegasque,ferrari,Italian
+7,1996,silverstone,Silverstone,5.891,18,berger,Austrian,benetton,Italian
+19,2017,baku,Baku,6.003,20,alonso,Spanish,mclaren,British
+12,2022,yas_marina,Abu Dhabi,5.281,16,mick_schumacher,German,haas,American
+2,2024,vegas,Las Vegas,6.201,17,sainz,Spanish,ferrari,Italian
+2,2019,silverstone,Silverstone,5.891,18,hamilton,British,mercedes,German
+8,2008,istanbul,Istanbul,5.338,14,trulli,Italian,toyota,Japanese
+2,2014,suzuka,Suzuka,5.807,18,hamilton,British,mercedes,German
+15,1996,hungaroring,Budapest,4.381,14,diniz,Brazilian,ligier,French
+15,2014,bahrain,Sakhir,5.412,15,gutierrez,Mexican,sauber,Swiss
+20,2018,albert_park,Melbourne,5.278,16,gasly,French,toro_rosso,Italian
+15,2010,marina_bay,Marina Bay,4.94,19,sutil,German,force_india,Indian
+4,2001,hockenheimring,Hockenheim,4.574,16,michael_schumacher,German,ferrari,Italian
+10,1999,villeneuve,Montreal,4.361,14,herbert,British,stewart,British
+15,2024,catalunya,Montmeló,4.657,14,zhou,Chinese,sauber,Swiss
+10,2021,red_bull_ring,Spielberg,4.318,10,sainz,Spanish,ferrari,Italian
+17,2023,silverstone,Silverstone,5.891,18,zhou,Chinese,alfa,Swiss
+13,2001,indianapolis,Indianapolis,4.192,13,panis,French,bar,British
+3,2011,catalunya,Montmeló,4.657,14,hamilton,British,mclaren,British
+18,2014,catalunya,Montmeló,4.657,14,jules_bianchi,French,marussia,Russian
+19,2009,albert_park,Melbourne,5.278,16,glock,German,toyota,Japanese
+18,2022,suzuka,Suzuka,5.807,18,kevin_magnussen,Danish,haas,American
+14,2008,magny_cours,Magny Cours,4.411,16,bourdais,French,toro_rosso,Italian
+15,2016,interlagos,São Paulo,4.309,15,sainz,Spanish,toro_rosso,Italian
+8,2016,bahrain,Sakhir,5.412,15,hulkenberg,German,force_india,Indian
+1,2022,red_bull_ring,Spielberg,4.318,10,max_verstappen,Dutch,red_bull,Austrian
+13,1997,hungaroring,Budapest,4.381,14,fisichella,Italian,jordan,Irish
+19,2007,istanbul,Istanbul,5.338,14,sutil,German,spyker,Dutch
+6,2017,catalunya,Montmeló,4.657,14,ricciardo,Australian,red_bull,Austrian
+3,2018,sochi,Sochi,5.848,15,vettel,German,ferrari,Italian
+6,2020,bahrain,Sakhir,5.412,15,ricciardo,Australian,renault,French
+17,2001,silverstone,Silverstone,5.891,18,verstappen,Dutch,arrows,British
+16,2005,suzuka,Suzuka,5.807,18,alonso,Spanish,renault,French
+22,2000,indianapolis,Indianapolis,4.192,13,gene,Spanish,minardi,Italian
+6,2017,marina_bay,Marina Bay,4.94,19,bottas,Finnish,mercedes,German
+11,2012,valencia,Valencia,5.419,25,alonso,Spanish,ferrari,Italian
+12,2010,bahrain,Sakhir,5.412,15,liuzzi,Italian,force_india,Indian
+7,2021,baku,Baku,6.003,20,tsunoda,Japanese,alphatauri,Italian
+16,2024,hungaroring,Budapest,4.381,14,perez,Mexican,red_bull,Austrian
+8,2014,albert_park,Melbourne,5.278,16,kvyat,Russian,toro_rosso,Italian
+2,2017,sochi,Sochi,5.848,15,raikkonen,Finnish,ferrari,Italian
+16,2013,monza,Monza,5.793,11,gutierrez,Mexican,sauber,Swiss
+16,2023,rodriguez,Mexico City,4.304,17,kevin_magnussen,Danish,haas,American
+12,2003,silverstone,Silverstone,5.891,18,coulthard,British,mclaren,British
+22,2007,spa,Spa,7.004,20,fisichella,Italian,renault,French
+20,2007,villeneuve,Montreal,4.361,14,sutil,German,spyker,Dutch
+20,2007,bahrain,Sakhir,5.412,15,sutil,German,spyker,Dutch
+23,2012,buddh,Uttar Pradesh,5.141,16,karthikeyan,Indian,hrt,Spanish
+7,2002,catalunya,Montmeló,4.657,14,coulthard,British,mclaren,British
+4,1997,monaco,Monte-Carlo,3.337,19,fisichella,Italian,jordan,Irish
+20,2023,jeddah,Jeddah,6.174,27,sargeant,American,williams,British
+12,2020,mugello,Mugello,5.245,15,kvyat,Russian,alphatauri,Italian
+17,2000,imola,Imola,4.909,19,herbert,British,jaguar,British
+19,2024,miami,Miami,5.412,19,zhou,Chinese,sauber,Swiss
+3,2011,hungaroring,Budapest,4.381,14,button,British,mclaren,British
+20,2013,bahrain,Sakhir,5.412,15,garde,Dutch,caterham,Malaysian
+3,2021,americas,Austin,5.513,20,perez,Mexican,red_bull,Austrian
+1,1999,nurburgring,Nürburg,5.148,15,frentzen,German,jordan,Irish
+1,1999,catalunya,Montmeló,4.657,14,hakkinen,Finnish,mclaren,British
+12,2024,red_bull_ring,Spielberg,4.318,10,kevin_magnussen,Danish,haas,American
+8,2015,americas,Austin,5.513,20,max_verstappen,Dutch,toro_rosso,Italian
+7,2007,sepang,Kuala Lumpur,5.543,15,kubica,Polish,bmw_sauber,German
+17,2003,imola,Imola,4.909,19,fisichella,Italian,jordan,Irish
+15,2019,baku,Baku,6.003,20,hulkenberg,German,renault,French
+20,2010,sepang,Kuala Lumpur,5.543,15,hamilton,British,mclaren,British
+7,2009,monza,Monza,5.793,11,liuzzi,Italian,force_india,Indian
+17,2016,interlagos,São Paulo,4.309,15,button,British,mclaren,British
+5,2018,hungaroring,Budapest,4.381,14,sainz,Spanish,renault,French
+13,2019,americas,Austin,5.513,20,kvyat,Russian,toro_rosso,Italian
+14,2006,sepang,Kuala Lumpur,5.543,15,michael_schumacher,German,ferrari,Italian
+20,2021,hungaroring,Budapest,4.381,14,mick_schumacher,German,haas,American
+12,1998,hungaroring,Budapest,4.381,14,diniz,Brazilian,arrows,British
+17,2002,sepang,Kuala Lumpur,5.543,15,rosa,Spanish,jaguar,British
+11,2010,sepang,Kuala Lumpur,5.543,15,petrov,Russian,renault,French
+18,2005,villeneuve,Montreal,4.361,14,monteiro,Portuguese,jordan,Irish
+14,2023,miami,Miami,5.412,19,zhou,Chinese,alfa,Swiss
+3,2011,buddh,Uttar Pradesh,5.141,16,alonso,Spanish,ferrari,Italian
+6,2013,monaco,Monte-Carlo,3.337,19,alonso,Spanish,ferrari,Italian
+9,2000,albert_park,Melbourne,5.278,16,fisichella,Italian,benetton,Italian
+22,2012,yas_marina,Abu Dhabi,5.281,16,rosa,Spanish,hrt,Spanish
+10,2006,imola,Imola,4.909,19,webber,Australian,williams,British
+14,2021,red_bull_ring,Spielberg,4.318,10,alonso,Spanish,alpine,French
+18,2018,ricard,Le Castellet,5.842,15,sirotkin,Russian,williams,British
+12,2023,spa,Spa,7.004,20,gasly,French,alpine,French
+20,1998,silverstone,Silverstone,5.891,18,rosset,Brazilian,tyrrell,British
+19,2001,monza,Monza,5.793,11,verstappen,Dutch,arrows,British
+1,2009,marina_bay,Marina Bay,4.94,19,hamilton,British,mclaren,British
+11,2021,silverstone,Silverstone,5.891,18,gasly,French,alphatauri,Italian
+2,2010,suzuka,Suzuka,5.807,18,webber,Australian,red_bull,Austrian
+12,2009,bahrain,Sakhir,5.412,15,nakajima,Japanese,williams,British
+6,2017,yas_marina,Abu Dhabi,5.281,16,max_verstappen,Dutch,red_bull,Austrian
+14,2002,silverstone,Silverstone,5.891,18,sato,Japanese,jordan,Irish
+10,2019,interlagos,São Paulo,4.309,15,norris,British,mclaren,British
+4,2017,americas,Austin,5.513,20,ricciardo,Australian,red_bull,Austrian
+10,2005,imola,Imola,4.909,19,ralf_schumacher,German,toyota,Japanese
+10,2018,interlagos,São Paulo,4.309,15,kevin_magnussen,Danish,haas,American
+17,2008,marina_bay,Marina Bay,4.94,19,bourdais,French,toro_rosso,Italian
+2,2005,nurburgring,Nürburg,5.148,15,raikkonen,Finnish,mclaren,British
+21,2016,rodriguez,Mexico City,4.304,17,jolyon_palmer,British,renault,French
+16,1998,imola,Imola,4.909,19,trulli,Italian,prost,French
+6,2003,hockenheimring,Hockenheim,4.574,16,michael_schumacher,German,ferrari,Italian
+5,2004,sepang,Kuala Lumpur,5.543,15,raikkonen,Finnish,mclaren,British
+9,2006,shanghai,Shanghai,5.451,16,kubica,Polish,bmw_sauber,German
+2,2024,zandvoort,Zandvoort,4.259,14,max_verstappen,Dutch,red_bull,Austrian
+19,2020,hungaroring,Budapest,4.381,14,giovinazzi,Italian,alfa,Swiss
+9,1997,silverstone,Silverstone,5.891,18,herbert,British,sauber,Swiss
+12,2006,monza,Monza,5.793,11,rosberg,German,williams,British
+15,2010,monaco,Monte-Carlo,3.337,19,rosa,Spanish,sauber,Swiss
+13,2007,shanghai,Shanghai,5.451,16,kovalainen,Finnish,renault,French
+8,2019,albert_park,Melbourne,5.278,16,norris,British,mclaren,British
+6,2014,sochi,Sochi,5.848,15,ricciardo,Australian,red_bull,Austrian
+13,2021,spa,Spa,7.004,20,bottas,Finnish,mercedes,German
+18,2011,yas_marina,Abu Dhabi,5.281,16,trulli,Italian,lotus_racing,Malaysian
+18,2006,sepang,Kuala Lumpur,5.543,15,ide,Japanese,super_aguri,Japanese
+19,2019,marina_bay,Marina Bay,4.94,19,kubica,Polish,williams,British
+8,2021,jeddah,Jeddah,6.174,27,tsunoda,Japanese,alphatauri,Italian
+15,2007,interlagos,São Paulo,4.309,15,ralf_schumacher,German,toyota,Japanese
+11,2017,shanghai,Shanghai,5.451,16,sainz,Spanish,toro_rosso,Italian
+5,2024,zandvoort,Zandvoort,4.259,14,perez,Mexican,red_bull,Austrian
+3,2007,interlagos,São Paulo,4.309,15,raikkonen,Finnish,ferrari,Italian
+9,2009,marina_bay,Marina Bay,4.94,19,barrichello,Brazilian,brawn,British
+6,2023,interlagos,São Paulo,4.309,15,norris,British,mclaren,British
+3,2006,magny_cours,Magny Cours,4.411,16,alonso,Spanish,renault,French
+15,2014,hungaroring,Budapest,4.381,14,jules_bianchi,French,marussia,Russian
+17,2016,spa,Spa,7.004,20,ocon,French,manor,British
+6,2008,shanghai,Shanghai,5.451,16,vettel,German,toro_rosso,Italian
+3,2008,fuji,Oyama,4.563,16,kovalainen,Finnish,mclaren,British
+4,2012,hungaroring,Budapest,4.381,14,button,British,mclaren,British
+4,2013,silverstone,Silverstone,5.891,18,webber,Australian,red_bull,Austrian
+13,2023,miami,Miami,5.412,19,hamilton,British,mercedes,German
+14,2011,catalunya,Montmeló,4.657,14,kobayashi,Japanese,sauber,Swiss
+24,2010,sepang,Kuala Lumpur,5.543,15,grassi,Brazilian,virgin,British
+19,2019,rodriguez,Mexico City,4.304,17,russell,British,williams,British
+7,2002,imola,Imola,4.909,19,heidfeld,German,sauber,Swiss
+10,2005,istanbul,Istanbul,5.338,14,klien,Austrian,red_bull,Austrian
+12,2001,monza,Monza,5.793,11,frentzen,German,prost,French
+14,2024,hungaroring,Budapest,4.381,14,sargeant,American,williams,British
+20,2006,catalunya,Montmeló,4.657,14,montagny,French,super_aguri,Japanese
+21,2006,imola,Imola,4.909,19,sato,Japanese,super_aguri,Japanese
+18,2000,spa,Spa,7.004,20,salo,Finnish,sauber,Swiss
+9,2024,jeddah,Jeddah,6.174,27,tsunoda,Japanese,rb,Italian
+11,2018,suzuka,Suzuka,5.807,18,ocon,French,force_india,Indian
+2,2017,americas,Austin,5.513,20,vettel,German,ferrari,Italian
+14,2018,monza,Monza,5.793,11,perez,Mexican,force_india,Indian
+2,2022,marina_bay,Marina Bay,4.94,19,perez,Mexican,red_bull,Austrian
+11,2016,marina_bay,Marina Bay,4.94,19,massa,Brazilian,williams,British
+20,2008,spa,Spa,7.004,20,fisichella,Italian,force_india,Indian
+19,2011,monza,Monza,5.793,11,trulli,Italian,lotus_racing,Malaysian
+9,2016,marina_bay,Marina Bay,4.94,19,alonso,Spanish,mclaren,British
+12,2003,monza,Monza,5.793,11,matta,Brazilian,toyota,Japanese
+6,2022,albert_park,Melbourne,5.278,16,russell,British,mercedes,German
+10,2022,americas,Austin,5.513,20,vettel,German,aston_martin,British
+1,1997,hockenheimring,Hockenheim,4.574,16,berger,Austrian,benetton,Italian
+15,2000,sepang,Kuala Lumpur,5.543,15,verstappen,Dutch,arrows,British
+24,2010,marina_bay,Marina Bay,4.94,19,massa,Brazilian,ferrari,Italian
+17,2000,monza,Monza,5.793,11,zonta,Brazilian,bar,British
+1,2019,monza,Monza,5.793,11,leclerc,Monegasque,ferrari,Italian
+22,2001,monaco,Monte-Carlo,3.337,19,marques,Brazilian,minardi,Italian
+3,2020,portimao,Portimão,4.653,15,max_verstappen,Dutch,red_bull,Austrian
+18,2008,istanbul,Istanbul,5.338,14,bourdais,French,toro_rosso,Italian
+5,2024,rodriguez,Mexico City,4.304,17,russell,British,mercedes,German
+15,2014,suzuka,Suzuka,5.807,18,gutierrez,Mexican,sauber,Swiss
+6,2009,bahrain,Sakhir,5.412,15,barrichello,Brazilian,brawn,British
+10,1998,monaco,Monte-Carlo,3.337,19,trulli,Italian,prost,French
+17,2011,monaco,Monte-Carlo,3.337,19,kovalainen,Finnish,lotus_racing,Malaysian
+14,2011,istanbul,Istanbul,5.338,14,maldonado,Venezuelan,williams,British
+13,2019,shanghai,Shanghai,5.451,16,raikkonen,Finnish,alfa,Swiss
+10,2014,silverstone,Silverstone,5.891,18,vergne,French,toro_rosso,Italian
+4,2013,yeongam,Yeongam County,5.615,18,rosberg,German,mercedes,German
+6,1997,albert_park,Melbourne,5.278,16,hakkinen,Finnish,mclaren,British
+17,2011,yeongam,Yeongam County,5.615,18,perez,Mexican,sauber,Swiss
+18,2011,monaco,Monte-Carlo,3.337,19,trulli,Italian,lotus_racing,Malaysian
+13,2010,marina_bay,Marina Bay,4.94,19,buemi,Swiss,toro_rosso,Italian
+2,2011,spa,Spa,7.004,20,hamilton,British,mclaren,British
+0,2020,hungaroring,Budapest,4.381,14,kevin_magnussen,Danish,haas,American
+15,2004,sepang,Kuala Lumpur,5.543,15,heidfeld,German,jordan,Irish
+3,2009,catalunya,Montmeló,4.657,14,barrichello,Brazilian,brawn,British
+9,2000,interlagos,São Paulo,4.309,15,button,British,williams,British
+8,2020,istanbul,Istanbul,5.338,14,raikkonen,Finnish,alfa,Swiss
+10,2007,albert_park,Melbourne,5.278,16,sato,Japanese,super_aguri,Japanese
+23,2010,hungaroring,Budapest,4.381,14,kobayashi,Japanese,sauber,Swiss
+12,2008,shanghai,Shanghai,5.451,16,glock,German,toyota,Japanese
+3,2014,sochi,Sochi,5.848,15,bottas,Finnish,williams,British
+9,2007,sepang,Kuala Lumpur,5.543,15,ralf_schumacher,German,toyota,Japanese
+15,1996,monaco,Monte-Carlo,3.337,19,katayama,Japanese,tyrrell,British
+12,2006,sepang,Kuala Lumpur,5.543,15,speed,American,toro_rosso,Italian
+16,2009,interlagos,São Paulo,4.309,15,kovalainen,Finnish,mclaren,British
+2,2001,villeneuve,Montreal,4.361,14,ralf_schumacher,German,williams,British
+1,2011,marina_bay,Marina Bay,4.94,19,vettel,German,red_bull,Austrian
+3,2024,monaco,Monte-Carlo,3.337,19,sainz,Spanish,ferrari,Italian
+15,2018,ricard,Le Castellet,5.842,15,ericsson,Swedish,sauber,Swiss
+14,2016,interlagos,São Paulo,4.309,15,kvyat,Russian,toro_rosso,Italian
+10,1996,monza,Monza,5.793,11,barrichello,Brazilian,jordan,Irish
+11,2023,losail,Al Daayen,5.419,16,tsunoda,Japanese,alphatauri,Italian
+16,2000,albert_park,Melbourne,5.278,16,zonta,Brazilian,bar,British
+7,2005,imola,Imola,4.909,19,wurz,Austrian,mclaren,British
+16,1996,interlagos,São Paulo,4.309,15,katayama,Japanese,tyrrell,British
+16,1997,red_bull_ring,Spielberg,4.318,10,nakano,Japanese,prost,French
+6,2017,interlagos,São Paulo,4.309,15,alonso,Spanish,mclaren,British
+17,2003,indianapolis,Indianapolis,4.192,13,fisichella,Italian,jordan,Irish
+4,2003,hungaroring,Budapest,4.381,14,montoya,Colombian,williams,British
+3,2021,losail,Al Daayen,5.419,16,alonso,Spanish,alpine,French
+7,2021,silverstone,Silverstone,5.891,18,alonso,Spanish,alpine,French
+17,2018,red_bull_ring,Spielberg,4.318,10,sirotkin,Russian,williams,British
+16,2024,marina_bay,Marina Bay,4.94,19,ricciardo,Australian,rb,Italian
+9,2016,monza,Monza,5.793,11,hulkenberg,German,force_india,Indian
+2,2014,marina_bay,Marina Bay,4.94,19,rosberg,German,mercedes,German
+5,2012,buddh,Uttar Pradesh,5.141,16,alonso,Spanish,ferrari,Italian
+17,2009,hungaroring,Budapest,4.381,14,sutil,German,force_india,Indian
+16,2018,suzuka,Suzuka,5.807,18,hulkenberg,German,renault,French
+20,2016,hockenheimring,Hockenheim,4.574,16,grosjean,French,haas,American
+0,2020,istanbul,Istanbul,5.338,14,latifi,Canadian,williams,British
+13,2014,albert_park,Melbourne,5.278,16,sutil,German,sauber,Swiss
+18,2001,indianapolis,Indianapolis,4.192,13,villeneuve,Canadian,bar,British
+19,2004,silverstone,Silverstone,5.891,18,baumgartner,Hungarian,minardi,Italian
+12,2009,sepang,Kuala Lumpur,5.543,15,hamilton,British,mclaren,British
+14,2006,hungaroring,Budapest,4.381,14,button,British,honda,Japanese
+17,2004,monza,Monza,5.793,11,pantano,Italian,jordan,Irish
+7,1996,catalunya,Montmeló,4.657,14,barrichello,Brazilian,jordan,Irish
+3,1997,hockenheimring,Hockenheim,4.574,16,hakkinen,Finnish,mclaren,British
+17,2014,red_bull_ring,Spielberg,4.318,10,gutierrez,Mexican,sauber,Swiss
+11,2001,indianapolis,Indianapolis,4.192,13,raikkonen,Finnish,sauber,Swiss
+8,2023,villeneuve,Montreal,4.361,14,piastri,Australian,mclaren,British
+18,1999,hockenheimring,Hockenheim,4.574,16,zonta,Brazilian,bar,British
+2,1998,hockenheimring,Hockenheim,4.574,16,coulthard,British,mclaren,British
+10,2018,ricard,Le Castellet,5.842,15,grosjean,French,haas,American
+14,2000,monaco,Monte-Carlo,3.337,19,button,British,williams,British
+17,2017,spa,Spa,7.004,20,ericsson,Swedish,sauber,Swiss
+16,2019,americas,Austin,5.513,20,giovinazzi,Italian,alfa,Swiss
+6,2024,bahrain,Sakhir,5.412,15,alonso,Spanish,aston_martin,British
+18,2008,bahrain,Sakhir,5.412,15,fisichella,Italian,force_india,Indian
+6,2010,valencia,Valencia,5.419,25,kubica,Polish,renault,French
+1,2021,zandvoort,Zandvoort,4.259,14,max_verstappen,Dutch,red_bull,Austrian
+8,1997,hungaroring,Budapest,4.381,14,coulthard,British,mclaren,British
+9,2012,yeongam,Yeongam County,5.615,18,rosberg,German,mercedes,German
+13,2014,villeneuve,Montreal,4.361,14,perez,Mexican,force_india,Indian
+11,2021,ricard,Le Castellet,5.842,15,ocon,French,alpine,French
+15,2021,interlagos,São Paulo,4.309,15,tsunoda,Japanese,alphatauri,Italian
+8,2024,red_bull_ring,Spielberg,4.318,10,perez,Mexican,red_bull,Austrian
+12,2001,catalunya,Montmeló,4.657,14,montoya,Colombian,williams,British
+3,2014,yas_marina,Abu Dhabi,5.281,16,bottas,Finnish,williams,British
+17,2006,magny_cours,Magny Cours,4.411,16,button,British,honda,Japanese
+9,2012,valencia,Valencia,5.419,25,button,British,mclaren,British
+4,2023,albert_park,Melbourne,5.278,16,alonso,Spanish,aston_martin,British
+19,1996,suzuka,Suzuka,5.807,18,rosset,Brazilian,footwork,British
+5,1999,albert_park,Melbourne,5.278,16,frentzen,German,jordan,Irish
+18,2022,albert_park,Melbourne,5.278,16,latifi,Canadian,williams,British
+21,1998,hockenheimring,Hockenheim,4.574,16,tuero,Argentine,minardi,Italian
+10,2008,istanbul,Istanbul,5.338,14,coulthard,British,red_bull,Austrian
+5,1998,monza,Monza,5.793,11,irvine,British,ferrari,Italian
+18,2018,silverstone,Silverstone,5.891,18,sirotkin,Russian,williams,British
+9,2010,bahrain,Sakhir,5.412,15,kubica,Polish,renault,French
+20,2012,americas,Austin,5.513,20,pic,French,marussia,Russian
+14,2020,bahrain,Sakhir,5.412,15,russell,British,williams,British
+10,1997,catalunya,Montmeló,4.657,14,herbert,British,sauber,Swiss
+17,2023,monaco,Monte-Carlo,3.337,19,kevin_magnussen,Danish,haas,American
+18,2005,silverstone,Silverstone,5.891,18,albers,Dutch,minardi,Italian
+5,2013,yeongam,Yeongam County,5.615,18,alonso,Spanish,ferrari,Italian
+1,2004,sepang,Kuala Lumpur,5.543,15,michael_schumacher,German,ferrari,Italian
+12,2023,rodriguez,Mexico City,4.304,17,hulkenberg,German,haas,American
+21,1999,interlagos,São Paulo,4.309,15,villeneuve,Canadian,bar,British
+19,2002,silverstone,Silverstone,5.891,18,irvine,British,jaguar,British
+9,2018,spa,Spa,7.004,20,kevin_magnussen,Danish,haas,American
+11,2014,spa,Spa,7.004,20,kvyat,Russian,toro_rosso,Italian
+11,2016,bahrain,Sakhir,5.412,15,sainz,Spanish,toro_rosso,Italian
+19,2022,baku,Baku,6.003,20,stroll,Canadian,aston_martin,British
+18,2000,suzuka,Suzuka,5.807,18,zonta,Brazilian,bar,British
+10,2008,hungaroring,Budapest,4.381,14,piquet_jr,Brazilian,renault,French
+19,2006,shanghai,Shanghai,5.451,16,yamamoto,Japanese,super_aguri,Japanese
+18,2002,indianapolis,Indianapolis,4.192,13,webber,Australian,minardi,Italian
+5,1999,magny_cours,Magny Cours,4.411,16,frentzen,German,jordan,Irish
+13,2024,silverstone,Silverstone,5.891,18,tsunoda,Japanese,rb,Italian
+14,1997,imola,Imola,4.909,19,alesi,French,benetton,Italian
+15,2000,hockenheimring,Hockenheim,4.574,16,salo,Finnish,sauber,Swiss
+14,2000,silverstone,Silverstone,5.891,18,herbert,British,jaguar,British
+10,2016,yas_marina,Abu Dhabi,5.281,16,massa,Brazilian,williams,British
+1,2005,sepang,Kuala Lumpur,5.543,15,alonso,Spanish,renault,French
+5,2003,sepang,Kuala Lumpur,5.543,15,barrichello,Brazilian,ferrari,Italian
+13,2024,suzuka,Suzuka,5.807,18,bottas,Finnish,sauber,Swiss
+1,1998,imola,Imola,4.909,19,coulthard,British,mclaren,British
+6,2021,spa,Spa,7.004,20,gasly,French,alphatauri,Italian
+5,2009,suzuka,Suzuka,5.807,18,raikkonen,Finnish,ferrari,Italian
+14,2009,silverstone,Silverstone,5.891,18,piquet_jr,Brazilian,renault,French
+3,2022,monaco,Monte-Carlo,3.337,19,perez,Mexican,red_bull,Austrian
+19,2001,hungaroring,Budapest,4.381,14,burti,Brazilian,prost,French
+14,1998,monaco,Monte-Carlo,3.337,19,barrichello,Brazilian,stewart,British
+12,1999,villeneuve,Montreal,4.361,14,zanardi,Italian,williams,British
+19,2001,sepang,Kuala Lumpur,5.543,15,mazzacane,Argentine,prost,French
+20,2015,monza,Monza,5.793,11,max_verstappen,Dutch,toro_rosso,Italian
+10,2015,red_bull_ring,Spielberg,4.318,10,maldonado,Venezuelan,lotus_f1,British
+5,2015,suzuka,Suzuka,5.807,18,massa,Brazilian,williams,British
+18,2007,catalunya,Montmeló,4.657,14,wurz,Austrian,williams,British
+10,2010,bahrain,Sakhir,5.412,15,sutil,German,force_india,Indian
+15,2016,hungaroring,Budapest,4.381,14,gutierrez,Mexican,haas,American
+12,2017,red_bull_ring,Spielberg,4.318,10,alonso,Spanish,mclaren,British
+10,2001,monaco,Monte-Carlo,3.337,19,fisichella,Italian,benetton,Italian
+4,2001,interlagos,São Paulo,4.309,15,montoya,Colombian,williams,British
+4,2021,yas_marina,Abu Dhabi,5.281,16,perez,Mexican,red_bull,Austrian
+1,2013,hungaroring,Budapest,4.381,14,hamilton,British,mercedes,German
+18,2017,bahrain,Sakhir,5.412,15,perez,Mexican,force_india,Indian
+11,1998,nurburgring,Nürburg,5.148,15,alesi,French,sauber,Swiss
+14,2011,marina_bay,Marina Bay,4.94,19,buemi,Swiss,toro_rosso,Italian
+4,2007,villeneuve,Montreal,4.361,14,raikkonen,Finnish,ferrari,Italian
+5,2017,interlagos,São Paulo,4.309,15,perez,Mexican,force_india,Indian
+18,2002,hockenheimring,Hockenheim,4.574,16,bernoldi,Brazilian,arrows,British
+17,1996,catalunya,Montmeló,4.657,14,diniz,Brazilian,ligier,French
+6,2002,spa,Spa,7.004,20,coulthard,British,mclaren,British
+3,2006,interlagos,São Paulo,4.309,15,trulli,Italian,toyota,Japanese
+21,1999,red_bull_ring,Spielberg,4.318,10,rosa,Spanish,arrows,British
+2,2020,spa,Spa,7.004,20,bottas,Finnish,mercedes,German
+1,2017,americas,Austin,5.513,20,hamilton,British,mercedes,German
+15,2022,villeneuve,Montreal,4.361,14,gasly,French,alphatauri,Italian
+16,2018,hockenheimring,Hockenheim,4.574,16,gasly,French,toro_rosso,Italian
+2,2022,suzuka,Suzuka,5.807,18,leclerc,Monegasque,ferrari,Italian
+12,2004,imola,Imola,4.909,19,massa,Brazilian,sauber,Swiss
+22,2013,monza,Monza,5.793,11,chilton,British,marussia,Russian
+15,2015,rodriguez,Mexico City,4.304,17,nasr,Brazilian,sauber,Swiss
+12,2010,interlagos,São Paulo,4.309,15,kobayashi,Japanese,sauber,Swiss
+7,2018,ricard,Le Castellet,5.842,15,sainz,Spanish,renault,French
+10,2008,monaco,Monte-Carlo,3.337,19,glock,German,toyota,Japanese
+13,2017,americas,Austin,5.513,20,ericsson,Swedish,sauber,Swiss
+14,2004,albert_park,Melbourne,5.278,16,fisichella,Italian,sauber,Swiss
+18,2009,albert_park,Melbourne,5.278,16,hamilton,British,mclaren,British
+5,2000,monaco,Monte-Carlo,3.337,19,hakkinen,Finnish,mclaren,British
+20,2018,villeneuve,Montreal,4.361,14,grosjean,French,haas,American
+20,2021,imola,Imola,4.909,19,tsunoda,Japanese,alphatauri,Italian
+14,1996,silverstone,Silverstone,5.891,18,salo,Finnish,tyrrell,British
+13,1997,spa,Spa,7.004,20,morbidelli,Italian,sauber,Swiss
+10,2008,sepang,Kuala Lumpur,5.543,15,glock,German,toyota,Japanese
+12,2001,nurburgring,Nürburg,5.148,15,irvine,British,jaguar,British
+6,2002,imola,Imola,4.909,19,coulthard,British,mclaren,British
+14,2000,magny_cours,Magny Cours,4.411,16,fisichella,Italian,benetton,Italian
+21,2011,monaco,Monte-Carlo,3.337,19,ambrosio,Belgian,virgin,British
+18,2018,hockenheimring,Hockenheim,4.574,16,stroll,Canadian,williams,British
+7,2016,marina_bay,Marina Bay,4.94,19,kvyat,Russian,toro_rosso,Italian
+5,2004,spa,Spa,7.004,20,fisichella,Italian,sauber,Swiss
+22,2000,hungaroring,Budapest,4.381,14,mazzacane,Argentine,minardi,Italian
+7,2021,sochi,Sochi,5.848,15,stroll,Canadian,aston_martin,British
+4,2021,zandvoort,Zandvoort,4.259,14,gasly,French,alphatauri,Italian
+11,2000,spa,Spa,7.004,20,fisichella,Italian,benetton,Italian
+4,1996,hockenheimring,Hockenheim,4.574,16,hakkinen,Finnish,mclaren,British
+3,2023,interlagos,São Paulo,4.309,15,stroll,Canadian,aston_martin,British
+18,2021,istanbul,Istanbul,5.338,14,mazepin,Russian,haas,American
+1,2003,monaco,Monte-Carlo,3.337,19,ralf_schumacher,German,williams,British
+22,2012,villeneuve,Montreal,4.361,14,maldonado,Venezuelan,williams,British
+21,2016,americas,Austin,5.513,20,nasr,Brazilian,sauber,Swiss
+2,2006,catalunya,Montmeló,4.657,14,fisichella,Italian,renault,French
+2,1999,monaco,Monte-Carlo,3.337,19,michael_schumacher,German,ferrari,Italian
+18,2000,red_bull_ring,Spielberg,4.318,10,button,British,williams,British
+13,1996,catalunya,Montmeló,4.657,14,verstappen,Dutch,footwork,British
+8,2022,zandvoort,Zandvoort,4.259,14,mick_schumacher,German,haas,American
+6,2010,spa,Spa,7.004,20,massa,Brazilian,ferrari,Italian
+5,1999,nurburgring,Nürburg,5.148,15,panis,French,prost,French
+6,1997,magny_cours,Magny Cours,4.411,16,trulli,Italian,prost,French
+14,2014,monaco,Monte-Carlo,3.337,19,grosjean,French,lotus_f1,British
+8,2007,sepang,Kuala Lumpur,5.543,15,trulli,Italian,toyota,Japanese
+3,2017,americas,Austin,5.513,20,bottas,Finnish,mercedes,German
+19,2000,catalunya,Montmeló,4.657,14,heidfeld,German,prost,French
+5,2007,istanbul,Istanbul,5.338,14,kubica,Polish,bmw_sauber,German
+8,2017,catalunya,Montmeló,4.657,14,perez,Mexican,force_india,Indian
+12,2013,catalunya,Montmeló,4.657,14,vergne,French,toro_rosso,Italian
+19,2020,silverstone,Silverstone,5.891,18,kvyat,Russian,alphatauri,Italian
+8,2017,monaco,Monte-Carlo,3.337,19,grosjean,French,haas,American
+7,2005,hockenheimring,Hockenheim,4.574,16,heidfeld,German,williams,British
+14,2022,marina_bay,Marina Bay,4.94,19,zhou,Chinese,alfa,Swiss
+13,2020,spa,Spa,7.004,20,leclerc,Monegasque,ferrari,Italian
+10,2001,spa,Spa,7.004,20,rosa,Spanish,jaguar,British
+20,1996,villeneuve,Montreal,4.361,14,badoer,Italian,forti,Italian
+19,2024,yas_marina,Abu Dhabi,5.281,16,leclerc,Monegasque,ferrari,Italian
+13,1999,sepang,Kuala Lumpur,5.543,15,zonta,Brazilian,bar,British
+20,2004,imola,Imola,4.909,19,raikkonen,Finnish,mclaren,British
+9,2012,marina_bay,Marina Bay,4.94,19,michael_schumacher,German,mercedes,German
+13,2023,jeddah,Jeddah,6.174,27,kevin_magnussen,Danish,haas,American
+12,2007,hungaroring,Budapest,4.381,14,wurz,Austrian,williams,British
+11,2000,hockenheimring,Hockenheim,4.574,16,verstappen,Dutch,arrows,British
+5,2015,interlagos,São Paulo,4.309,15,hulkenberg,German,force_india,Indian
+3,2018,catalunya,Montmeló,4.657,14,vettel,German,ferrari,Italian
+16,2008,fuji,Oyama,4.563,16,heidfeld,German,bmw_sauber,German
+7,2017,bahrain,Sakhir,5.412,15,hulkenberg,German,renault,French
+13,2012,yas_marina,Abu Dhabi,5.281,16,michael_schumacher,German,mercedes,German
+6,1997,jerez,Jerez de la Frontera,4.428,13,coulthard,British,mclaren,British
+9,2003,hockenheimring,Hockenheim,4.574,16,matta,Brazilian,toyota,Japanese
+4,2012,villeneuve,Montreal,4.361,14,webber,Australian,red_bull,Austrian
+22,2007,monaco,Monte-Carlo,3.337,19,albers,Dutch,spyker,Dutch
+2,1999,hungaroring,Budapest,4.381,14,irvine,British,ferrari,Italian
+5,2006,catalunya,Montmeló,4.657,14,barrichello,Brazilian,honda,Japanese
+12,2005,nurburgring,Nürburg,5.148,15,coulthard,British,red_bull,Austrian
+13,2010,villeneuve,Montreal,4.361,14,michael_schumacher,German,mercedes,German
+12,2013,yas_marina,Abu Dhabi,5.281,16,button,British,mclaren,British
+16,2000,indianapolis,Indianapolis,4.192,13,heidfeld,German,prost,French
+1,2013,monaco,Monte-Carlo,3.337,19,rosberg,German,mercedes,German
+2,2009,yas_marina,Abu Dhabi,5.281,16,vettel,German,red_bull,Austrian
+14,2004,spa,Spa,7.004,20,pizzonia,Brazilian,williams,British
+5,2003,suzuka,Suzuka,5.807,18,alonso,Spanish,renault,French
+19,2000,indianapolis,Indianapolis,4.192,13,herbert,British,jaguar,British
+10,2003,hungaroring,Budapest,4.381,14,panis,French,toyota,Japanese
+9,2008,bahrain,Sakhir,5.412,15,button,British,honda,Japanese
+7,1998,nurburgring,Nürburg,5.148,15,frentzen,German,williams,British
+13,2017,shanghai,Shanghai,5.451,16,alonso,Spanish,mclaren,British
+1,1997,hungaroring,Budapest,4.381,14,michael_schumacher,German,ferrari,Italian
+23,2012,hockenheimring,Hockenheim,4.574,16,rosa,Spanish,hrt,Spanish
+9,2012,villeneuve,Montreal,4.361,14,michael_schumacher,German,mercedes,German
+14,2017,monza,Monza,5.793,11,hulkenberg,German,renault,French
+4,2021,catalunya,Montmeló,4.657,14,leclerc,Monegasque,ferrari,Italian
+15,1999,catalunya,Montmeló,4.657,14,panis,French,prost,French
+14,2023,vegas,Las Vegas,6.201,17,ricciardo,Australian,alphatauri,Italian
+16,1996,villeneuve,Montreal,4.361,14,fisichella,Italian,minardi,Italian
+17,2013,shanghai,Shanghai,5.451,16,gutierrez,Mexican,sauber,Swiss
+19,2011,buddh,Uttar Pradesh,5.141,16,trulli,Italian,lotus_racing,Malaysian
+3,1996,silverstone,Silverstone,5.891,18,michael_schumacher,German,ferrari,Italian
+4,2010,shanghai,Shanghai,5.451,16,rosberg,German,mercedes,German
+7,1998,catalunya,Montmeló,4.657,14,herbert,British,sauber,Swiss
+14,2012,yeongam,Yeongam County,5.615,18,resta,British,force_india,Indian
+18,1998,red_bull_ring,Spielberg,4.318,10,herbert,British,sauber,Swiss
+2,1996,interlagos,São Paulo,4.309,15,barrichello,Brazilian,jordan,Irish
+19,2002,suzuka,Suzuka,5.807,18,webber,Australian,minardi,Italian
+14,2024,red_bull_ring,Spielberg,4.318,10,tsunoda,Japanese,rb,Italian
+18,2001,hockenheimring,Hockenheim,4.574,16,button,British,benetton,Italian
+20,2009,monaco,Monte-Carlo,3.337,19,glock,German,toyota,Japanese
+18,2001,red_bull_ring,Spielberg,4.318,10,alonso,Spanish,minardi,Italian
+8,2003,silverstone,Silverstone,5.891,18,alonso,Spanish,renault,French
+8,2013,bahrain,Sakhir,5.412,15,raikkonen,Finnish,lotus_f1,British
+17,2018,monza,Monza,5.793,11,vandoorne,Belgian,mclaren,British
+13,2012,interlagos,São Paulo,4.309,15,michael_schumacher,German,mercedes,German
+18,2017,marina_bay,Marina Bay,4.94,19,stroll,Canadian,williams,British
+15,2005,interlagos,São Paulo,4.309,15,karthikeyan,Indian,jordan,Irish
+6,1998,albert_park,Melbourne,5.278,16,frentzen,German,williams,British
+20,2000,villeneuve,Montreal,4.361,14,gene,Spanish,minardi,Italian
+6,2018,albert_park,Melbourne,5.278,16,grosjean,French,haas,American
+1,2014,marina_bay,Marina Bay,4.94,19,hamilton,British,mercedes,German
+1,2000,sepang,Kuala Lumpur,5.543,15,michael_schumacher,German,ferrari,Italian
+11,1996,interlagos,São Paulo,4.309,15,salo,Finnish,tyrrell,British
+20,2004,catalunya,Montmeló,4.657,14,baumgartner,Hungarian,minardi,Italian
+17,2007,catalunya,Montmeló,4.657,14,ralf_schumacher,German,toyota,Japanese
+1,2010,sepang,Kuala Lumpur,5.543,15,webber,Australian,red_bull,Austrian
+15,1997,nurburgring,Nürburg,5.148,15,diniz,Brazilian,arrows,British
+12,1998,villeneuve,Montreal,4.361,14,herbert,British,sauber,Swiss
+17,2016,shanghai,Shanghai,5.451,16,kevin_magnussen,Danish,renault,French
+10,2002,catalunya,Montmeló,4.657,14,frentzen,German,arrows,British
+18,2018,americas,Austin,5.513,20,max_verstappen,Dutch,red_bull,Austrian
+2,2012,americas,Austin,5.513,20,hamilton,British,mclaren,British
+17,2007,fuji,Oyama,4.563,16,barrichello,Brazilian,honda,Japanese
+17,2024,catalunya,Montmeló,4.657,14,tsunoda,Japanese,rb,Italian
+8,1999,red_bull_ring,Spielberg,4.318,10,ralf_schumacher,German,williams,British
+20,2003,silverstone,Silverstone,5.891,18,button,British,bar,British
+13,2021,baku,Baku,6.003,20,ricciardo,Australian,mclaren,British
+15,2018,red_bull_ring,Spielberg,4.318,10,vandoorne,Belgian,mclaren,British
+13,2002,catalunya,Montmeló,4.657,14,panis,French,bar,British
+16,2000,suzuka,Suzuka,5.807,18,heidfeld,German,prost,French
+3,2015,villeneuve,Montreal,4.361,14,raikkonen,Finnish,ferrari,Italian
+13,2012,villeneuve,Montreal,4.361,14,hulkenberg,German,force_india,Indian
+22,1997,spa,Spa,7.004,20,marques,Brazilian,minardi,Italian
+9,1998,imola,Imola,4.909,19,ralf_schumacher,German,jordan,Irish
+9,2013,suzuka,Suzuka,5.807,18,raikkonen,Finnish,lotus_f1,British
+10,2010,monaco,Monte-Carlo,3.337,19,liuzzi,Italian,force_india,Indian
+2,2014,bahrain,Sakhir,5.412,15,hamilton,British,mercedes,German
+9,2021,sochi,Sochi,5.848,15,ocon,French,alpine,French
+14,2020,istanbul,Istanbul,5.338,14,norris,British,mclaren,British
+3,2020,monza,Monza,5.793,11,sainz,Spanish,mclaren,British
+19,2016,baku,Baku,6.003,20,button,British,mclaren,British
+10,2002,monaco,Monte-Carlo,3.337,19,mcnish,British,toyota,Japanese
+8,2008,spa,Spa,7.004,20,kubica,Polish,bmw_sauber,German
+9,1998,nurburgring,Nürburg,5.148,15,villeneuve,Canadian,williams,British
+15,2013,silverstone,Silverstone,5.891,18,maldonado,Venezuelan,williams,British
+8,2021,monaco,Monte-Carlo,3.337,19,vettel,German,aston_martin,British
+20,2017,villeneuve,Montreal,4.361,14,wehrlein,German,sauber,Swiss
+9,2013,monza,Monza,5.793,11,button,British,mclaren,British
+15,2018,yas_marina,Abu Dhabi,5.281,16,alonso,Spanish,mclaren,British
+10,2021,istanbul,Istanbul,5.338,14,vettel,German,aston_martin,British
+19,2000,hungaroring,Budapest,4.381,14,heidfeld,German,prost,French
+20,2008,monaco,Monte-Carlo,3.337,19,fisichella,Italian,force_india,Indian
+15,2012,buddh,Uttar Pradesh,5.141,16,ricciardo,Australian,toro_rosso,Italian
+16,2021,bahrain,Sakhir,5.412,15,ocon,French,alpine,French
+6,2010,villeneuve,Montreal,4.361,14,massa,Brazilian,ferrari,Italian
+3,2014,americas,Austin,5.513,20,bottas,Finnish,williams,British
+10,2016,suzuka,Suzuka,5.807,18,gutierrez,Mexican,haas,American
+4,2017,interlagos,São Paulo,4.309,15,max_verstappen,Dutch,red_bull,Austrian
+17,2001,villeneuve,Montreal,4.361,14,bernoldi,Brazilian,arrows,British
+5,2003,silverstone,Silverstone,5.891,18,michael_schumacher,German,ferrari,Italian
+5,2005,istanbul,Istanbul,5.338,14,trulli,Italian,toyota,Japanese
+2,1997,nurburgring,Nürburg,5.148,15,villeneuve,Canadian,williams,British
+6,2023,bahrain,Sakhir,5.412,15,russell,British,mercedes,German
+7,2017,albert_park,Melbourne,5.278,16,massa,Brazilian,williams,British
+5,2006,villeneuve,Montreal,4.361,14,michael_schumacher,German,ferrari,Italian
+24,2012,catalunya,Montmeló,4.657,14,hamilton,British,mclaren,British
+10,2005,magny_cours,Magny Cours,4.411,16,villeneuve,Canadian,sauber,Swiss
+16,2023,marina_bay,Marina Bay,4.94,19,bottas,Finnish,alfa,Swiss
+6,2006,silverstone,Silverstone,5.891,18,barrichello,Brazilian,honda,Japanese
+3,2003,hungaroring,Budapest,4.381,14,webber,Australian,jaguar,British
+15,2020,yas_marina,Abu Dhabi,5.281,16,raikkonen,Finnish,alfa,Swiss
+1,2007,monaco,Monte-Carlo,3.337,19,alonso,Spanish,mclaren,British
+2,1998,imola,Imola,4.909,19,hakkinen,Finnish,mclaren,British
+17,2012,shanghai,Shanghai,5.451,16,ricciardo,Australian,toro_rosso,Italian
+8,2017,albert_park,Melbourne,5.278,16,sainz,Spanish,toro_rosso,Italian
+22,2011,villeneuve,Montreal,4.361,14,karthikeyan,Indian,hrt,Spanish
+8,2009,sepang,Kuala Lumpur,5.543,15,barrichello,Brazilian,brawn,British
+22,2000,red_bull_ring,Spielberg,4.318,10,mazzacane,Argentine,minardi,Italian
+1,2024,americas,Austin,5.513,20,norris,British,mclaren,British
+9,2015,suzuka,Suzuka,5.807,18,perez,Mexican,force_india,Indian
+10,2020,sochi,Sochi,5.848,15,leclerc,Monegasque,ferrari,Italian
+20,2016,shanghai,Shanghai,5.451,16,haryanto,Indonesian,manor,British
+18,2000,silverstone,Silverstone,5.891,18,salo,Finnish,sauber,Swiss
+11,1997,monaco,Monte-Carlo,3.337,19,larini,Italian,sauber,Swiss
+16,2020,monza,Monza,5.793,11,grosjean,French,haas,American
+12,2012,yeongam,Yeongam County,5.615,18,perez,Mexican,sauber,Swiss
+6,2002,silverstone,Silverstone,5.891,18,coulthard,British,mclaren,British
+18,2010,interlagos,São Paulo,4.309,15,trulli,Italian,lotus_racing,Malaysian
+21,2000,monza,Monza,5.793,11,gene,Spanish,minardi,Italian
+7,2001,monaco,Monte-Carlo,3.337,19,montoya,Colombian,williams,British
+22,2011,shanghai,Shanghai,5.451,16,glock,German,virgin,British
+17,2013,americas,Austin,5.513,20,maldonado,Venezuelan,williams,British
+8,2006,shanghai,Shanghai,5.451,16,heidfeld,German,bmw_sauber,German
+14,2011,suzuka,Suzuka,5.807,18,maldonado,Venezuelan,williams,British
+5,2016,shanghai,Shanghai,5.451,16,bottas,Finnish,williams,British
+21,2011,catalunya,Montmeló,4.657,14,liuzzi,Italian,hrt,Spanish
+3,1996,estoril,Estoril,4.36,13,alesi,French,benetton,Italian
+14,2006,shanghai,Shanghai,5.451,16,webber,Australian,williams,British
+18,2000,monza,Monza,5.793,11,herbert,British,jaguar,British
+4,2020,spa,Spa,7.004,20,ricciardo,Australian,renault,French
+3,2016,sochi,Sochi,5.848,15,raikkonen,Finnish,ferrari,Italian
+1,2008,silverstone,Silverstone,5.891,18,kovalainen,Finnish,mclaren,British
+1,2017,sepang,Kuala Lumpur,5.543,15,hamilton,British,mercedes,German
+5,2015,bahrain,Sakhir,5.412,15,bottas,Finnish,williams,British
+13,2022,bahrain,Sakhir,5.412,15,norris,British,mclaren,British
+2,2003,villeneuve,Montreal,4.361,14,montoya,Colombian,williams,British
+4,2019,albert_park,Melbourne,5.278,16,max_verstappen,Dutch,red_bull,Austrian
+7,1996,estoril,Estoril,4.36,13,hakkinen,Finnish,mclaren,British
+17,2010,shanghai,Shanghai,5.451,16,rosa,Spanish,sauber,Swiss
+3,2021,imola,Imola,4.909,19,max_verstappen,Dutch,red_bull,Austrian
+17,2008,fuji,Oyama,4.563,16,barrichello,Brazilian,honda,Japanese
+2,2006,sepang,Kuala Lumpur,5.543,15,button,British,honda,Japanese
+11,1998,red_bull_ring,Spielberg,4.318,10,villeneuve,Canadian,williams,British
+4,2020,nurburgring,Nürburg,5.148,15,leclerc,Monegasque,ferrari,Italian
+1,2002,red_bull_ring,Spielberg,4.318,10,barrichello,Brazilian,ferrari,Italian
+12,2006,silverstone,Silverstone,5.891,18,rosberg,German,williams,British
+19,2012,marina_bay,Marina Bay,4.94,19,kovalainen,Finnish,caterham,Malaysian
+9,2003,suzuka,Suzuka,5.807,18,button,British,bar,British
+10,2021,interlagos,São Paulo,4.309,15,hamilton,British,mercedes,German
+10,2011,shanghai,Shanghai,5.451,16,petrov,Russian,renault,French
+6,2009,silverstone,Silverstone,5.891,18,button,British,brawn,British
+20,2013,silverstone,Silverstone,5.891,18,chilton,British,marussia,Russian
+18,2001,suzuka,Suzuka,5.807,18,alonso,Spanish,minardi,Italian
+19,2001,silverstone,Silverstone,5.891,18,fisichella,Italian,benetton,Italian
+6,2013,monza,Monza,5.793,11,rosberg,German,mercedes,German
+7,2009,nurburgring,Nürburg,5.148,15,sutil,German,force_india,Indian
+14,2004,villeneuve,Montreal,4.361,14,webber,Australian,jaguar,British
+13,2001,villeneuve,Montreal,4.361,14,verstappen,Dutch,arrows,British
+3,2020,istanbul,Istanbul,5.338,14,perez,Mexican,racing_point,British
+12,2000,albert_park,Melbourne,5.278,16,rosa,Spanish,arrows,British
+16,1998,spa,Spa,7.004,20,diniz,Brazilian,arrows,British
+10,2016,sepang,Kuala Lumpur,5.543,15,massa,Brazilian,williams,British
+21,2001,silverstone,Silverstone,5.891,18,alonso,Spanish,minardi,Italian
+7,2005,magny_cours,Magny Cours,4.411,16,button,British,bar,British
+15,1997,magny_cours,Magny Cours,4.411,16,magnussen,Danish,stewart,British
+19,2007,villeneuve,Montreal,4.361,14,wurz,Austrian,williams,British
+4,2019,silverstone,Silverstone,5.891,18,max_verstappen,Dutch,red_bull,Austrian
+12,1998,catalunya,Montmeló,4.657,14,panis,French,prost,French
+4,2023,rodriguez,Mexico City,4.304,17,ricciardo,Australian,alphatauri,Italian
+2,2016,shanghai,Shanghai,5.451,16,ricciardo,Australian,red_bull,Austrian
+19,2012,villeneuve,Montreal,4.361,14,vergne,French,toro_rosso,Italian
+2,2007,catalunya,Montmeló,4.657,14,alonso,Spanish,mclaren,British
+13,2011,spa,Spa,7.004,20,button,British,mclaren,British
+15,2017,shanghai,Shanghai,5.451,16,vandoorne,Belgian,mclaren,British
+9,2015,shanghai,Shanghai,5.451,16,nasr,Brazilian,sauber,Swiss
+18,2024,jeddah,Jeddah,6.174,27,gasly,French,alpine,French
+2,2023,marina_bay,Marina Bay,4.94,19,russell,British,mercedes,German
+13,2008,fuji,Oyama,4.563,16,webber,Australian,red_bull,Austrian
+0,2023,baku,Baku,6.003,20,hulkenberg,German,haas,American
+17,2014,albert_park,Melbourne,5.278,16,chilton,British,marussia,Russian
+20,2023,silverstone,Silverstone,5.891,18,bottas,Finnish,alfa,Swiss
+13,2003,monza,Monza,5.793,11,fisichella,Italian,jordan,Irish
+14,2016,marina_bay,Marina Bay,4.94,19,ericsson,Swedish,sauber,Swiss
+17,2021,losail,Al Daayen,5.419,16,latifi,Canadian,williams,British
+9,2012,yas_marina,Abu Dhabi,5.281,16,grosjean,French,lotus_f1,British
+16,2007,sepang,Kuala Lumpur,5.543,15,liuzzi,Italian,toro_rosso,Italian
+8,2003,monaco,Monte-Carlo,3.337,19,alonso,Spanish,renault,French
+6,2011,interlagos,São Paulo,4.309,15,rosberg,German,mercedes,German
+18,2011,catalunya,Montmeló,4.657,14,trulli,Italian,lotus_racing,Malaysian
+4,1999,imola,Imola,4.909,19,irvine,British,ferrari,Italian
+17,2000,villeneuve,Montreal,4.361,14,alesi,French,prost,French
+11,1998,monaco,Monte-Carlo,3.337,19,alesi,French,sauber,Swiss
+16,2017,yas_marina,Abu Dhabi,5.281,16,grosjean,French,haas,American
+20,2017,red_bull_ring,Spielberg,4.318,10,wehrlein,German,sauber,Swiss
+9,2013,interlagos,São Paulo,4.309,15,massa,Brazilian,ferrari,Italian
+2,1997,monaco,Monte-Carlo,3.337,19,michael_schumacher,German,ferrari,Italian
+7,2004,imola,Imola,4.909,19,sato,Japanese,bar,British
+6,2012,yas_marina,Abu Dhabi,5.281,16,alonso,Spanish,ferrari,Italian
+22,2011,albert_park,Melbourne,5.278,16,ambrosio,Belgian,virgin,British
+4,2022,yas_marina,Abu Dhabi,5.281,16,sainz,Spanish,ferrari,Italian
+19,2017,americas,Austin,5.513,20,brendon_hartley,New Zealander,toro_rosso,Italian
+2,2001,silverstone,Silverstone,5.891,18,hakkinen,Finnish,mclaren,British
+17,2016,baku,Baku,6.003,20,wehrlein,German,manor,British
+2,2001,imola,Imola,4.909,19,hakkinen,Finnish,mclaren,British
+17,2024,baku,Baku,6.003,20,zhou,Chinese,sauber,Swiss
+18,2013,shanghai,Shanghai,5.451,16,jules_bianchi,French,marussia,Russian
+13,2004,monaco,Monte-Carlo,3.337,19,panis,French,toyota,Japanese
+11,2009,sepang,Kuala Lumpur,5.543,15,nakajima,Japanese,williams,British
+11,2013,americas,Austin,5.513,20,resta,British,force_india,Indian
+7,2018,sochi,Sochi,5.848,15,leclerc,Monegasque,sauber,Swiss
+15,2017,sepang,Kuala Lumpur,5.543,15,gasly,French,toro_rosso,Italian
+13,2024,catalunya,Montmeló,4.657,14,hulkenberg,German,haas,American
+8,2007,villeneuve,Montreal,4.361,14,kubica,Polish,bmw_sauber,German
+11,1998,interlagos,São Paulo,4.309,15,damon_hill,British,jordan,Irish
+13,2022,americas,Austin,5.513,20,kevin_magnussen,Danish,haas,American
+10,2002,suzuka,Suzuka,5.807,18,button,British,renault,French
+22,2016,bahrain,Sakhir,5.412,15,kevin_magnussen,Danish,renault,French
+17,2015,catalunya,Montmeló,4.657,14,hulkenberg,German,force_india,Indian
+19,2014,marina_bay,Marina Bay,4.94,19,jules_bianchi,French,marussia,Russian
+11,2004,magny_cours,Magny Cours,4.411,16,matta,Brazilian,toyota,Japanese
+4,2023,vegas,Las Vegas,6.201,17,gasly,French,alpine,French
+17,2012,catalunya,Montmeló,4.657,14,bruno_senna,Brazilian,williams,British
+10,2018,monaco,Monte-Carlo,3.337,19,gasly,French,toro_rosso,Italian
+2,2011,shanghai,Shanghai,5.451,16,button,British,mclaren,British
+5,2001,silverstone,Silverstone,5.891,18,frentzen,German,jordan,Irish
+12,2011,hungaroring,Budapest,4.381,14,petrov,Russian,renault,French
+3,2012,interlagos,São Paulo,4.309,15,webber,Australian,red_bull,Austrian
+19,2024,interlagos,São Paulo,4.309,15,zhou,Chinese,sauber,Swiss
+7,1998,villeneuve,Montreal,4.361,14,frentzen,German,williams,British
+15,2015,monaco,Monte-Carlo,3.337,19,grosjean,French,lotus_f1,British
+13,2011,monza,Monza,5.793,11,barrichello,Brazilian,williams,British
+19,2013,yas_marina,Abu Dhabi,5.281,16,pic,French,caterham,Malaysian
+7,2020,red_bull_ring,Spielberg,4.318,10,leclerc,Monegasque,ferrari,Italian
+11,1996,suzuka,Suzuka,5.807,18,barrichello,Brazilian,jordan,Irish
+17,2015,americas,Austin,5.513,20,rossi,American,manor,British
+20,2003,interlagos,São Paulo,4.309,15,wilson,British,minardi,Italian
+23,2011,interlagos,São Paulo,4.309,15,ambrosio,Belgian,virgin,British
+7,2000,sepang,Kuala Lumpur,5.543,15,irvine,British,jaguar,British
+22,2013,shanghai,Shanghai,5.451,16,webber,Australian,red_bull,Austrian
+17,1996,villeneuve,Montreal,4.361,14,katayama,Japanese,tyrrell,British
+3,2006,istanbul,Istanbul,5.338,14,alonso,Spanish,renault,French
+16,2022,interlagos,São Paulo,4.309,15,ocon,French,alpine,French
+3,2024,interlagos,São Paulo,4.309,15,tsunoda,Japanese,rb,Italian
+5,2012,marina_bay,Marina Bay,4.94,19,alonso,Spanish,ferrari,Italian
+18,2016,monza,Monza,5.793,11,nasr,Brazilian,sauber,Swiss
+2,2015,sepang,Kuala Lumpur,5.543,15,vettel,German,ferrari,Italian
+12,2015,monaco,Monte-Carlo,3.337,19,massa,Brazilian,williams,British
+2,2015,interlagos,São Paulo,4.309,15,hamilton,British,mercedes,German
+8,2012,silverstone,Silverstone,5.891,18,hamilton,British,mclaren,British
+16,2006,istanbul,Istanbul,5.338,14,coulthard,British,red_bull,Austrian
+13,2003,red_bull_ring,Spielberg,4.318,10,matta,Brazilian,toyota,Japanese
+13,2001,imola,Imola,4.909,19,irvine,British,jaguar,British
+10,2000,monaco,Monte-Carlo,3.337,19,irvine,British,jaguar,British
+11,2019,monza,Monza,5.793,11,kevin_magnussen,Danish,haas,American
+5,2006,monza,Monza,5.793,11,button,British,honda,Japanese
+4,2024,interlagos,São Paulo,4.309,15,ocon,French,alpine,French
+22,2007,bahrain,Sakhir,5.412,15,albers,Dutch,spyker,Dutch
+19,2007,spa,Spa,7.004,20,sutil,German,spyker,Dutch
+8,2009,marina_bay,Marina Bay,4.94,19,kovalainen,Finnish,mclaren,British
+16,2004,interlagos,São Paulo,4.309,15,heidfeld,German,jordan,Irish
+5,2007,nurburgring,Nürburg,5.148,15,kubica,Polish,bmw_sauber,German
+9,2012,bahrain,Sakhir,5.412,15,alonso,Spanish,ferrari,Italian
+13,2023,americas,Austin,5.513,20,bottas,Finnish,alfa,Swiss
+18,2015,monaco,Monte-Carlo,3.337,19,stevens,British,manor,British
+19,2023,zandvoort,Zandvoort,4.259,14,lawson,New Zealander,alphatauri,Italian
+22,2010,albert_park,Melbourne,5.278,16,chandhok,Indian,hrt,Spanish
+5,2012,silverstone,Silverstone,5.891,18,massa,Brazilian,ferrari,Italian
+19,1997,hungaroring,Budapest,4.381,14,diniz,Brazilian,arrows,British
+6,2019,monza,Monza,5.793,11,hulkenberg,German,renault,French
+5,2000,suzuka,Suzuka,5.807,18,button,British,williams,British
+6,2001,suzuka,Suzuka,5.807,18,fisichella,Italian,benetton,Italian
+3,2024,catalunya,Montmeló,4.657,14,hamilton,British,mercedes,German
+5,2015,red_bull_ring,Spielberg,4.318,10,hulkenberg,German,force_india,Indian
+15,2002,catalunya,Montmeló,4.657,14,villeneuve,Canadian,bar,British
+13,1997,hockenheimring,Hockenheim,4.574,16,damon_hill,British,arrows,British
+8,2024,spa,Spa,7.004,20,alonso,Spanish,aston_martin,British
+12,2008,villeneuve,Montreal,4.361,14,nakajima,Japanese,williams,British
+8,2012,monza,Monza,5.793,11,kobayashi,Japanese,sauber,Swiss
+4,2009,shanghai,Shanghai,5.451,16,barrichello,Brazilian,brawn,British
+19,1996,hungaroring,Budapest,4.381,14,lamy,Portuguese,minardi,Italian
+18,2008,magny_cours,Magny Cours,4.411,16,sutil,German,force_india,Indian
+2,2002,magny_cours,Magny Cours,4.411,16,michael_schumacher,German,ferrari,Italian
+15,2011,buddh,Uttar Pradesh,5.141,16,barrichello,Brazilian,williams,British
+1,2011,villeneuve,Montreal,4.361,14,vettel,German,red_bull,Austrian
+19,2014,hungaroring,Budapest,4.381,14,ericsson,Swedish,caterham,Malaysian
+17,2001,sepang,Kuala Lumpur,5.543,15,button,British,benetton,Italian
+12,2019,baku,Baku,6.003,20,kevin_magnussen,Danish,haas,American
+4,2010,valencia,Valencia,5.419,25,alonso,Spanish,ferrari,Italian
+20,2007,catalunya,Montmeló,4.657,14,sutil,German,spyker,Dutch
+1,2011,spa,Spa,7.004,20,vettel,German,red_bull,Austrian
+22,2013,catalunya,Montmeló,4.657,14,pic,French,caterham,Malaysian
+7,2008,bahrain,Sakhir,5.412,15,trulli,Italian,toyota,Japanese
+23,2010,monza,Monza,5.793,11,yamamoto,Japanese,hrt,Spanish
+18,2010,yas_marina,Abu Dhabi,5.281,16,buemi,Swiss,toro_rosso,Italian
+15,2013,yas_marina,Abu Dhabi,5.281,16,bottas,Finnish,williams,British
+5,2024,yas_marina,Abu Dhabi,5.281,16,gasly,French,alpine,French
+3,2011,villeneuve,Montreal,4.361,14,massa,Brazilian,ferrari,Italian
+9,2011,istanbul,Istanbul,5.338,14,heidfeld,German,renault,French
+6,2001,interlagos,São Paulo,4.309,15,barrichello,Brazilian,ferrari,Italian
+14,2002,magny_cours,Magny Cours,4.411,16,sato,Japanese,jordan,Irish
+23,2011,yeongam,Yeongam County,5.615,18,liuzzi,Italian,hrt,Spanish
+7,2018,suzuka,Suzuka,5.807,18,gasly,French,toro_rosso,Italian
+14,2023,interlagos,São Paulo,4.309,15,ocon,French,alpine,French
+7,2013,americas,Austin,5.513,20,perez,Mexican,mclaren,British
+4,2019,villeneuve,Montreal,4.361,14,ricciardo,Australian,renault,French
+7,2010,bahrain,Sakhir,5.412,15,michael_schumacher,German,mercedes,German
+9,2020,sochi,Sochi,5.848,15,gasly,French,alphatauri,Italian
+21,2013,marina_bay,Marina Bay,4.94,19,jules_bianchi,French,marussia,Russian
+16,2009,spa,Spa,7.004,20,buemi,Swiss,toro_rosso,Italian
+2,2020,red_bull_ring,Spielberg,4.318,10,max_verstappen,Dutch,red_bull,Austrian
+10,2017,baku,Baku,6.003,20,ricciardo,Australian,red_bull,Austrian
+7,2005,catalunya,Montmeló,4.657,14,montoya,Colombian,mclaren,British
+15,2020,catalunya,Montmeló,4.657,14,ocon,French,renault,French
+9,2020,bahrain,Sakhir,5.412,15,gasly,French,alphatauri,Italian
+9,2005,monza,Monza,5.793,11,ralf_schumacher,German,toyota,Japanese
+16,2008,silverstone,Silverstone,5.891,18,barrichello,Brazilian,honda,Japanese
+13,2012,sepang,Kuala Lumpur,5.543,15,bruno_senna,Brazilian,williams,British
+2,2019,spa,Spa,7.004,20,vettel,German,ferrari,Italian
+1,2004,monaco,Monte-Carlo,3.337,19,trulli,Italian,renault,French
+19,2013,interlagos,São Paulo,4.309,15,perez,Mexican,mclaren,British
+4,2008,hockenheimring,Hockenheim,4.574,16,trulli,Italian,toyota,Japanese
+22,1997,monza,Monza,5.793,11,marques,Brazilian,minardi,Italian
+6,2011,valencia,Valencia,5.419,25,button,British,mclaren,British
+5,2022,imola,Imola,4.909,19,norris,British,mclaren,British
+10,2012,suzuka,Suzuka,5.807,18,massa,Brazilian,ferrari,Italian
+13,1996,hockenheimring,Hockenheim,4.574,16,frentzen,German,sauber,Swiss
+7,2008,magny_cours,Magny Cours,4.411,16,coulthard,British,red_bull,Austrian
+14,2023,losail,Al Daayen,5.419,16,hulkenberg,German,haas,American
+16,2010,hockenheimring,Hockenheim,4.574,16,buemi,Swiss,toro_rosso,Italian
+5,2019,villeneuve,Montreal,4.361,14,gasly,French,red_bull,Austrian
+6,2021,monza,Monza,5.793,11,sainz,Spanish,ferrari,Italian
+17,2008,magny_cours,Magny Cours,4.411,16,fisichella,Italian,force_india,Indian
+7,1997,monaco,Monte-Carlo,3.337,19,herbert,British,sauber,Swiss
+6,1998,hungaroring,Budapest,4.381,14,villeneuve,Canadian,williams,British
+1,2018,hungaroring,Budapest,4.381,14,hamilton,British,mercedes,German
+1,2013,monza,Monza,5.793,11,vettel,German,red_bull,Austrian
+20,2001,interlagos,São Paulo,4.309,15,button,British,benetton,Italian
+10,2010,istanbul,Istanbul,5.338,14,kobayashi,Japanese,sauber,Swiss
+2,2015,albert_park,Melbourne,5.278,16,rosberg,German,mercedes,German
+3,1998,suzuka,Suzuka,5.807,18,coulthard,British,mclaren,British
+20,2006,monza,Monza,5.793,11,monteiro,Portuguese,spyker_mf1,Dutch
+10,2002,sepang,Kuala Lumpur,5.543,15,salo,Finnish,toyota,Japanese
+15,2024,spa,Spa,7.004,20,stroll,Canadian,aston_martin,British
+20,2018,shanghai,Shanghai,5.451,16,ericsson,Swedish,sauber,Swiss
