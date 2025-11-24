@@ -1,20 +1,21 @@
-# --- Raw and processed data ---
+# --- Données brutes et prétraitées ---
 data/raw/
 data/processed/
 
-# Allow versioning only for small samples (optional)
+# On autorise un dossier de petits échantillons versionnés
 !data/sample/
 
-# Ignore ALL CSV files everywhere
-*.csv
+# --- Fichiers temporaires Jupyter ---
+#.ipynb_checkpoints/
 
-# --- Jupyter temporary checkpoints ---
-.ipynb_checkpoints/
-
-# --- Python bytecode ---
+# --- Python ---
 __pycache__/
 *.pyc
 
-# --- Virtual environments ---
+## --- Images ---
+*.png
+*.jpg
+
+# --- Environnements ---
 .env
 .venv/
