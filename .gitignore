@@ -6,11 +6,15 @@ data/processed/
 !data/sample/
 
 # --- Fichiers temporaires Jupyter ---
-.ipynb_checkpoints/
+#.ipynb_checkpoints/
 
 # --- Python ---
 __pycache__/
 *.pyc
+
+## --- Images ---
+*.png
+*.jpg
 
 # --- Environnements ---
 .env
